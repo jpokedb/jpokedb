@@ -1,0 +1,120 @@
+No.,Mark,Card name,Type,Rarity
+001/100,D,Paras,Grass,C
+002/100,D,Parasect,Grass,C
+003/100,D,Carnivine,Grass,C
+004/100,D,Pansage,Grass,C
+005/100,D,Simisage,Grass,U
+006/100,D,Rowlet,Grass,C
+007/100,D,Dartrix,Grass,C
+008/100,D,Decidueye,Grass,R
+009/100,D,HoundoomV,Fire,RR
+010/100,D,Torchic,Fire,C
+011/100,D,Combusken,Fire,C
+012/100,D,Blaziken,Fire,R
+013/100,D,Pansear,Fire,C
+014/100,D,Simisear,Fire,U
+015/100,D,Galarian Darmanitan,Fire,U
+016/100,D,Suicune,Water,R
+017/100,D,Relicanth,Water,C
+018/100,D,Panpour,Water,C
+019/100,D,Simipour,Water,U
+020/100,D,Galarian Darumaka,Water,C
+021/100,D,Vanillite,Water,C
+022/100,D,Vanillish,Water,C
+023/100,D,Vanilluxe,Water,U
+024/100,D,Mareanie,Water,C
+025/100,D,Toxapex,Water,C
+026/100,D,DrednawV,Water,RR
+027/100,D,DrednawVMAX,Water,RRR
+028/100,D,Dracovish,Water,R
+029/100,D,Arctovish,Water,U
+030/100,D,Electrike,Lightning,C
+031/100,D,Manectric,Lightning,U
+032/100,D,Tapu Koko,Lightning,R
+033/100,D,Dracozolt,Lightning,U
+034/100,D,Arctozolt,Lightning,R
+035/100,D,Jigglypuff,Psychic,C
+036/100,D,Wigglytuff,Psychic,U
+037/100,D,Gothita,Psychic,C
+038/100,D,Gothorita,Psychic,C
+039/100,D,Gothitelle,Psychic,U
+040/100,D,Golett,Psychic,C
+041/100,D,Golurk,Psychic,U
+042/100,D,Mimikyu,Psychic,U
+043/100,D,Galarian CursolaV,Psychic,RR
+044/100,D,Trapinch,Fighting,C
+045/100,D,Vibrava,Fighting,C
+046/100,D,Flygon,Fighting,U
+047/100,D,Hippopotas,Fighting,C
+048/100,D,Hippowdon,Fighting,U
+049/100,D,RhyperiorV,Fighting,RR
+050/100,D,Passimian,Fighting,C
+051/100,D,Spinarak,Darkness,C
+052/100,D,Ariados,Darkness,U
+053/100,D,CrobatV,Darkness,RR
+054/100,D,Galarian Zigzagoon,Darkness,C
+055/100,D,Galarian Linoone,Darkness,C
+056/100,D,Galarian Obstagoon,Darkness,R
+057/100,D,Scraggy,Darkness,C
+058/100,D,Scrafty,Darkness,U
+059/100,D,Inkay,Darkness,C
+060/100,D,Malamar,Darkness,U
+061/100,D,Hoopa,Darkness,R
+062/100,D,Nickit,Darkness,C
+063/100,D,Thievul,Darkness,U
+064/100,D,EternatusV,Darkness,RR
+065/100,D,EternatusVMAX,Darkness,RRR
+066/100,D,ScizorV,Metal,RR
+067/100,D,ScizorVMAX,Metal,RRR
+068/100,D,Skarmory,Metal,C
+069/100,D,Klink,Metal,C
+070/100,D,Klang,Metal,C
+071/100,D,Klinklang,Metal,U
+072/100,D,Cufant,Metal,C
+073/100,D,Copperajah,Metal,R
+074/100,D,Kangaskhan,Colorless,R
+075/100,D,Dunsparce,Colorless,C
+076/100,D,Teddiursa,Colorless,C
+077/100,D,Ursaring,Colorless,C
+078/100,D,Skitty,Colorless,C
+079/100,D,Delcatty,Colorless,U
+080/100,D,SalamenceV,Colorless,RR
+081/100,D,SalamenceVMAX,Colorless,RRR
+082/100,D,Starly,Colorless,C
+083/100,D,Staravia,Colorless,C
+084/100,D,Staraptor,Colorless,U
+085/100,D,Ducklett,Colorless,C
+086/100,D,Swanna,Colorless,U
+087/100,D,Skwovet,Colorless,C
+088/100,D,Greedent,Colorless,U
+089/100,D,Yell Horn,I,U
+090/100,D,Turbo Patch,I,U
+091/100,D,Rare Fossil,I,C
+092/100,D,Cape of Toughness,I,U
+093/100,D,Billowing Smoke,I,U
+094/100,D,Bird Keeper,Su,U
+095/100,D,Piers,Su,U
+096/100,D,Rose,Su,U
+097/100,D,Spikemuth,St,U
+098/100,D,Rose Tower,St,U
+099/100,D,Hiding Darkness Energy,Darkness E,U
+100/100,D,Powerful Colorless Energy,Colorless E,U
+101/100,D,HoundoomV,Fire,SR
+102/100,D,DrednawV,Water,SR
+103/100,D,Galarian CursolaV,Psychic,SR
+104/100,D,RhyperiorV,Fighting,SR
+105/100,D,CrobatV,Darkness,SR
+106/100,D,EternatusV,Darkness,SR
+107/100,D,ScizorV,Metal,SR
+108/100,D,SalamenceV,Colorless,SR
+109/100,D,Piers,Su,SR
+110/100,D,Rose,Su,SR
+111/100,D,DrednawVMAX,Water,HR
+112/100,D,EternatusVMAX,Darkness,HR
+113/100,D,ScizorVMAX,Metal,HR
+114/100,D,SalamenceVMAX,Colorless,HR
+115/100,D,Piers,Su,HR
+116/100,D,Rose,Su,HR
+117/100,D,Coalossal,Fighting,UR
+118/100,D,Turbo Patch,I,UR
+119/100,D,Capture Energy,Colorless E,UR

@@ -1,0 +1,68 @@
+No.,Card,Type,Quantity
+001/029,Bulbasaur,Grass,1×
+002/029,Bulbasaur,Grass,1×
+003/029,Ivysaur,Grass,1×
+004/029,Venusaur,Grass,1×
+005/029,Chikorita,Grass,1×
+006/029,Chikorita,Grass,1×
+007/029,Bayleef,Grass,1×
+008/029,Meganium,Grass,1×
+009/029,Charmander,Fire,1×
+010/029,Charmander,Fire,1×
+011/029,Charmeleon,Fire,1×
+012/029,Charizard,Fire,1×
+013/029,Cyndaquil,Fire,1×
+014/029,Cyndaquil,Fire,1×
+015/029,Quilava,Fire,1×
+016/029,Typhlosion,Fire,1×
+017/029,Squirtle,Water,1×
+018/029,Squirtle,Water,1×
+019/029,Wartortle,Water,1×
+020/029,Blastoise,Water,1×
+021/029,Totodile,Water,1×
+022/029,Totodile,Water,1×
+023/029,Croconaw,Water,1×
+024/029,Feraligatr,Water,1×
+025/029,Potion,T,1×
+026/029,Full Heal,T,1×
+027/029,Switch,T,1×
+028/029,Energy Search,T,1×
+029/029,Moo-Moo Milk,T,1×
+001/128,Koffing,Grass,1×
+002/128,Hoppip,Grass,1×
+003/128,Caterpie,Grass,1×
+004/128,Ekans,Grass,1×
+005/128,Oddish,Grass,1×
+006/128,Vulpix,Fire,1×
+007/128,Ponyta,Fire,1×
+008/128,Poliwag,Water,1×
+009/128,Shellder,Water,1×
+010/128,Krabby,Water,1×
+011/128,Goldeen,Water,1×
+012/128,Magikarp,Water,1×
+013/128,Marill,Water,1×
+014/128,Qwilfish,Water,1×
+015/128,Corsola,Water,1×
+016/128,Pikachu,Lightning,1×
+017/128,Mareep,Lightning,1×
+018/128,Abra,Psychic,1×
+019/128,Gastly,Psychic,1×
+020/128,Diglett,Fighting,1×
+021/128,Machop,Fighting,1×
+022/128,Geodude,Fighting,1×
+023/128,Cubone,Fighting,1×
+024/128,Larvitar,Fighting,1×
+025/128,Pidgey,Colorless,1×
+026/128,Rattata,Colorless,1×
+027/128,Spearow,Colorless,1×
+028/128,Clefairy,Colorless,1×
+029/128,Meowth,Colorless,1×
+030/128,Tauros,Colorless,1×
+031/128,Dratini,Colorless,1×
+032/128,Houndour,Darkness,1×
+—,Grass Energy,Grass E,2×
+—,Fire Energy,Fire E,2×
+—,Water Energy,Water E,2×
+—,Lightning Energy,Lightning E,2×
+—,Psychic Energy,Psychic E,2×
+—,Fighting Energy,Fighting E,2×

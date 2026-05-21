@@ -1,0 +1,117 @@
+No.,Mark,Card name,Type,Rarity
+001/080,I,Oddish,Grass,C
+002/080,I,Gloom,Grass,C
+003/080,I,Vileplume,Grass,U
+004/080,I,Mega Heracrossex,Grass,RR
+005/080,I,Lotad,Grass,C
+006/080,I,Lombre,Grass,C
+007/080,I,Ludicolo,Grass,U
+008/080,I,Genesect,Grass,R
+009/080,I,Nymble,Grass,C
+010/080,I,Lokix,Grass,U
+011/080,I,Charmander,Fire,C
+012/080,I,Charmeleon,Fire,C
+013/080,I,Mega Charizard Xex,Fire,RR
+014/080,I,Moltres,Fire,U
+015/080,I,Darumaka,Fire,C
+016/080,I,Darmanitan,Fire,U
+017/080,I,Reshiram,Fire,R
+018/080,I,Oricorioex,Fire,RR
+019/080,I,Charcadet,Fire,C
+020/080,I,Ceruledge,Fire,U
+021/080,I,Seel,Water,C
+022/080,I,Dewgong,Water,C
+023/080,I,Swinub,Water,C
+024/080,I,Piloswine,Water,C
+025/080,I,Mamoswine,Water,U
+026/080,I,Suicune,Water,R
+027/080,I,Piplup,Water,C
+028/080,I,Prinplup,Water,C
+029/080,I,Rotomex,Lightning,RR
+030/080,I,Yamper,Lightning,C
+031/080,I,Boltund,Lightning,C
+032/080,I,Pawmi,Lightning,C
+033/080,I,Pawmo,Lightning,C
+034/080,I,Pawmot,Lightning,R
+035/080,I,Misdreavus,Psychic,C
+036/080,I,Mismagiusex,Psychic,RR
+037/080,I,Cottonee,Psychic,C
+038/080,I,Whimsicott,Psychic,U
+039/080,I,Zacian,Psychic,R
+040/080,I,Bramblin,Psychic,C
+041/080,I,Brambleghast,Psychic,U
+042/080,I,Paldean Tauros,Fighting,U
+043/080,I,Gligar,Fighting,C
+044/080,I,Gliscor,Fighting,U
+045/080,I,Trapinch,Fighting,C
+046/080,I,Vibrava,Fighting,C
+047/080,I,Flygon,Fighting,R
+048/080,I,Sneasel,Darkness,C
+049/080,I,Weavile,Darkness,U
+050/080,I,Carvanha,Darkness,C
+051/080,I,Mega Sharpedoex,Darkness,RR
+052/080,I,Seviper,Darkness,U
+053/080,I,Sandile,Darkness,C
+054/080,I,Krokorok,Darkness,C
+055/080,I,Krookodile,Darkness,U
+056/080,I,Toxel,Darkness,C
+057/080,I,Toxtricity,Darkness,R
+058/080,I,Empoleonex,Metal,RR
+059/080,I,Bronzor,Metal,C
+060/080,I,Bronzong,Metal,U
+061/080,I,Togedemaru,Metal,C
+062/080,I,Duraludon,Metal,C
+063/080,I,Archaludon,Metal,U
+064/080,I,Jigglypuff,Colorless,C
+065/080,I,Wigglytuff,Colorless,U
+066/080,I,Aipom,Colorless,C
+067/080,I,Ambipom,Colorless,R
+068/080,I,Smeargle,Colorless,C
+069/080,I,Zigzagoon,Colorless,C
+070/080,I,Linoone,Colorless,U
+071/080,I,Buneary,Colorless,C
+072/080,I,Mega Lopunnyex,Colorless,RR
+073/080,I,Jumbo Ice Cream,I,U
+074/080,I,Blowtorch,I,U
+075/080,I,Sacred Charm,PT,U
+076/080,I,Grimsley's Move,Su,U
+077/080,I,Dawn,Su,U
+078/080,I,Firebreather,Su,U
+079/080,I,Battle Cage,St,U
+080/080,I,Dizzying Valley,St,U
+081/080,I,Ludicolo,Grass,AR
+082/080,I,Nymble,Grass,AR
+083/080,I,Charcadet,Fire,AR
+084/080,I,Dewgong,Water,AR
+085/080,I,Piplup,Water,AR
+086/080,I,Yamper,Lightning,AR
+087/080,I,Zacian,Psychic,AR
+088/080,I,Flygon,Fighting,AR
+089/080,I,Toxtricity,Darkness,AR
+090/080,I,Togedemaru,Metal,AR
+091/080,I,Wigglytuff,Colorless,AR
+092/080,I,Ambipom,Colorless,AR
+093/080,I,Mega Heracrossex,Grass,SR
+094/080,I,Mega Charizard Xex,Fire,SR
+095/080,I,Oricorioex,Fire,SR
+096/080,I,Rotomex,Lightning,SR
+097/080,I,Mismagiusex,Psychic,SR
+098/080,I,Mega Sharpedoex,Darkness,SR
+099/080,I,Empoleonex,Metal,SR
+100/080,I,Mega Lopunnyex,Colorless,SR
+101/080,I,Blowtorch,I,SR
+102/080,I,Switch,I,SR
+103/080,I,Sacred Charm,PT,SR
+104/080,I,Punk Helmet,PT,SR
+105/080,I,Grimsley's Move,Su,SR
+106/080,I,Dawn,Su,SR
+107/080,I,Firebreather,Su,SR
+108/080,I,Battle Cage,St,SR
+109/080,I,Ignition Energy,Colorless E,SR
+110/080,I,Mega Charizard Xex,Fire,SAR
+111/080,I,Oricorioex,Fire,SAR
+112/080,I,Rotomex,Lightning,SAR
+113/080,I,Mega Sharpedoex,Darkness,SAR
+114/080,I,Mega Lopunnyex,Colorless,SAR
+115/080,I,Dawn,Su,SAR
+116/080,I,Mega Charizard Xex,Fire,MUR

@@ -1,0 +1,133 @@
+No.,Mark,Card name,Type,Rarity
+001/100,I,Caterpie,Grass,C
+002/100,I,Metapod,Grass,C
+003/100,I,Butterfree,Grass,U
+004/100,I,Paras,Grass,C
+005/100,I,Parasect,Grass,C
+006/100,I,Maractus,Grass,U
+007/100,I,Karrablast,Grass,C
+008/100,I,Shelmet,Grass,C
+009/100,I,Accelgor,Grass,U
+010/100,I,Sprigatito,Grass,C
+011/100,I,Floragato,Grass,C
+012/100,I,Meowscarada,Grass,R
+013/100,I,Magmar,Fire,C
+014/100,I,Magmortar,Fire,R
+015/100,I,N's Darumaka,Fire,C
+016/100,I,N's Darmanitan,Fire,U
+017/100,I,Volcanionex,Fire,RR
+018/100,I,Articuno,Water,U
+019/100,I,Remoraid,Water,C
+020/100,I,Octillery,Water,U
+021/100,I,Lotad,Water,C
+022/100,I,Lombre,Water,C
+023/100,I,Ludicolo,Water,U
+024/100,I,Wailmer,Water,C
+025/100,I,Wailord,Water,R
+026/100,I,Iono's Voltorb,Lightning,C
+027/100,I,Iono's Electrode,Lightning,U
+028/100,I,N's Joltik,Lightning,C
+029/100,I,Iono's Tadbulb,Lightning,C
+030/100,I,Iono's Belliboltex,Lightning,RR
+031/100,I,Iono's Wattrel,Lightning,C
+032/100,I,Iono's Kilowattrel,Lightning,R
+033/100,I,Lillie's Clefairyex,Psychic,RR
+034/100,I,Mr. Mime,Psychic,C
+035/100,I,Shuppet,Psychic,C
+036/100,I,Banette,Psychic,U
+037/100,I,Beldum,Psychic,C
+038/100,I,Metang,Psychic,C
+039/100,I,Metagross,Psychic,U
+040/100,I,N's Sigilyph,Psychic,C
+041/100,I,Lillie's Cutiefly,Psychic,C
+042/100,I,Lillie's Ribombee,Psychic,U
+043/100,I,Lillie's Comfey,Psychic,C
+044/100,I,Swinub,Fighting,C
+045/100,I,Piloswine,Fighting,C
+046/100,I,Mamoswineex,Fighting,RR
+047/100,I,Larvitar,Fighting,C
+048/100,I,Pupitar,Fighting,C
+049/100,I,Regirock,Fighting,U
+050/100,I,Pancham,Fighting,C
+051/100,I,Rockruff,Fighting,C
+052/100,I,Lycanroc,Fighting,R
+053/100,I,Hop's Silicobra,Fighting,C
+054/100,I,Hop's Sandaconda,Fighting,U
+055/100,I,Klawf,Fighting,U
+056/100,I,Koffing,Darkness,C
+057/100,I,Weezing,Darkness,U
+058/100,I,Tyranitar,Darkness,R
+059/100,I,N's Purrloin,Darkness,C
+060/100,I,N's Zorua,Darkness,C
+061/100,I,N's Zoroarkex,Darkness,RR
+062/100,I,Pangoro,Darkness,U
+063/100,I,Escavalier,Metal,U
+064/100,I,N's Klink,Metal,C
+065/100,I,N's Klang,Metal,C
+066/100,I,N's Klinklang,Metal,U
+067/100,I,Magearna,Metal,R
+068/100,I,Hop's Corviknight,Metal,U
+069/100,I,Hop's Zacianex,Metal,RR
+070/100,I,Bagon,Dragon,C
+071/100,I,Shelgon,Dragon,C
+072/100,I,Salamenceex,Dragon,RR
+073/100,I,Druddigon,Dragon,C
+074/100,I,N's Reshiram,Dragon,R
+075/100,I,Hop's Snorlax,Colorless,R
+076/100,I,Sentret,Colorless,C
+077/100,I,Furret,Colorless,C
+078/100,I,Dunsparce,Colorless,C
+079/100,I,Dudunsparceex,Colorless,RR
+080/100,I,Noibat,Colorless,C
+081/100,I,Noivern,Colorless,U
+082/100,I,Komala,Colorless,C
+083/100,I,Hop's Rookidee,Colorless,C
+084/100,I,Hop's Corvisquire,Colorless,C
+085/100,I,Hop's Wooloo,Colorless,C
+086/100,I,Hop's Dubwool,Colorless,R
+087/100,I,Hop's Cramorant,Colorless,U
+088/100,I,Super Potion,I,U
+089/100,I,N's PP Up,I,U
+090/100,I,Redeemable Ticket,I,U
+091/100,I,Hop's Bag,I,U
+092/100,I,Hop's Choice Band,PT,U
+093/100,I,Lillie's Pearl,PT,U
+094/100,I,Iris's Fighting Spirit,Su,U
+095/100,I,Ruffian,Su,U
+096/100,I,Brock's Scouting,Su,U
+097/100,I,N's Castle,St,U
+098/100,I,Levincia,St,U
+099/100,I,Postwick,St,U
+100/100,I,Spiky Energy,Colorless E,U
+101/100,I,Maractus,Grass,AR
+102/100,I,Articuno,Water,AR
+103/100,I,Wailord,Water,AR
+104/100,I,Iono's Kilowattrel,Lightning,AR
+105/100,I,Lillie's Ribombee,Psychic,AR
+106/100,I,Swinub,Fighting,AR
+107/100,I,Lycanroc,Fighting,AR
+108/100,I,N's Zorua,Darkness,AR
+109/100,I,N's Reshiram,Dragon,AR
+110/100,I,Furret,Colorless,AR
+111/100,I,Noibat,Colorless,AR
+112/100,I,Hop's Wooloo,Colorless,AR
+113/100,I,Volcanionex,Fire,SR
+114/100,I,Iono's Belliboltex,Lightning,SR
+115/100,I,Lillie's Clefairyex,Psychic,SR
+116/100,I,Mamoswineex,Fighting,SR
+117/100,I,N's Zoroarkex,Darkness,SR
+118/100,I,Hop's Zacianex,Metal,SR
+119/100,I,Salamenceex,Dragon,SR
+120/100,I,Dudunsparceex,Colorless,SR
+121/100,I,Iris's Fighting Spirit,Su,SR
+122/100,I,Ruffian,Su,SR
+123/100,I,Brock's Scouting,Su,SR
+124/100,I,Volcanionex,Fire,SAR
+125/100,I,Iono's Belliboltex,Lightning,SAR
+126/100,I,Lillie's Clefairyex,Psychic,SAR
+127/100,I,N's Zoroarkex,Darkness,SAR
+128/100,I,Hop's Zacianex,Metal,SAR
+129/100,I,Salamenceex,Dragon,SAR
+130/100,I,Iono's Belliboltex,Lightning,UR
+131/100,I,N's Zoroarkex,Darkness,UR
+132/100,I,Spiky Energy,Colorless E,UR

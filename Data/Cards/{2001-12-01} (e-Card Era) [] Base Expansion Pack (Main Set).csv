@@ -1,0 +1,129 @@
+No.,Card name,Type,Rarity
+001/128,Koffing,Grass,Common
+002/128,Hoppip,Grass,Common
+003/128,Caterpie,Grass,Common
+004/128,Ekans,Grass,Common
+005/128,Oddish,Grass,Common
+006/128,Vulpix,Fire,Common
+007/128,Ponyta,Fire,Common
+008/128,Poliwag,Water,Common
+009/128,Shellder,Water,Common
+010/128,Krabby,Water,Common
+011/128,Goldeen,Water,Common
+012/128,Magikarp,Water,Common
+013/128,Marill,Water,Common
+014/128,Qwilfish,Water,Common
+015/128,Corsola,Water,Common
+016/128,Pikachu,Lightning,Common
+017/128,Mareep,Lightning,Common
+018/128,Abra,Psychic,Common
+019/128,Gastly,Psychic,Common
+020/128,Diglett,Fighting,Common
+021/128,Machop,Fighting,Common
+022/128,Geodude,Fighting,Common
+023/128,Cubone,Fighting,Common
+024/128,Larvitar,Fighting,Common
+025/128,Pidgey,Colorless,Common
+026/128,Rattata,Colorless,Common
+027/128,Spearow,Colorless,Common
+028/128,Clefairy,Colorless,Common
+029/128,Meowth,Colorless,Common
+030/128,Tauros,Colorless,Common
+031/128,Dratini,Colorless,Common
+032/128,Houndour,Darkness,Common
+033/128,Metapod,Grass,Uncommon
+034/128,Gloom,Grass,Uncommon
+035/128,Magmar,Fire,Uncommon
+036/128,Poliwhirl,Water,Uncommon
+037/128,Jynx,Water,Uncommon
+038/128,Electabuzz,Lightning,Uncommon
+039/128,Flaaffy,Lightning,Uncommon
+040/128,Kadabra,Psychic,Uncommon
+041/128,Haunter,Psychic,Uncommon
+042/128,Machoke,Fighting,Uncommon
+043/128,Graveler,Fighting,Uncommon
+044/128,Hitmonlee,Fighting,Uncommon
+045/128,Pupitar,Fighting,Uncommon
+046/128,Pidgeotto,Colorless,Uncommon
+047/128,Chansey,Colorless,Uncommon
+048/128,Dragonair,Colorless,Uncommon
+049/128,Professor Elm's Training Method,T [Su],Uncommon
+050/128,Energy Restore,T,Uncommon
+051/128,Energy Charge,T,Uncommon
+052/128,Energy Removal 2,T,Uncommon
+053/128,Professor Oak's Research,T [Su],Uncommon
+054/128,Mary's Impulse,T [Su],Uncommon
+055/128,Super Scoop Up,T,Uncommon
+056/128,Strength Charm,T [PT],Uncommon
+057/128,Dual Ball,T,Uncommon
+058/128,Pokémon Nurse,T [Su],Uncommon
+059/128,Pokémon Reversal,T,Uncommon
+060/128,Bill's Maintenance,T [Su],Uncommon
+061/128,Master Ball,T,Uncommon
+062/128,Multi Technical Machine 01,T [TM],Uncommon
+063/128,Copycat,T [Su],Uncommon
+064/128,Warp Point,T,Uncommon
+065/128,Venusaur,Grass,Rare
+066/128,Butterfree,Grass,Rare
+067/128,Arbok,Grass,Rare
+068/128,Vileplume,Grass,Rare
+069/128,Weezing,Grass,Rare
+070/128,Meganium,Grass,Rare
+071/128,Charizard,Fire,Rare
+072/128,Ninetales,Fire,Rare
+073/128,Rapidash,Fire,Rare
+074/128,Typhlosion,Fire,Rare
+075/128,Magby,Fire,Rare
+076/128,Blastoise,Water,Rare
+077/128,Poliwrath,Water,Rare
+078/128,Cloyster,Water,Rare
+079/128,Kingler,Water,Rare
+080/128,Feraligatr,Water,Rare
+081/128,Raichu,Lightning,Rare
+082/128,Pichu,Lightning,Rare
+083/128,Ampharos,Lightning,Rare
+084/128,Alakazam,Psychic,Rare
+085/128,Gengar,Psychic,Rare
+086/128,Mewtwo,Psychic,Rare
+087/128,Mew,Psychic,Rare
+088/128,Dugtrio,Fighting,Rare
+089/128,Machamp,Fighting,Rare
+090/128,Golem,Fighting,Rare
+091/128,Pidgeot,Colorless,Rare
+092/128,Fearow,Colorless,Rare
+093/128,Clefable,Colorless,Rare
+094/128,Dragonite,Colorless,Rare
+095/128,Tyranitar,Darkness,Rare
+096/128,Skarmory,Metal,Rare
+097/128,Venusaur,Grass,Rare Holo
+098/128,Butterfree,Grass,Rare Holo
+099/128,Arbok,Grass,Rare Holo
+100/128,Vileplume,Grass,Rare Holo
+101/128,Weezing,Grass,Rare Holo
+102/128,Meganium,Grass,Rare Holo
+103/128,Charizard,Fire,Rare Holo
+104/128,Ninetales,Fire,Rare Holo
+105/128,Rapidash,Fire,Rare Holo
+106/128,Typhlosion,Fire,Rare Holo
+107/128,Magby,Fire,Rare Holo
+108/128,Blastoise,Water,Rare Holo
+109/128,Poliwrath,Water,Rare Holo
+110/128,Cloyster,Water,Rare Holo
+111/128,Kingler,Water,Rare Holo
+112/128,Feraligatr,Water,Rare Holo
+113/128,Raichu,Lightning,Rare Holo
+114/128,Pichu,Lightning,Rare Holo
+115/128,Ampharos,Lightning,Rare Holo
+116/128,Alakazam,Psychic,Rare Holo
+117/128,Gengar,Psychic,Rare Holo
+118/128,Mewtwo,Psychic,Rare Holo
+119/128,Mew,Psychic,Rare Holo
+120/128,Dugtrio,Fighting,Rare Holo
+121/128,Machamp,Fighting,Rare Holo
+122/128,Golem,Fighting,Rare Holo
+123/128,Pidgeot,Colorless,Rare Holo
+124/128,Fearow,Colorless,Rare Holo
+125/128,Clefable,Colorless,Rare Holo
+126/128,Dragonite,Colorless,Rare Holo
+127/128,Tyranitar,Darkness,Rare Holo
+128/128,Skarmory,Metal,Rare Holo

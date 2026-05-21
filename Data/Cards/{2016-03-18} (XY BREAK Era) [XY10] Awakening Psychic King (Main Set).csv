@@ -1,0 +1,89 @@
+No.,Card name,Type,Rarity
+001/078,Shuckle,Grass,C
+002/078,Burmy,Grass,C
+003/078,Wormadam,Grass,C
+004/078,Mothim,Grass,U
+005/078,Snivy,Grass,C
+006/078,Servine,Grass,C
+007/078,Serperior,Grass,U
+008/078,Moltres,Fire,U
+009/078,Fennekin,Fire,C
+010/078,Braixen,Fire,C
+011/078,Delphox,Fire,R
+012/078,DelphoxBREAK,Fire,RR
+013/078,Seel,Water,C
+014/078,Dewgong,Water,U
+015/078,Omanyte,Water,C
+016/078,Omastar,Water,U
+017/078,OmastarBREAK,Water,RR
+018/078,GlaceonEX,Water,RR
+019/078,White Kyurem,Water,R
+020/078,Binacle,Water,C
+021/078,Barbaracle,Water,C
+022/078,Rotom,Lightning,U
+023/078,AlakazamEX,Psychic,RR
+024/078,MegaAlakazamEX,Psychic,RR
+025/078,Koffing,Psychic,C
+026/078,Weezing,Psychic,C
+027/078,Mew,Psychic,R
+028/078,Spoink,Psychic,C
+029/078,Grumpig,Psychic,C
+030/078,Solosis,Psychic,C
+031/078,Duosion,Psychic,C
+032/078,Reuniclus,Psychic,U
+033/078,Kabuto,Fighting,C
+034/078,Kabutops,Fighting,U
+035/078,Larvitar,Fighting,C
+036/078,Pupitar,Fighting,C
+037/078,Wormadam,Fighting,C
+038/078,Riolu,Fighting,C
+039/078,Carbink,Fighting,C
+040/078,Zygarde,Fighting,U
+041/078,Zygarde,Fighting,R
+042/078,UmbreonEX,Darkness,RR
+043/078,Tyranitar,Darkness,R
+044/078,Vullaby,Darkness,C
+045/078,Mandibuzz,Darkness,C
+046/078,Wormadam,Metal,C
+047/078,Bronzor,Metal,C
+048/078,Bronzong,Metal,U
+049/078,BronzongBREAK,Metal,RR
+050/078,Lucario,Metal,R
+051/078,GenesectEX,Metal,RR
+052/078,Jigglypuff,Fairy,C
+053/078,Wigglytuff,Fairy,U
+054/078,MegaAltariaEX,Fairy,RR
+055/078,KingdraEX,Dragon,RR
+056/078,Aerodactyl,Colorless,U
+057/078,Snorlax,Colorless,C
+058/078,Lugia,Colorless,R
+059/078,LugiaBREAK,Colorless,RR
+060/078,Whismur,Colorless,C
+061/078,Loudred,Colorless,C
+062/078,Exploud,Colorless,U
+063/078,AltariaEX,Colorless,RR
+064/078,Minccino,Colorless,C
+065/078,Cinccino,Colorless,C
+066/078,Fossil Excavation Kit,I,U
+067/078,Devolution Spray,I,U
+068/078,Mega Catcher,I,U
+069/078,Helix Fossil Omanyte,I,C
+070/078,Dome Fossil Kabuto,I,C
+071/078,Old Amber Aerodactyl,I,C
+072/078,Energy Pouch,I,U
+073/078,Bent Spoon,I,U
+074/078,Altaria Spirit Link,I,U
+075/078,Alakazam Spirit Link,I,U
+076/078,N,Su,U
+077/078,Team Rocket's Handiwork,Su,U
+078/078,Chaos Tower,St,U
+079/078,GlaceonEX,Water,SR
+080/078,AlakazamEX,Psychic,SR
+081/078,MegaAlakazamEX,Psychic,SR
+082/078,UmbreonEX,Darkness,SR
+083/078,GenesectEX,Metal,SR
+084/078,MegaAltariaEX,Fairy,SR
+085/078,KingdraEX,Dragon,SR
+086/078,AltariaEX,Colorless,SR
+087/078,Team Rocket's Handiwork,Su,SR
+088/078,AlakazamEX,Psychic,UR

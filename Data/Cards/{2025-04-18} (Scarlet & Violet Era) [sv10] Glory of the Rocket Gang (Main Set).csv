@@ -1,0 +1,133 @@
+No.,Mark,Card name,Type,Rarity
+001/098,I,Pineco,Grass,C
+002/098,I,Shroomish,Grass,C
+003/098,I,Breloom,Grass,C
+004/098,I,Mow Rotom,Grass,C
+005/098,I,Fomantis,Grass,C
+006/098,I,Lurantis,Grass,U
+007/098,I,Team Rocket's Blipbug,Grass,C
+008/098,I,Team Rocket's Tarountula,Grass,C
+009/098,I,Team Rocket's Spidops,Grass,R
+010/098,I,Smoliv,Grass,C
+011/098,I,Dolliv,Grass,C
+012/098,I,Arbolivaex,Grass,RR
+013/098,I,Growlithe,Fire,C
+014/098,I,Arcanine,Fire,U
+015/098,I,Team Rocket's Moltresex,Fire,RR
+016/098,I,Team Rocket's Houndour,Fire,C
+017/098,I,Team Rocket's Houndoom,Fire,U
+018/098,I,Torchic,Fire,C
+019/098,I,Combusken,Fire,C
+020/098,I,Blaziken,Fire,R
+021/098,I,Heat Rotom,Fire,C
+022/098,I,Team Rocket's Articuno,Water,R
+023/098,I,Clamperl,Water,C
+024/098,I,Huntail,Water,U
+025/098,I,Gorebyss,Water,R
+026/098,I,Snover,Water,C
+027/098,I,Abomasnow,Water,U
+028/098,I,Wash Rotom,Water,C
+029/098,I,Arrokuda,Water,C
+030/098,I,Barraskewda,Water,U
+031/098,I,Cetoddle,Water,C
+032/098,I,Cetitanex,Water,RR
+033/098,I,Team Rocket's Zapdos,Lightning,R
+034/098,I,Team Rocket's Mareep,Lightning,C
+035/098,I,Team Rocket's Flaaffy,Lightning,C
+036/098,I,Team Rocket's Ampharos,Lightning,U
+037/098,I,Team Rocket's Drowzee,Psychic,C
+038/098,I,Team Rocket's Hypno,Psychic,U
+039/098,I,Team Rocket's Mewtwoex,Psychic,RR
+040/098,I,Team Rocket's Wobbuffet,Psychic,R
+041/098,I,Team Rocket's Chingling,Psychic,C
+042/098,I,Team Rocket's Mimikyu,Psychic,U
+043/098,I,Team Rocket's Dottler,Psychic,C
+044/098,I,Team Rocket's Orbeetle,Psychic,U
+045/098,I,Mankey,Fighting,C
+046/098,I,Primeape,Fighting,C
+047/098,I,Annihilape,Fighting,R
+048/098,I,Team Rocket's Larvitar,Fighting,C
+049/098,I,Team Rocket's Pupitar,Fighting,U
+050/098,I,Team Rocket's Tyranitar,Fighting,R
+051/098,I,Nosepass,Fighting,C
+052/098,I,Probopass,Fighting,U
+053/098,I,Meditite,Fighting,C
+054/098,I,Medicham,Fighting,U
+055/098,I,Regirockex,Fighting,RR
+056/098,I,Team Rocket's Ekans,Darkness,C
+057/098,I,Team Rocket's Arbok,Darkness,U
+058/098,I,Team Rocket's Nidoran♀,Darkness,C
+059/098,I,Team Rocket's Nidorina,Darkness,C
+060/098,I,Team Rocket's Nidoqueen,Darkness,U
+061/098,I,Team Rocket's Nidoran♂,Darkness,C
+062/098,I,Team Rocket's Nidorino,Darkness,C
+063/098,I,Team Rocket's Nidokingex,Darkness,RR
+064/098,I,Team Rocket's Zubat,Darkness,C
+065/098,I,Team Rocket's Golbat,Darkness,U
+066/098,I,Team Rocket's Crobatex,Darkness,RR
+067/098,I,Team Rocket's Grimer,Darkness,C
+068/098,I,Team Rocket's Muk,Darkness,U
+069/098,I,Team Rocket's Koffing,Darkness,C
+070/098,I,Team Rocket's Weezing,Darkness,U
+071/098,I,Team Rocket's Murkrow,Darkness,U
+072/098,I,Team Rocket's Sneasel,Darkness,R
+073/098,I,Forretress,Metal,U
+074/098,I,Skarmory,Metal,C
+075/098,I,Zamazenta,Metal,R
+076/098,I,Team Rocket's Rattata,Colorless,C
+077/098,I,Team Rocket's Raticate,Colorless,C
+078/098,I,Team Rocket's Meowth,Colorless,C
+079/098,I,Team Rocket's Persianex,Colorless,RR
+080/098,I,Kangaskhan,Colorless,C
+081/098,I,Team Rocket's Porygon,Colorless,C
+082/098,I,Team Rocket's Porygon2,Colorless,C
+083/098,I,Team Rocket's Porygon-Z,Colorless,U
+084/098,I,Taillow,Colorless,C
+085/098,I,Swellow,Colorless,C
+086/098,I,Squawkabilly,Colorless,C
+087/098,I,Team Rocket's Bother-Bot,I,U
+088/098,I,Team Rocket's Great Ball,I,U
+089/098,I,Team Rocket's Venture Bomb,I,U
+090/098,I,Team Rocket's Transceiver,I,U
+091/098,I,Team Rocket's Ariana,Su,U
+092/098,I,Team Rocket's Archer,Su,U
+093/098,I,Team Rocket's Giovanni,Su,U
+094/098,I,Team Rocket's Petrel,Su,U
+095/098,I,Team Rocket's Proton,Su,U
+096/098,I,Team Rocket's Watchtower,St,U
+097/098,I,Team Rocket's Factory,St,U
+098/098,I,Team Rocket's Energy,PsychicDarkness,U
+099/098,I,Team Rocket's Spidops,Grass,AR
+100/098,I,Team Rocket's Houndoom,Fire,AR
+101/098,I,Blaziken,Fire,AR
+102/098,I,Clamperl,Water,AR
+103/098,I,Team Rocket's Wobbuffet,Psychic,AR
+104/098,I,Team Rocket's Orbeetle,Psychic,AR
+105/098,I,Team Rocket's Weezing,Darkness,AR
+106/098,I,Team Rocket's Murkrow,Darkness,AR
+107/098,I,Zamazenta,Metal,AR
+108/098,I,Team Rocket's Raticate,Colorless,AR
+109/098,I,Team Rocket's Meowth,Colorless,AR
+110/098,I,Kangaskhan,Colorless,AR
+111/098,I,Arbolivaex,Grass,SR
+112/098,I,Team Rocket's Moltresex,Fire,SR
+113/098,I,Cetitanex,Water,SR
+114/098,I,Team Rocket's Mewtwoex,Psychic,SR
+115/098,I,Regirockex,Fighting,SR
+116/098,I,Team Rocket's Nidokingex,Darkness,SR
+117/098,I,Team Rocket's Crobatex,Darkness,SR
+118/098,I,Team Rocket's Persianex,Colorless,SR
+119/098,I,Team Rocket's Ariana,Su,SR
+120/098,I,Team Rocket's Archer,Su,SR
+121/098,I,Team Rocket's Giovanni,Su,SR
+122/098,I,Team Rocket's Petrel,Su,SR
+123/098,I,Team Rocket's Proton,Su,SR
+124/098,I,Team Rocket's Moltresex,Fire,SAR
+125/098,I,Team Rocket's Mewtwoex,Psychic,SAR
+126/098,I,Team Rocket's Nidokingex,Darkness,SAR
+127/098,I,Team Rocket's Crobatex,Darkness,SAR
+128/098,I,Team Rocket's Ariana,Su,SAR
+129/098,I,Team Rocket's Giovanni,Su,SAR
+130/098,I,Team Rocket's Mewtwoex,Psychic,UR
+131/098,I,Team Rocket's Crobatex,Darkness,UR
+132/098,H,Jamming Tower,St,UR

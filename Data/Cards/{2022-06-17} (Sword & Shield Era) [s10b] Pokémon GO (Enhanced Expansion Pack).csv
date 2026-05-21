@@ -1,0 +1,102 @@
+No.,Mark,Card name,Type,Rarity
+001/071,F,Bulbasaur,Grass,C
+002/071,F,Ivysaur,Grass,U
+003/071,F,Venusaur,Grass,R
+004/071,F,Radiant Venusaur,Grass,K
+005/071,F,Alolan ExeggutorV,Grass,RR
+006/071,F,Spinarak,Grass,C
+007/071,F,Ariados,Grass,C
+008/071,F,Charmander,Fire,C
+009/071,F,Charmeleon,Fire,U
+010/071,F,Charizard,Fire,R
+011/071,F,Radiant Charizard,Fire,K
+012/071,F,Moltres,Fire,R
+013/071,F,Numel,Fire,C
+014/071,F,Camerupt,Fire,C
+015/071,F,Squirtle,Water,C
+016/071,F,Wartortle,Water,U
+017/071,F,Blastoise,Water,R
+018/071,F,Radiant Blastoise,Water,K
+019/071,F,Slowpoke,Water,C
+020/071,F,Slowbro,Water,U
+021/071,F,Magikarp,Water,C
+022/071,F,Gyarados,Water,R
+023/071,F,Lapras,Water,R
+024/071,F,Articuno,Water,R
+025/071,F,Wimpod,Water,C
+026/071,F,Golisopod,Water,R
+027/071,F,Pikachu,Lightning,C
+028/071,F,Pikachu,Lightning,R
+029/071,F,Zapdos,Lightning,R
+030/071,F,MewtwoV,Psychic,RR
+031/071,F,MewtwoVSTAR,Psychic,RRR
+032/071,F,Natu,Psychic,C
+033/071,F,Xatu,Psychic,U
+034/071,F,Lunatone,Psychic,U
+035/071,F,Sylveon,Psychic,R
+036/071,F,Onix,Fighting,C
+037/071,F,Larvitar,Fighting,C
+038/071,F,Pupitar,Fighting,U
+039/071,F,Solrock,Fighting,U
+040/071,F,ConkeldurrV,Fighting,RR
+041/071,F,Alolan Rattata,Darkness,C
+042/071,F,Alolan Raticate,Darkness,C
+043/071,F,Tyranitar,Darkness,R
+044/071,F,Steelix,Metal,U
+045/071,F,Meltan,Metal,C
+046/071,F,Melmetal,Metal,R
+047/071,F,MelmetalV,Metal,RR
+048/071,F,MelmetalVMAX,Metal,RRR
+049/071,F,DragoniteV,Dragon,RR
+050/071,F,DragoniteVSTAR,Dragon,RRR
+051/071,F,Chansey,Colorless,C
+052/071,F,Blissey,Colorless,R
+053/071,F,Ditto,Colorless,—
+054/071,F,Eevee,Colorless,C
+055/071,F,Radiant Eevee,Colorless,K
+056/071,F,Snorlax,Colorless,R
+057/071,F,Aipom,Colorless,C
+058/071,F,Ambipom,Colorless,C
+059/071,F,SlakingV,Colorless,RR
+060/071,F,Bidoof,Colorless,C
+061/071,F,Bibarel,Colorless,C
+062/071,F,Pidove,Colorless,C
+063/071,F,Tranquill,Colorless,C
+064/071,F,Unfezant,Colorless,U
+065/071,F,Egg Incubator,I,U
+066/071,F,Rare Candy,I,U
+067/071,F,Lure Module,I,U
+068/071,F,Candela,Su,U
+069/071,F,Spark,Su,U
+070/071,F,Blanche,Su,U
+071/071,F,PokéStop,St,U
+072/071,F,Alolan ExeggutorV,Grass,SR
+073/071,F,MewtwoV,Psychic,SR
+074/071,F,MewtwoV,Psychic,SR
+075/071,F,ConkeldurrV,Fighting,SR
+076/071,F,ConkeldurrV,Fighting,SR
+077/071,F,MelmetalV,Metal,SR
+078/071,F,DragoniteV,Dragon,SR
+079/071,F,SlakingV,Colorless,SR
+080/071,F,Candela,Su,SR
+081/071,F,Spark,Su,SR
+082/071,F,Professor's Research [Professor Willow],Su,SR
+083/071,F,Blanche,Su,SR
+084/071,F,MewtwoVSTAR,Psychic,HR
+085/071,F,MelmetalVMAX,Metal,HR
+086/071,F,DragoniteVSTAR,Dragon,HR
+087/071,F,Candela,Su,HR
+088/071,F,Spark,Su,HR
+089/071,F,Professor's Research [Professor Willow],Su,HR
+090/071,F,Blanche,Su,HR
+091/071,F,MewtwoVSTAR,Psychic,UR
+092/071,F,Egg Incubator,I,UR
+093/071,F,Lure Module,I,UR
+GRA,—,Grass Energy,Grass E,—
+FIR,—,Fire Energy,Fire E,—
+WAT,—,Water Energy,Water E,—
+LIG,—,Lightning Energy,Lightning E,—
+PSY,—,Psychic Energy,Psychic E,—
+FIG,—,Fighting Energy,Fighting E,—
+DAR,—,Darkness Energy,Darkness E,—
+MET,—,Metal Energy,Metal E,—

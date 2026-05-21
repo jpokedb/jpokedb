@@ -1,0 +1,238 @@
+No.,Mark,Card name,Type,Rarity
+001/187,H,Budew,Grass,—
+002/187,H,Leafeon,Grass,—
+003/187,H,Leafeonex,Grass,RR
+004/187,H,Cottonee,Grass,—
+005/187,H,Whimsicott,Grass,—
+006/187,H,Grookey,Grass,—
+007/187,H,Thwackey,Grass,—
+008/187,H,Applin,Grass,—
+009/187,H,Dipplin,Grass,—
+010/187,H,Hydrappleex,Grass,RR
+011/187,H,Bramblin,Grass,—
+012/187,H,Brambleghast,Grass,—
+013/187,H,Rellor,Grass,—
+014/187,H,Rabsca,Grass,—
+015/187,G,Wo-Chien,Grass,—
+016/187,H,Iron Leavesex,Grass,RR
+017/187,H,Poltchageist,Grass,—
+018/187,H,Sinistcha,Grass,—
+019/187,H,Sinistchaex,Grass,RR
+020/187,H,Teal Mask Ogerponex,Grass,RR
+021/187,G,Flareon,Fire,—
+022/187,H,Flareonex,Fire,RR
+023/187,G,Charcadet,Fire,—
+024/187,G,Iron Moth,Fire,—
+025/187,G,Chi-Yu,Fire,—
+026/187,H,Hearthflame Mask Ogerponex,Fire,RR
+027/187,H,Gouging Fireex,Fire,RR
+028/187,H,Goldeen,Water,—
+029/187,H,Seaking,Water,—
+030/187,G,Vaporeon,Water,—
+031/187,H,Vaporeonex,Water,RR
+032/187,H,Totodile,Water,—
+033/187,H,Croconaw,Water,—
+034/187,H,Feraligatr,Water,—
+035/187,H,Feebas,Water,—
+036/187,H,Milotic,Water,—
+037/187,H,Snorunt,Water,—
+038/187,H,Froslass,Water,—
+039/187,G,Garchompex,Water,RR
+040/187,H,Glaceon,Water,—
+041/187,H,Glaceonex,Water,RR
+042/187,H,Wiglett,Water,—
+043/187,G,Wugtrio,Water,—
+044/187,H,Finizen,Water,—
+045/187,H,Palafin,Water,—
+046/187,H,Palafinex,Water,RR
+047/187,G,Iron Bundle,Water,—
+048/187,G,Chien-Pao,Water,—
+049/187,H,Walking Wakeex,Water,RR
+050/187,H,Wellspring Mask Ogerponex,Water,RR
+051/187,G,Jolteon,Lightning,—
+052/187,H,Jolteonex,Lightning,RR
+053/187,H,Zeraora,Lightning,—
+054/187,G,Iron Handsex,Lightning,RR
+055/187,H,Iron Thorns,Lightning,—
+056/187,H,Iron Thornsex,Lightning,RR
+057/187,H,Abra,Psychic,—
+058/187,H,Kadabra,Psychic,—
+059/187,H,Alakazam,Psychic,—
+060/187,G,Natu,Psychic,—
+061/187,G,Xatu,Psychic,—
+062/187,G,Espeon,Psychic,—
+063/187,H,Espeonex,Psychic,RR
+064/187,H,Duskull,Psychic,—
+065/187,H,Dusclops,Psychic,—
+066/187,H,Dusknoir,Psychic,—
+067/187,H,Swirlix,Psychic,—
+068/187,H,Sylveon,Psychic,—
+069/187,H,Sylveonex,Psychic,RR
+070/187,G,Ceruledge,Psychic,—
+071/187,G,Scream Tail,Psychic,—
+072/187,H,Flutter Mane,Psychic,—
+073/187,G,Gimmighoul,Psychic,—
+074/187,G,Iron Valiantex,Psychic,RR
+075/187,H,Munkidori,Psychic,—
+076/187,H,Fezandipiti,Psychic,—
+077/187,H,Iron Boulder,Psychic,—
+078/187,H,Iron Crownex,Psychic,RR
+079/187,H,Relicanth,Fighting,—
+080/187,G,Groudon,Fighting,—
+081/187,G,Gible,Fighting,—
+082/187,G,Gabite,Fighting,—
+083/187,H,Drilbur,Fighting,—
+084/187,G,Hawlucha,Fighting,—
+085/187,H,Bloodmoon Ursaluna,Fighting,—
+086/187,H,Great Tusk,Fighting,—
+087/187,H,Slither Wing,Fighting,—
+088/187,G,Sandy Shocksex,Fighting,RR
+089/187,G,Ting-Lu,Fighting,—
+090/187,H,Okidogi,Fighting,—
+091/187,H,Cornerstone Mask Ogerponex,Fighting,RR
+092/187,G,Umbreon,Darkness,—
+093/187,H,Umbreonex,Darkness,RR
+094/187,G,Trubbish,Darkness,—
+095/187,G,Garbodor,Darkness,—
+096/187,H,Zorua,Darkness,—
+097/187,H,Zoroark,Darkness,—
+098/187,G,Morpeko,Darkness,—
+099/187,G,Brute Bonnet,Darkness,—
+100/187,H,Roaring Moon,Darkness,—
+101/187,G,Roaring Moonex,Darkness,RR
+102/187,H,Okidogiex,Darkness,RR
+103/187,H,Munkidoriex,Darkness,RR
+104/187,H,Fezandipitiex,Darkness,RR
+105/187,H,Pecharuntex,Darkness,RR
+106/187,H,Beldum,Metal,—
+107/187,H,Metang,Metal,—
+108/187,G,Jirachi,Metal,—
+109/187,G,Honedge,Metal,—
+110/187,G,Doublade,Metal,—
+111/187,G,Aegislash,Metal,—
+112/187,H,Duraludon,Metal,—
+113/187,H,Archaludon,Metal,—
+114/187,H,Varoom,Metal,—
+115/187,G,Revavroom,Metal,—
+116/187,H,Iron Treads,Metal,—
+117/187,G,Gholdengoex,Metal,RR
+118/187,H,Dreepy,Dragon,—
+119/187,H,Drakloak,Dragon,—
+120/187,H,Dragapultex,Dragon,RR
+121/187,H,Tatsugiri,Dragon,—
+122/187,H,Koraidon,Dragon,—
+123/187,H,Miraidon,Dragon,—
+124/187,H,Raging Boltex,Dragon,RR
+125/187,H,Eevee,Colorless,—
+126/187,H,Eeveeex,Colorless,RR
+127/187,H,Hoothoot,Colorless,—
+128/187,H,Noctowl,Colorless,—
+129/187,H,Dunsparce,Colorless,—
+130/187,H,Dudunsparce,Colorless,—
+131/187,H,Fan Rotom,Colorless,—
+132/187,H,Regigigas,Colorless,—
+133/187,H,Bouffalant,Colorless,—
+134/187,H,Bloodmoon Ursalunaex,Colorless,RR
+135/187,G,Iron Jugulis,Colorless,—
+136/187,H,Terapagosex,Colorless,RR
+137/187,H,Ogre's Mask,I,—
+138/187,H,Enhanced Hammer,I,—
+139/187,G,Counter Catcher,I,—
+140/187,H,Glass Trumpet,I,—
+141/187,G,Superior Energy Retrieval,I,—
+142/187,H,Max Rod,I,ACE
+143/187,G,Earthen Vessel,I,—
+144/187,G,Techno Radar,I,—
+145/187,H,Tera Orb,I,—
+146/187,H,Treasure Tracker,I,ACE
+147/187,H,Buddy-Buddy Poffin,I,—
+148/187,H,Prime Catcher,I,ACE
+149/187,H,Scoop Up Cyclone,I,ACE
+150/187,H,Bug Catching Set,I,—
+151/187,H,Night Stretcher,I,—
+152/187,H,Sparkling Crystal,PT,ACE
+153/187,H,Rescue Board,PT,—
+154/187,H,Binding Mochi,PT,—
+155/187,G,Luxurious Cape,PT,—
+156/187,H,Haban Berry,PT,—
+157/187,G,Ancient Booster Energy Capsule,PT,—
+158/187,G,Future Booster Energy Capsule,PT,—
+159/187,H,Maximum Belt,PT,ACE
+160/187,G,Technical Machine: Evolution,PT,—
+161/187,G,Technical Machine: Devolution,PT,—
+162/187,H,Larry's Skill,Su,—
+163/187,H,Crispin,Su,—
+164/187,H,Colress's Tenacity,Su,—
+165/187,H,Ciphermaniac's Codebreaking,Su,—
+166/187,H,Janine's Secret Art,Su,—
+167/187,G,Professor Sada's Vitality,Su,—
+168/187,H,Lana's Aid,Su,—
+169/187,H,Kieran,Su,—
+170/187,H,Carmine,Su,—
+171/187,H,Lacey,Su,—
+172/187,H,Explorer's Guidance,Su,—
+173/187,H,Amarys,Su,—
+174/187,H,Friends in Paldea,Su,—
+175/187,G,Professor Turo's Scenario,Su,—
+176/187,H,Briar,Su,—
+177/187,H,Bianca's Devotion,Su,—
+178/187,H,Morty's Conviction,Su,—
+179/187,G,Mela,Su,—
+180/187,H,Festival Grounds,St,—
+181/187,H,Jamming Tower,St,—
+182/187,H,Area Zero Underdepths,St,—
+183/187,G,Moonlit Hill,St,—
+184/187,H,Neutralization Zone,St,ACE
+185/187,G,Jet Energy,Colorless E,—
+186/187,H,Mist Energy,Colorless E,—
+187/187,H,Legacy Energy,Rainbow E,ACE
+188/187,H,Larry's Skill,Su,SR
+189/187,G,Ortega,Su,SR
+190/187,G,Brassius,Su,SR
+191/187,G,Atticus,Su,SR
+192/187,G,Atticus,Su,SR
+193/187,H,Tyme,Su,SR
+194/187,H,Amarys,Su,SR
+195/187,H,Friends in Paldea,Su,SR
+196/187,G,Giacomo,Su,SR
+197/187,H,Eri,Su,SR
+198/187,G,Mela,Su,SR
+199/187,G,Raifort,Su,SR
+200/187,H,Leafeonex,Grass,SAR
+201/187,H,Teal Mask Ogerponex,Grass,SAR
+202/187,H,Flareonex,Fire,SAR
+203/187,H,Ceruledgeex,Fire,SAR
+204/187,H,Hearthflame Mask Ogerponex,Fire,SAR
+205/187,H,Vaporeonex,Water,SAR
+206/187,H,Glaceonex,Water,SAR
+207/187,H,Palafinex,Water,SAR
+208/187,H,Wellspring Mask Ogerponex,Water,SAR
+209/187,H,Jolteonex,Lightning,SAR
+210/187,G,Iron Handsex,Lightning,SAR
+211/187,H,Espeonex,Psychic,SAR
+212/187,H,Sylveonex,Psychic,SAR
+213/187,G,Iron Valiantex,Psychic,SAR
+214/187,H,Iron Crownex,Psychic,SAR
+215/187,G,Sandy Shocksex,Fighting,SAR
+216/187,H,Cornerstone Mask Ogerponex,Fighting,SAR
+217/187,H,Umbreonex,Darkness,SAR
+218/187,G,Roaring Moonex,Darkness,SAR
+219/187,H,Pecharuntex,Darkness,SAR
+220/187,G,Gholdengoex,Metal,SAR
+221/187,H,Dragapultex,Dragon,SAR
+222/187,H,Raging Boltex,Dragon,SAR
+223/187,H,Eeveeex,Colorless,SAR
+224/187,H,Eeveeex,Colorless,SAR
+225/187,H,Bloodmoon Ursalunaex,Colorless,SAR
+226/187,H,Terapagosex,Colorless,SAR
+227/187,H,Crispin,Su,SAR
+228/187,H,Janine's Secret Art,Su,SAR
+229/187,H,Drayton,Su,SAR
+230/187,H,Kieran,Su,SAR
+231/187,H,Lacey,Su,SAR
+232/187,H,Amarys,Su,SAR
+233/187,H,Iron Leavesex,Grass,UR
+234/187,H,Teal Mask Ogerponex,Grass,UR
+235/187,H,Walking Wakeex,Water,UR
+236/187,H,Pikachuex,Lightning,UR
+237/187,H,Terapagosex,Colorless,UR

@@ -1,0 +1,141 @@
+No.,Card name,Type
+001/131,BeedrillEX,Grass
+002/131,MegaBeedrillEX,Grass
+003/131,Pinsir,Grass
+004/131,Spinarak,Grass
+005/131,Ariados,Grass
+006/131,SceptileEX,Grass
+007/131,MegaSceptileEX,Grass
+008/131,Nincada,Grass
+009/131,Shedinja,Grass
+010/131,Combee,Grass
+011/131,Vespiquen,Grass
+012/131,Chespin,Grass
+013/131,Quilladin,Grass
+014/131,Chesnaught,Grass
+015/131,ChesnaughtBREAK,Grass
+016/131,Entei,Fire
+017/131,Fennekin,Fire
+018/131,Braixen,Fire
+019/131,Delphox,Fire
+020/131,Litleo,Fire
+021/131,Pyroar,Fire
+022/131,Pyroar,Fire
+023/131,Articuno,Water
+024/131,Remoraid,Water
+025/131,Octillery,Water
+026/131,Mudkip,Water
+027/131,Marshtomp,Water
+028/131,Swampert,Water
+029/131,Regice,Water
+030/131,SeismitoadEX,Water
+031/131,Cubchoo,Water
+032/131,Beartic,Water
+033/131,Froakie,Water
+034/131,Frogadier,Water
+035/131,Greninja,Water
+036/131,Pikachu,Lightning
+037/131,Raichu,Lightning
+038/131,Magnemite,Lightning
+039/131,Magneton,Lightning
+040/131,Magnezone,Lightning
+041/131,Zapdos,Lightning
+042/131,ManectricEX,Lightning
+043/131,MegaManectricEX,Lightning
+044/131,Joltik,Lightning
+045/131,Zubat,Psychic
+046/131,Golbat,Psychic
+047/131,Crobat,Psychic
+048/131,GengarEX,Psychic
+049/131,MegaGengarEX,Psychic
+050/131,MewtwoEX,Psychic
+051/131,MegaMewtwoEX,Psychic
+052/131,MegaMewtwoEX,Psychic
+053/131,Unown,Psychic
+054/131,Wobbuffet,Psychic
+055/131,WobbuffetBREAK,Psychic
+056/131,Deoxys,Psychic
+057/131,Litwick,Psychic
+058/131,Lampent,Psychic
+059/131,Chandelure,Psychic
+060/131,Phantump,Psychic
+061/131,Trevenant,Psychic
+062/131,Pumpkaboo,Psychic
+063/131,Gourgeist,Psychic
+064/131,HoopaEX,Psychic
+065/131,Machop,Fighting
+066/131,Machoke,Fighting
+067/131,Machamp,Fighting
+068/131,Cubone,Fighting
+069/131,Marowak,Fighting
+070/131,Meditite,Fighting
+071/131,Medicham,Fighting
+072/131,GroudonEX,Fighting
+073/131,Primal GroudonEX,Fighting
+074/131,LucarioEX,Fighting
+075/131,MegaLucarioEX,Fighting
+076/131,Hawlucha,Fighting
+077/131,Absol,Darkness
+078/131,Yveltal,Darkness
+079/131,YveltalEX,Darkness
+080/131,Bronzor,Metal
+081/131,Bronzong,Metal
+082/131,Heatran,Metal
+083/131,Togepi,Fairy
+084/131,Togetic,Fairy
+085/131,Togekiss,Fairy
+086/131,FlorgesEX,Fairy
+087/131,Spritzee,Fairy
+088/131,Aromatisse,Fairy
+089/131,Xerneas,Fairy
+090/131,XerneasEX,Fairy
+091/131,GiratinaEX,Dragon
+092/131,Noivern,Dragon
+093/131,KangaskhanEX,Colorless
+094/131,MegaKangaskhanEX,Colorless
+095/131,Miltank,Colorless
+096/131,RayquazaEX,Colorless
+097/131,MegaRayquazaEX,Colorless
+098/131,ShayminEX,Colorless
+099/131,Noibat,Colorless
+100/131,Escape Rope,I
+101/131,Enhanced Hammer,I
+102/131,Trainers' Mail,I
+103/131,Ultra Ball,I
+104/131,Battle Compressor,I
+105/131,VS Seeker,I
+106/131,Startling Megaphone,I
+107/131,Rare Candy,I
+108/131,Red Card,I
+109/131,Float Stone,I
+110/131,Groudon Spirit Link,I
+111/131,Gengar Spirit Link,I
+112/131,Sceptile Spirit Link,I
+113/131,Beedrill Spirit Link,I
+114/131,Mewtwo Spirit Link,I
+115/131,Manectric Spirit Link,I
+116/131,Rayquaza Spirit Link,I
+117/131,Head Ringer,I
+118/131,Brigette,Su
+119/131,Xerosic,Su
+120/131,Korrina,Su
+121/131,Giovanni's Scheme,Su
+122/131,Shauna,Su
+123/131,Teammates,Su
+124/131,Professor Sycamore,Su
+125/131,Lysandre,Su
+126/131,Team Flare Grunt,Su
+127/131,Forest of Giant Plants,St
+128/131,Dimension Valley,St
+129/131,Sky Field,St
+130/131,Fighting Stadium,St
+131/131,Double Colorless Energy,Colorless E
+—,Grass Energy,Grass E
+—,Fire Energy,Fire E
+—,Water Energy,Water E
+—,Lightning Energy,Lightning E
+—,Psychic Energy,Psychic E
+—,Fighting Energy,Fighting E
+—,Metal Energy,Metal E
+—,Darkness Energy,Darkness E
+—,Fairy Energy,Fairy E

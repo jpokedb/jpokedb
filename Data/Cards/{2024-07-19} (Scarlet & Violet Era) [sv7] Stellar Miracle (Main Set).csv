@@ -1,0 +1,136 @@
+No.,Mark,Card name,Type,Rarity
+001/102,H,Ledyba,Grass,C
+002/102,H,Ledian,Grass,R
+003/102,H,Lileep,Grass,C
+004/102,H,Cradily,Grass,U
+005/102,H,Carnivine,Grass,C
+006/102,H,Mow Rotom,Grass,C
+007/102,H,Grubbin,Grass,C
+008/102,H,Gossifleur,Grass,C
+009/102,H,Eldegoss,Grass,U
+010/102,H,Applin,Grass,C
+011/102,H,Dipplin,Grass,C
+012/102,H,Hydrappleex,Grass,RR
+013/102,H,Salandit,Fire,C
+014/102,H,Salazzle,Fire,U
+015/102,H,Turtonator,Fire,C
+016/102,H,Scorbunny,Fire,C
+017/102,H,Raboot,Fire,C
+018/102,H,Cinderaceex,Fire,RR
+019/102,H,Laprasex,Water,RR
+020/102,H,Finneon,Water,C
+021/102,H,Lumineon,Water,U
+022/102,H,Tirtouga,Water,C
+023/102,H,Carracosta,Water,U
+024/102,H,Crabominable,Water,U
+025/102,H,Chewtle,Water,C
+026/102,H,Drednaw,Water,R
+027/102,H,Veluza,Water,U
+028/102,H,Electabuzz,Lightning,C
+029/102,H,Electivire,Lightning,U
+030/102,H,Chinchou,Lightning,C
+031/102,H,Lanturn,Lightning,U
+032/102,H,Joltik,Lightning,C
+033/102,H,Galvantulaex,Lightning,RR
+034/102,H,Charjabug,Lightning,C
+035/102,H,Vikavolt,Lightning,U
+036/102,H,Togedemaru,Lightning,U
+037/102,H,Zeraora,Lightning,R
+038/102,H,Slowpoke,Psychic,C
+039/102,H,Slowking,Psychic,U
+040/102,H,Drifloon,Psychic,C
+041/102,H,Drifblim,Psychic,U
+042/102,H,Comfey,Psychic,C
+043/102,H,Milcery,Psychic,C
+044/102,H,Alcremie,Psychic,U
+045/102,H,Fidough,Psychic,C
+046/102,H,Dachsbunex,Psychic,RR
+047/102,H,Iron Boulder,Psychic,R
+048/102,H,Cubone,Fighting,C
+049/102,H,Marowak,Fighting,U
+050/102,H,Rhyhorn,Fighting,C
+051/102,H,Rhydon,Fighting,C
+052/102,H,Rhyperior,Fighting,R
+053/102,H,Meditite,Fighting,C
+054/102,H,Medichamex,Fighting,RR
+055/102,H,Mienfoo,Fighting,C
+056/102,H,Mienshao,Fighting,U
+057/102,H,Pancham,Fighting,C
+058/102,H,Diancie,Fighting,U
+059/102,H,Crabrawler,Fighting,C
+060/102,H,Falinks,Fighting,C
+061/102,H,Gulpin,Darkness,C
+062/102,H,Swalot,Darkness,U
+063/102,H,Pangoro,Darkness,U
+064/102,H,Impidimp,Darkness,C
+065/102,H,Morgrem,Darkness,C
+066/102,H,Grimmsnarl,Darkness,U
+067/102,H,Klink,Metal,C
+068/102,H,Klang,Metal,C
+069/102,H,Klinklang,Metal,R
+070/102,H,Meltan,Metal,C
+071/102,H,Melmetal,Metal,U
+072/102,H,Duraludon,Metal,C
+073/102,H,Archaludon,Metal,R
+074/102,H,Orthwormex,Metal,RR
+075/102,H,Raging Bolt,Dragon,R
+076/102,H,Hoothoot,Colorless,C
+077/102,H,Noctowl,Colorless,R
+078/102,H,Glameow,Colorless,C
+079/102,H,Purugly,Colorless,C
+080/102,H,Fan Rotom,Colorless,C
+081/102,H,Bouffalant,Colorless,U
+082/102,H,Tornadus,Colorless,U
+083/102,H,Fletchling,Colorless,C
+084/102,H,Fletchinder,Colorless,C
+085/102,H,Talonflame,Colorless,U
+086/102,H,Wooloo,Colorless,C
+087/102,H,Dubwool,Colorless,U
+088/102,H,Terapagosex,Colorless,RR
+089/102,H,Glass Trumpet,I,U
+090/102,H,Antique Root Fossil,I,C
+091/102,H,Antique Cover Fossil,I,C
+092/102,H,Payapa Berry,PT,U
+093/102,H,Occa Berry,PT,U
+094/102,H,Sparkling Crystal,PT,ACE
+095/102,H,Gravity Gemstone,PT,U
+096/102,H,Deluxe Bomb,PT,ACE
+097/102,H,Crispin,Su,U
+098/102,H,Lacey,Su,U
+099/102,H,Kofu,Su,U
+100/102,H,Briar,Su,U
+101/102,H,Grand Tree,St,ACE
+102/102,H,Area Zero Underdepths,St,U
+103/102,H,Ledian,Grass,AR
+104/102,H,Lileep,Grass,AR
+105/102,H,Turtonator,Fire,AR
+106/102,H,Raboot,Fire,AR
+107/102,H,Crabominable,Water,AR
+108/102,H,Joltik,Lightning,AR
+109/102,H,Zeraora,Lightning,AR
+110/102,H,Milcery,Psychic,AR
+111/102,H,Meditite,Fighting,AR
+112/102,H,Gulpin,Darkness,AR
+113/102,H,Archaludon,Metal,AR
+114/102,H,Noctowl,Colorless,AR
+115/102,H,Hydrappleex,Grass,SR
+116/102,H,Cinderaceex,Fire,SR
+117/102,H,Laprasex,Water,SR
+118/102,H,Galvantulaex,Lightning,SR
+119/102,H,Dachsbunex,Psychic,SR
+120/102,H,Medichamex,Fighting,SR
+121/102,H,Orthwormex,Metal,SR
+122/102,H,Terapagosex,Colorless,SR
+123/102,H,Crispin,Su,SR
+124/102,H,Lacey,Su,SR
+125/102,H,Kofu,Su,SR
+126/102,H,Briar,Su,SR
+127/102,H,Hydrappleex,Grass,SAR
+128/102,H,Galvantulaex,Lightning,SAR
+129/102,H,Dachsbunex,Psychic,SAR
+130/102,H,Terapagosex,Colorless,SAR
+131/102,H,Lacey,Su,SAR
+132/102,H,Briar,Su,SAR
+133/102,H,Terapagosex,Colorless,UR
+134/102,G,Bravery Charm,PT,UR
+135/102,H,Area Zero Underdepths,St,UR

@@ -1,0 +1,331 @@
+No.,Mark,Card name,Type,Rarity
+001/190,D,Rowlet,Grass,—
+002/190,D,Dartrix,Grass,—
+003/190,D,Decidueye,Grass,—
+004/190,D,Wimpod,Grass,—
+005/190,D,Golisopod,Grass,—
+006/190,D,Grookey,Grass,—
+007/190,D,Thwackey,Grass,—
+008/190,D,Rillaboom,Grass,—
+009/190,D,RillaboomV,Grass,RR
+010/190,D,RillaboomVMAX,Grass,RRR
+011/190,D,Blipbug,Grass,—
+012/190,D,Dottler,Grass,—
+013/190,D,Orbeetle,Grass,—
+014/190,D,Gossifleur,Grass,—
+015/190,D,Eldegoss,Grass,—
+016/190,D,EldegossV,Grass,RR
+017/190,D,Applin,Grass,—
+018/190,D,Flapple,Grass,—
+019/190,D,Appletun,Grass,—
+020/190,D,Heatran,Fire,—
+021/190,D,Reshiram,Fire,A
+022/190,D,Scorbunny,Fire,—
+023/190,D,Raboot,Fire,—
+024/190,D,Cinderace,Fire,—
+025/190,D,Sizzlipede,Fire,—
+026/190,D,Centiskorch,Fire,—
+027/190,D,CentiskorchV,Fire,RR
+028/190,D,CentiskorchVMAX,Fire,RRR
+029/190,D,Galarian Mr. Mime,Water,—
+030/190,D,Galarian Mr. Rime,Water,—
+031/190,D,LaprasV,Water,RR
+032/190,D,LaprasVMAX,Water,RRR
+033/190,D,Suicune,Water,—
+034/190,D,Feebas,Water,—
+035/190,D,Milotic,Water,—
+036/190,D,Kyogre,Water,A
+037/190,D,Galarian Darumaka,Water,—
+038/190,D,Galarian Darmanitan,Water,—
+039/190,D,Sobble,Water,—
+040/190,D,Drizzile,Water,—
+041/190,D,Inteleon,Water,—
+042/190,D,Chewtle,Water,—
+043/190,D,Drednaw,Water,—
+044/190,D,Cramorant,Water,—
+045/190,D,Arrokuda,Water,—
+046/190,D,Barraskewda,Water,—
+047/190,D,Snom,Water,—
+048/190,D,Frosmoth,Water,—
+049/190,D,Eiscue,Water,—
+050/190,D,Dracovish,Water,—
+051/190,D,Arctovish,Water,—
+052/190,D,Rotom,Lightning,—
+053/190,D,Tapu Koko,Lightning,—
+054/190,D,Yamper,Lightning,—
+055/190,D,Boltund,Lightning,—
+056/190,D,BoltundV,Lightning,RR
+057/190,D,Toxel,Lightning,—
+058/190,D,Toxtricity,Lightning,—
+059/190,D,ToxtricityV,Lightning,RR
+060/190,D,ToxtricityVMAX,Lightning,RRR
+061/190,D,Pincurchin,Lightning,—
+062/190,D,Morpeko,Lightning,—
+063/190,D,Dracozolt,Lightning,—
+064/190,D,Arctozolt,Lightning,—
+065/190,D,Clefairy,Psychic,—
+066/190,D,Clefable,Psychic,—
+067/190,D,Galarian Ponyta,Psychic,—
+068/190,D,Galarian Rapidash,Psychic,—
+069/190,D,Gastly,Psychic,—
+070/190,D,Haunter,Psychic,—
+071/190,D,Gengar,Psychic,—
+072/190,D,Galarian Corsola,Psychic,—
+073/190,D,Galarian Cursola,Psychic,—
+074/190,D,Sigilyph,Psychic,—
+075/190,D,Dedenne,Psychic,—
+076/190,D,Sinistea,Psychic,—
+077/190,D,Polteageist,Psychic,—
+078/190,D,Hatenna,Psychic,—
+079/190,D,Hattrem,Psychic,—
+080/190,D,Hatterene,Psychic,—
+081/190,D,Milcery,Psychic,—
+082/190,D,Alcremie,Psychic,—
+083/190,D,Indeedee,Psychic,—
+084/190,D,IndeedeeV,Psychic,RR
+085/190,D,Dreepy,Psychic,—
+086/190,D,Drakloak,Psychic,—
+087/190,D,Dragapult,Psychic,—
+088/190,D,DragapultV,Psychic,RR
+089/190,D,DragapultVMAX,Psychic,RRR
+090/190,D,Galarian Farfetch'd,Fighting,—
+091/190,D,Galarian Sirfetch'd,Fighting,—
+092/190,D,Galarian Yamask,Fighting,—
+093/190,D,Galarian Runerigus,Fighting,—
+094/190,D,Rolycoly,Fighting,—
+095/190,D,Carkol,Fighting,—
+096/190,D,Coalossal,Fighting,—
+097/190,D,Silicobra,Fighting,—
+098/190,D,Sandaconda,Fighting,—
+099/190,D,Clobbopus,Fighting,—
+100/190,D,Grapploct,Fighting,—
+101/190,D,Falinks,Fighting,—
+102/190,D,FalinksV,Fighting,RR
+103/190,D,Stonjourner,Fighting,—
+104/190,D,Koffing,Darkness,—
+105/190,D,Galarian Weezing,Darkness,—
+106/190,D,Spinarak,Darkness,—
+107/190,D,Ariados,Darkness,—
+108/190,D,CrobatV,Darkness,RR
+109/190,D,CrobatVMAX,Darkness,RRR
+110/190,D,Galarian Zigzagoon,Darkness,—
+111/190,D,Galarian Linoone,Darkness,—
+112/190,D,Galarian Obstagoon,Darkness,—
+113/190,D,Croagunk,Darkness,—
+114/190,D,Toxicroak,Darkness,—
+115/190,D,Trubbish,Darkness,—
+116/190,D,Garbodor,Darkness,—
+117/190,D,Yveltal,Darkness,A
+118/190,D,Hoopa,Darkness,—
+119/190,D,Nickit,Darkness,—
+120/190,D,Thievul,Darkness,—
+121/190,D,Impidimp,Darkness,—
+122/190,D,Morgrem,Darkness,—
+123/190,D,Grimmsnarl,Darkness,—
+124/190,D,EternatusV,Darkness,RR
+125/190,D,EternatusVMAX,Darkness,RRR
+126/190,D,Galarian Meowth,Metal,—
+127/190,D,Galarian Perrserker,Metal,—
+128/190,D,Galarian Stunfisk,Metal,—
+129/190,D,Honedge,Metal,—
+130/190,D,Doublade,Metal,—
+131/190,D,Aegislash,Metal,—
+132/190,D,Corviknight,Metal,—
+133/190,D,Cufant,Metal,—
+134/190,D,Copperajah,Metal,—
+135/190,D,Duraludon,Metal,—
+136/190,D,Zacian,Metal,—
+137/190,D,ZacianV,Metal,RR
+138/190,D,Zamazenta,Metal,—
+139/190,D,ZamazentaV,Metal,RR
+140/190,D,DittoV,Colorless,RR
+141/190,D,DittoVMAX,Colorless,RRR
+142/190,D,Minccino,Colorless,—
+143/190,D,Cinccino,Colorless,—
+144/190,D,Ducklett,Colorless,—
+145/190,D,Swanna,Colorless,—
+146/190,D,Bunnelby,Colorless,—
+147/190,D,Oranguru,Colorless,—
+148/190,D,Skwovet,Colorless,—
+149/190,D,Greedent,Colorless,—
+150/190,D,Rookidee,Colorless,—
+151/190,D,Corvisquire,Colorless,—
+152/190,D,Wooloo,Colorless,—
+153/190,D,Dubwool,Colorless,—
+154/190,D,DubwoolV,Colorless,RR
+155/190,D,CramorantV,Colorless,RR
+156/190,D,Team Yell Towel,I,—
+157/190,D,Scoop Up Net,I,—
+158/190,D,Quick Ball,I,—
+159/190,D,Evolution Incense,I,—
+160/190,D,Hyper Potion,I,—
+161/190,D,Turbo Patch,I,—
+162/190,D,Capacious Bucket,I,—
+163/190,D,Tool Scrapper,I,—
+164/190,D,Ordinary Rod,I,—
+165/190,D,Rare Fossil,I,—
+166/190,D,Metal Saucer,I,—
+167/190,D,Rotom Bike,I,—
+168/190,D,Rusted Sword,I,—
+169/190,D,Rusted Shield,I,—
+170/190,D,Cape of Toughness,I,—
+171/190,D,Air Balloon,I,—
+172/190,D,Bird Keeper,Su,—
+173/190,D,Piers,Su,—
+174/190,D,Professor's Research,Su,—
+175/190,D,Ball Guy,Su,—
+176/190,D,Boss's Orders,Su,—
+177/190,D,Marnie,Su,—
+178/190,D,Rose,Su,—
+179/190,D,Turffield Stadium,St,—
+180/190,D,Training Court,St,—
+181/190,D,Glimwood Tangle,St,—
+182/190,D,Rose Tower,St,—
+183/190,D,Heat Fire Energy,Fire E,—
+184/190,D,Speed Lightning Energy,Lightning E,—
+185/190,D,Horror Psychic Energy,Psychic E,—
+186/190,D,Hiding Darkness Energy,Darkness E,—
+187/190,D,Aurora Energy,Colorless E,—
+188/190,D,Capture Energy,Colorless E,—
+189/190,D,Twin Energy,Colorless E,—
+190/190,D,Powerful Colorless Energy,Colorless E,—
+191/190,D,Cara Liss,Su,SR
+192/190,D,Gym Trainer,Su,SR
+193/190,D,Bird Keeper,Su,SR
+194/190,D,Piers,Su,SR
+195/190,D,Skyla,Su,SR
+196/190,D,Ball Guy,Su,SR
+197/190,D,Poké Kid,Su,SR
+198/190,D,Marnie,Su,SR
+199/190,D,Rose,Su,SR
+200/190,D,Rowlet,Grass,S
+201/190,D,Dartrix,Grass,S
+202/190,D,Decidueye,Grass,S
+203/190,D,Grookey,Grass,S
+204/190,D,Thwackey,Grass,S
+205/190,D,Rillaboom,Grass,S
+206/190,D,Blipbug,Grass,S
+207/190,D,Dottler,Grass,S
+208/190,D,Orbeetle,Grass,S
+209/190,D,Gossifleur,Grass,S
+210/190,D,Eldegoss,Grass,S
+211/190,D,Applin,Grass,S
+212/190,D,Flapple,Grass,S
+213/190,D,Appletun,Grass,S
+214/190,D,Scorbunny,Fire,S
+215/190,D,Raboot,Fire,S
+216/190,D,Cinderace,Fire,S
+217/190,D,Sizzlipede,Fire,S
+218/190,D,Centiskorch,Fire,S
+219/190,D,Galarian Mr. Mime,Water,S
+220/190,D,Galarian Mr. Rime,Water,S
+221/190,D,Suicune,Water,S
+222/190,D,Galarian Darumaka,Water,S
+223/190,D,Galarian Darmanitan,Water,S
+224/190,D,Sobble,Water,S
+225/190,D,Drizzile,Water,S
+226/190,D,Inteleon,Water,S
+227/190,D,Chewtle,Water,S
+228/190,D,Drednaw,Water,S
+229/190,D,Cramorant,Water,S
+230/190,D,Arrokuda,Water,S
+231/190,D,Barraskewda,Water,S
+232/190,D,Snom,Water,S
+233/190,D,Frosmoth,Water,S
+234/190,D,Eiscue,Water,S
+235/190,D,Dracovish,Water,S
+236/190,D,Arctovish,Water,S
+237/190,D,Rotom,Lightning,S
+238/190,D,Yamper,Lightning,S
+239/190,D,Boltund,Lightning,S
+240/190,D,Toxel,Lightning,S
+241/190,D,Toxtricity,Lightning,S
+242/190,D,Pincurchin,Lightning,S
+243/190,D,Morpeko,Lightning,S
+244/190,D,Dracozolt,Lightning,S
+245/190,D,Arctozolt,Lightning,S
+246/190,D,Galarian Ponyta,Psychic,S
+247/190,D,Galarian Rapidash,Psychic,S
+248/190,D,Galarian Corsola,Psychic,S
+249/190,D,Galarian Cursola,Psychic,S
+250/190,D,Dedenne,Psychic,S
+251/190,D,Sinistea,Psychic,S
+252/190,D,Polteageist,Psychic,S
+253/190,D,Hatenna,Psychic,S
+254/190,D,Hattrem,Psychic,S
+255/190,D,Hatterene,Psychic,S
+256/190,D,Milcery,Psychic,S
+257/190,D,Alcremie,Psychic,S
+258/190,D,Indeedee,Psychic,S
+259/190,D,Dreepy,Psychic,S
+260/190,D,Drakloak,Psychic,S
+261/190,D,Dragapult,Psychic,S
+262/190,D,Galarian Farfetch'd,Fighting,S
+263/190,D,Galarian Sirfetch'd,Fighting,S
+264/190,D,Galarian Yamask,Fighting,S
+265/190,D,Galarian Runerigus,Fighting,S
+266/190,D,Rolycoly,Fighting,S
+267/190,D,Carkol,Fighting,S
+268/190,D,Coalossal,Fighting,S
+269/190,D,Silicobra,Fighting,S
+270/190,D,Sandaconda,Fighting,S
+271/190,D,Clobbopus,Fighting,S
+272/190,D,Grapploct,Fighting,S
+273/190,D,Falinks,Fighting,S
+274/190,D,Stonjourner,Fighting,S
+275/190,D,Koffing,Darkness,S
+276/190,D,Galarian Weezing,Darkness,S
+277/190,D,Galarian Zigzagoon,Darkness,S
+278/190,D,Galarian Linoone,Darkness,S
+279/190,D,Galarian Obstagoon,Darkness,S
+280/190,D,Nickit,Darkness,S
+281/190,D,Thievul,Darkness,S
+282/190,D,Impidimp,Darkness,S
+283/190,D,Morgrem,Darkness,S
+284/190,D,Grimmsnarl,Darkness,S
+285/190,D,Galarian Meowth,Metal,S
+286/190,D,Galarian Perrserker,Metal,S
+287/190,D,Galarian Stunfisk,Metal,S
+288/190,D,Corviknight,Metal,S
+289/190,D,Cufant,Metal,S
+290/190,D,Copperajah,Metal,S
+291/190,D,Duraludon,Metal,S
+292/190,D,Minccino,Colorless,S
+293/190,D,Cinccino,Colorless,S
+294/190,D,Ducklett,Colorless,S
+295/190,D,Swanna,Colorless,S
+296/190,D,Bunnelby,Colorless,S
+297/190,D,Oranguru,Colorless,S
+298/190,D,Skwovet,Colorless,S
+299/190,D,Greedent,Colorless,S
+300/190,D,Rookidee,Colorless,S
+301/190,D,Corvisquire,Colorless,S
+302/190,D,Wooloo,Colorless,S
+303/190,D,Dubwool,Colorless,S
+304/190,D,RillaboomV,Grass,SSR
+305/190,D,RillaboomVMAX,Grass,SSR
+306/190,D,EldegossV,Grass,SSR
+307/190,D,CharizardV,Fire,SSR
+308/190,D,CharizardVMAX,Fire,SSR
+309/190,D,CentiskorchV,Fire,SSR
+310/190,D,CentiskorchVMAX,Fire,SSR
+311/190,D,LaprasV,Water,SSR
+312/190,D,LaprasVMAX,Water,SSR
+313/190,D,BoltundV,Lightning,SSR
+314/190,D,ToxtricityV,Lightning,SSR
+315/190,D,ToxtricityVMAX,Lightning,SSR
+316/190,D,IndeedeeV,Psychic,SSR
+317/190,D,DragapultV,Psychic,SSR
+318/190,D,DragapultVMAX,Psychic,SSR
+319/190,D,FalinksV,Fighting,SSR
+320/190,D,CrobatVMAX,Darkness,SSR
+321/190,D,GrimmsnarlV,Darkness,SSR
+322/190,D,GrimmsnarlVMAX,Darkness,SSR
+323/190,D,DittoV,Colorless,SSR
+324/190,D,DittoVMAX,Colorless,SSR
+325/190,D,DubwoolV,Colorless,SSR
+326/190,D,CramorantV,Colorless,SSR
+327/190,D,EternatusV,Darkness,UR
+328/190,D,EternatusVMAX,Darkness,UR
+329/190,D,ZacianV,Metal,UR
+330/190,D,ZamazentaV,Metal,UR

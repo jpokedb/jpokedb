@@ -1,0 +1,128 @@
+No.,Mark,Card name,Type,Rarity
+001/100,F,Venonat,Grass,C
+002/100,F,Venomoth,Grass,U
+003/100,F,Sunkern,Grass,C
+004/100,F,Sunflora,Grass,U
+005/100,F,Seedot,Grass,C
+006/100,F,Nuzleaf,Grass,U
+007/100,F,Shiftry,Grass,R
+008/100,F,Foongus,Grass,C
+009/100,F,Amoonguss,Grass,U
+010/100,F,Durant,Grass,C
+011/100,F,Phantump,Grass,C
+012/100,F,Trevenant,Grass,R
+013/100,F,Vulpix,Fire,C
+014/100,F,Ninetales,Fire,C
+015/100,F,Slugma,Fire,C
+016/100,F,Magcargo,Fire,U
+017/100,F,DelphoxV,Fire,RR
+018/100,F,Fletchinder,Fire,C
+019/100,F,Talonflame,Fire,U
+020/100,F,Seel,Water,C
+021/100,F,Dewgong,Water,U
+022/100,F,Horsea,Water,C
+023/100,F,Seadra,Water,U
+024/100,F,Kingdra,Water,R
+025/100,F,Wailmer,Water,C
+026/100,F,Wailord,Water,U
+027/100,F,Finneon,Water,C
+028/100,F,Lumineon,Water,U
+029/100,F,KyuremV,Water,RR
+030/100,F,KyuremVMAX,Water,RRR
+031/100,F,Dewpider,Water,C
+032/100,F,Araquanid,Water,C
+033/100,F,Cramorant,Water,U
+034/100,F,Glastrier,Water,R
+035/100,F,Chinchou,Lightning,C
+036/100,F,Lanturn,Lightning,C
+037/100,F,RotomV,Lightning,RR
+038/100,F,Emolga,Lightning,C
+039/100,F,Tynamo,Lightning,C
+040/100,F,Eelektrik,Lightning,C
+041/100,F,Eelektross,Lightning,U
+042/100,F,Drowzee,Psychic,C
+043/100,F,Hypno,Psychic,U
+044/100,F,Sableye,Psychic,R
+045/100,F,Shuppet,Psychic,C
+046/100,F,Banette,Psychic,U
+047/100,F,Swirlix,Psychic,C
+048/100,F,Slurpuff,Psychic,C
+049/100,F,Comfey,Psychic,U
+050/100,F,Mimikyu,Psychic,U
+051/100,F,Indeedee,Psychic,C
+052/100,F,Dreepy,Psychic,C
+053/100,F,Drakloak,Psychic,U
+054/100,F,Dragapult,Psychic,R
+055/100,F,Spectrier,Psychic,R
+056/100,F,AerodactylV,Fighting,RR
+057/100,F,AerodactylVSTAR,Fighting,RRR
+058/100,F,Phanpy,Fighting,C
+059/100,F,Donphan,Fighting,C
+060/100,F,Binacle,Fighting,C
+061/100,F,Barbaracle,Fighting,R
+062/100,F,Hawlucha,Fighting,C
+063/100,F,Sandygast,Fighting,C
+064/100,F,Palossand,Fighting,C
+065/100,F,Stonjourner,Fighting,U
+066/100,F,DrapionV,Darkness,RR
+067/100,F,DrapionVSTAR,Darkness,RRR
+068/100,F,Sandile,Darkness,C
+069/100,F,Krokorok,Darkness,U
+070/100,F,Krookodile,Darkness,R
+071/100,F,Mareanie,Darkness,C
+072/100,F,Toxapex,Darkness,U
+073/100,F,Beldum,Metal,C
+074/100,F,Metang,Metal,U
+075/100,F,Metagross,Metal,R
+076/100,F,Ferroseed,Metal,C
+077/100,F,Ferrothorn,Metal,C
+078/100,F,Galarian Stunfisk,Metal,U
+079/100,F,Galarian PerrserkerV,Metal,RR
+080/100,F,GiratinaV,Dragon,RR
+081/100,F,GiratinaVSTAR,Dragon,RRR
+082/100,F,PidgeotV,Colorless,RR
+083/100,F,Porygon,Colorless,C
+084/100,F,Porygon2,Colorless,C
+085/100,F,Porygon-Z,Colorless,U
+086/100,F,Spinda,Colorless,C
+087/100,F,Buneary,Colorless,C
+088/100,F,Lopunny,Colorless,C
+089/100,F,Bouffalant,Colorless,U
+090/100,F,Fletchling,Colorless,C
+091/100,F,Tool Box,I,U
+092/100,F,Mirage Gate,I,U
+093/100,F,Lost Vacuum,I,U
+094/100,F,Panic Mask,I,U
+095/100,F,Colress's Experiment,Su,U
+096/100,F,Lady,Su,U
+097/100,F,Thorton,Su,U
+098/100,F,Fantina,Su,U
+099/100,F,Lost City,St,U
+100/100,F,Gift Energy,Colorless E,U
+101/100,F,DelphoxV,Fire,SR
+102/100,F,KyuremV,Water,SR
+103/100,F,RotomV,Lightning,SR
+104/100,F,RotomV,Lightning,SR
+105/100,F,AerodactylV,Fighting,SR
+106/100,F,AerodactylV,Fighting,SR
+107/100,F,DrapionV,Darkness,SR
+108/100,F,Galarian PerrserkerV,Metal,SR
+109/100,F,Galarian PerrserkerV,Metal,SR
+110/100,F,GiratinaV,Dragon,SR
+111/100,F,GiratinaV,Dragon,SR
+112/100,F,PidgeotV,Colorless,SR
+113/100,F,Colress's Experiment,Su,SR
+114/100,F,Lady,Su,SR
+115/100,F,Thorton,Su,SR
+116/100,F,Fantina,Su,SR
+117/100,F,KyuremVMAX,Water,HR
+118/100,F,AerodactylVSTAR,Fighting,HR
+119/100,F,DrapionVSTAR,Darkness,HR
+120/100,F,GiratinaVSTAR,Dragon,HR
+121/100,F,Colress's Experiment,Su,HR
+122/100,F,Lady,Su,HR
+123/100,F,Thorton,Su,HR
+124/100,F,Fantina,Su,HR
+125/100,F,GiratinaVSTAR,Dragon,UR
+126/100,F,Lost Vacuum,I,UR
+127/100,F,Collapsed Stadium,St,UR

@@ -1,0 +1,126 @@
+No.,Mark,Card name,Type,Rarity
+001/098,F,Oddish,Grass,C
+002/098,F,Gloom,Grass,C
+003/098,F,Bellossom,Grass,U
+004/098,F,Tangela,Grass,C
+005/098,F,Tangrowth,Grass,U
+006/098,F,Spinarak,Grass,C
+007/098,F,Ariados,Grass,R
+008/098,F,Virizion,Grass,C
+009/098,F,ChesnaughtV,Grass,RR
+010/098,F,Ponyta,Fire,C
+011/098,F,Rapidash,Fire,R
+012/098,F,Victini,Fire,C
+013/098,F,Larvesta,Fire,C
+014/098,F,Volcarona,Fire,U
+015/098,F,Litten,Fire,C
+016/098,F,Torracat,Fire,C
+017/098,F,Incineroar,Fire,U
+018/098,F,OmastarV,Water,RR
+019/098,F,Snorunt,Water,C
+020/098,F,Glalie,Water,U
+021/098,F,Froslass,Water,U
+022/098,F,Relicanth,Water,C
+023/098,F,Keldeo,Water,U
+024/098,F,Pikachu,Lightning,C
+025/098,F,Raichu,Lightning,U
+026/098,F,Shinx,Lightning,C
+027/098,F,Luxio,Lightning,C
+028/098,F,Luxray,Lightning,U
+029/098,F,Stunfisk,Lightning,C
+030/098,F,Helioptile,Lightning,C
+031/098,F,Heliolisk,Lightning,C
+032/098,F,Zeraora,Lightning,U
+033/098,F,RegielekiV,Lightning,RR
+034/098,F,RegielekiVMAX,Lightning,RRR
+035/098,F,UnownV,Psychic,RR
+036/098,F,UnownVSTAR,Psychic,RRR
+037/098,F,Meditite,Psychic,C
+038/098,F,Medicham,Psychic,R
+039/098,F,Sigilyph,Psychic,C
+040/098,F,Solosis,Psychic,C
+041/098,F,Duosion,Psychic,C
+042/098,F,Reuniclus,Psychic,R
+043/098,F,Elgyem,Psychic,C
+044/098,F,Beheeyem,Psychic,U
+045/098,F,Dedenne,Psychic,C
+046/098,F,Hisuian ArcanineV,Fighting,RR
+047/098,F,Baltoy,Fighting,C
+048/098,F,Claydol,Fighting,U
+049/098,F,Anorith,Fighting,C
+050/098,F,Armaldo,Fighting,U
+051/098,F,Terrakion,Fighting,R
+052/098,F,Pancham,Fighting,C
+053/098,F,Rockruff,Fighting,C
+054/098,F,Lycanroc,Fighting,U
+055/098,F,Stonjourner,Fighting,U
+056/098,F,SkuntankV,Darkness,RR
+057/098,F,Purrloin,Darkness,C
+058/098,F,Liepard,Darkness,U
+059/098,F,Pangoro,Darkness,U
+060/098,F,Skrelp,Darkness,C
+061/098,F,Dragalge,Darkness,U
+062/098,F,Morpeko,Darkness,C
+063/098,F,Galarian Meowth,Metal,C
+064/098,F,Galarian Perrserker,Metal,U
+065/098,F,Aron,Metal,C
+066/098,F,Lairon,Metal,U
+067/098,F,Aggron,Metal,R
+068/098,F,Cobalion,Metal,C
+069/098,F,Togedemaru,Metal,C
+070/098,F,Dratini,Dragon,C
+071/098,F,Dragonair,Dragon,U
+072/098,F,Dragonite,Dragon,R
+073/098,F,Noibat,Dragon,C
+074/098,F,Noivern,Dragon,U
+075/098,F,Zygarde,Dragon,C
+076/098,F,RegidragoV,Dragon,RR
+077/098,F,RegidragoVSTAR,Dragon,RRR
+078/098,F,Tauros,Colorless,U
+079/098,F,LugiaV,Colorless,RR
+080/098,F,LugiaVSTAR,Colorless,RRR
+081/098,F,Shaymin,Colorless,C
+082/098,F,Archen,Colorless,C
+083/098,F,Archeops,Colorless,R
+084/098,F,Rufflet,Colorless,C
+085/098,F,Hisuian Braviary,Colorless,U
+086/098,F,Yungoos,Colorless,C
+087/098,F,Gumshoos,Colorless,U
+088/098,F,Oranguru,Colorless,C
+089/098,F,Quad Stone,I,U
+090/098,F,Unidentified Fossil,I,C
+091/098,F,Earthen Seal Stone,I,R
+092/098,F,Forest Seal Stone,I,R
+093/098,F,Worker,Su,U
+094/098,F,Brandon,Su,U
+095/098,F,Candice,Su,U
+096/098,F,Lance,Su,U
+097/098,F,Primordial Altar,St,U
+098/098,F,Regenerative Energy,Colorless E,U
+099/098,F,ChesnaughtV,Grass,SR
+100/098,F,OmastarV,Water,SR
+101/098,F,RegielekiV,Lightning,SR
+102/098,F,UnownV,Psychic,SR
+103/098,F,UnownV,Psychic,SR
+104/098,F,Hisuian ArcanineV,Fighting,SR
+105/098,F,SkuntankV,Darkness,SR
+106/098,F,SkuntankV,Darkness,SR
+107/098,F,RegidragoV,Dragon,SR
+108/098,F,RegidragoV,Dragon,SR
+109/098,F,LugiaV,Colorless,SR
+110/098,F,LugiaV,Colorless,SR
+111/098,F,Worker,Su,SR
+112/098,F,Brandon,Su,SR
+113/098,F,Candice,Su,SR
+114/098,F,Lance,Su,SR
+115/098,F,RegielekiVMAX,Lightning,HR
+116/098,F,UnownVSTAR,Psychic,HR
+117/098,F,RegidragoVSTAR,Dragon,HR
+118/098,F,LugiaVSTAR,Colorless,HR
+119/098,F,Worker,Su,HR
+120/098,F,Brandon,Su,HR
+121/098,F,Candice,Su,HR
+122/098,F,Lance,Su,HR
+123/098,F,LugiaVSTAR,Colorless,UR
+124/098,F,Leafy Camo Poncho,I,UR
+125/098,F,Gapejaw Bog,St,UR

@@ -1,0 +1,263 @@
+No.,Mark,Card name,Type,Rarity
+001/172,F,Paras,Grass,—
+002/172,F,Parasect,Grass,—
+003/172,F,Hisuian Voltorb,Grass,—
+004/172,F,Hisuian Electrode,Grass,—
+005/172,F,Hisuian ElectrodeV,Grass,RR
+006/172,F,Turtwig,Grass,—
+007/172,F,Grotle,Grass,—
+008/172,F,Torterra,Grass,—
+009/172,F,Kricketot,Grass,—
+010/172,F,Kricketune,Grass,—
+011/172,F,LeafeonV,Grass,RR
+012/172,E,LeafeonVSTAR,Grass,RRR
+013/172,F,CharizardV,Fire,RR
+014/172,F,CharizardVSTAR,Fire,RRR
+015/172,F,Radiant Charizard,Fire,K
+016/172,F,Magmar,Fire,—
+017/172,F,Magmortar,Fire,—
+018/172,F,Moltres,Fire,—
+019/172,F,EnteiV,Fire,RR
+020/172,F,SimisearV,Fire,RR
+021/172,F,SimisearVSTAR,Fire,RRR
+022/172,E,Oricorio,Fire,—
+023/172,F,Lapras,Water,—
+024/172,E,SuicuneV,Water,RR
+025/172,F,Regice,Water,—
+026/172,F,LumineonV,Water,RR
+027/172,F,Origin Forme PalkiaV,Water,RR
+028/172,F,Origin Forme PalkiaVSTAR,Water,RRR
+029/172,F,Manaphy,Water,—
+030/172,F,Hisuian Basculin,Water,—
+031/172,F,Hisuian Basculegion,Water,—
+032/172,F,Keldeo,Water,—
+033/172,F,Radiant Greninja,Water,K
+034/172,F,Electabuzz,Lightning,—
+035/172,F,Electivire,Lightning,—
+036/172,E,Mareep,Lightning,—
+037/172,E,Flaaffy,Lightning,—
+038/172,F,RaikouV,Lightning,RR
+039/172,F,Radiant Charjabug,Lightning,K
+040/172,F,ZeraoraV,Lightning,RR
+041/172,F,ZeraoraVMAX,Lightning,RRR
+042/172,F,ZeraoraVSTAR,Lightning,RRR
+043/172,E,Toxel,Lightning,—
+044/172,E,Toxtricity,Lightning,—
+045/172,F,Regieleki,Lightning,—
+046/172,F,Gastly,Psychic,—
+047/172,F,Haunter,Psychic,—
+048/172,F,Gengar,Psychic,—
+049/172,E,Galarian Articuno,Psychic,—
+050/172,F,MewtwoV,Psychic,RR
+051/172,F,MewtwoVSTAR,Psychic,RRR
+052/172,E,Mew,Psychic,—
+053/172,E,MewV,Psychic,RR
+054/172,E,MewVMAX,Psychic,RRR
+055/172,F,Radiant Gardevoir,Psychic,K
+056/172,F,Lunatone,Psychic,—
+057/172,F,Duskull,Psychic,—
+058/172,F,Dusclops,Psychic,—
+059/172,F,Dusknoir,Psychic,—
+060/172,E,Deoxys,Psychic,—
+061/172,E,Pumpkaboo,Psychic,—
+062/172,E,Gourgeist,Psychic,—
+063/172,F,Diancie,Psychic,—
+064/172,F,Comfey,Psychic,—
+065/172,F,HattereneV,Psychic,RR
+066/172,F,HattereneVMAX,Psychic,RRR
+067/172,F,ZacianV,Psychic,RR
+068/172,F,EnamorusV,Psychic,RR
+069/172,F,Hisuian Growlithe,Fighting,—
+070/172,F,Hisuian Arcanine,Fighting,—
+071/172,F,MachampV,Fighting,RR
+072/172,F,MachampVMAX,Fighting,RRR
+073/172,E,Galarian Zapdos,Fighting,—
+074/172,F,Solrock,Fighting,—
+075/172,F,Regirock,Fighting,—
+076/172,F,Riolu,Fighting,—
+077/172,F,Lucario,Fighting,—
+078/172,F,Radiant Hawlucha,Fighting,—
+079/172,E,Galarian Moltres,Darkness,—
+080/172,E,Galarian MoltresV,Darkness,RR
+081/172,F,Poochyena,Darkness,—
+082/172,F,Mightyena,Darkness,—
+083/172,F,Absol,Darkness,—
+084/172,F,Spiritomb,Darkness,—
+085/172,F,DrapionV,Darkness,RR
+086/172,F,Hisuian SamurottV,Darkness,RR
+087/172,F,Hisuian SamurottVSTAR,Darkness,RRR
+088/172,F,Purrloin,Darkness,—
+089/172,F,Liepard,Darkness,—
+090/172,E,Zorua,Darkness,—
+091/172,E,Zoroark,Darkness,—
+092/172,F,Nickit,Darkness,—
+093/172,F,Thievul,Darkness,—
+094/172,F,Magnemite,Metal,—
+095/172,F,Magneton,Metal,—
+096/172,F,Magnezone,Metal,—
+097/172,F,Registeel,Metal,—
+098/172,E,Bronzor,Metal,—
+099/172,E,Bronzong,Metal,—
+100/172,F,Origin Forme DialgaV,Metal,RR
+101/172,F,Origin Forme DialgaVSTAR,Metal,RRR
+102/172,E,GenesectV,Metal,RR
+103/172,F,ZamazentaV,Metal,RR
+104/172,E,Altaria,Dragon,—
+105/172,E,Latias,Dragon,—
+106/172,E,Latios,Dragon,—
+107/172,E,RayquazaV,Dragon,RR
+108/172,E,RayquazaVMAX,Dragon,RRR
+109/172,F,GarchompV,Dragon,RR
+110/172,F,GiratinaV,Dragon,RR
+111/172,F,GiratinaVSTAR,Dragon,RRR
+112/172,F,Goomy,Dragon,—
+113/172,F,Hisuian Sliggoo,Dragon,—
+114/172,F,Hisuian Goodra,Dragon,—
+115/172,F,Radiant Eternatus,Dragon,K
+116/172,F,Regidrago,Dragon,—
+117/172,F,Ditto,Colorless,—
+118/172,E,Dunsparce,Colorless,—
+119/172,F,Miltank,Colorless,—
+120/172,E,Swablu,Colorless,—
+121/172,F,Bidoof,Colorless,—
+122/172,F,Bibarel,Colorless,—
+123/172,F,Regigigas,Colorless,—
+124/172,F,RegigigasV,Colorless,RR
+125/172,F,RegigigasVSTAR,Colorless,RRR
+126/172,F,ArceusV,Colorless,RR
+127/172,F,ArceusVSTAR,Colorless,RRR
+128/172,F,Hisuian ZoroarkV,Colorless,RR
+129/172,F,Hisuian ZoroarkVSTAR,Colorless,RRR
+130/172,F,OranguruV,Colorless,RR
+131/172,F,WyrdeerV,Colorless,RR
+132/172,E,Fan of Waves,I,—
+133/172,F,Gutsy Pickaxe,I,—
+134/172,E,Fog Crystal,I,—
+135/172,F,Dark Patch,I,—
+136/172,F,Damage Pump,I,—
+137/172,F,Trekking Shoes,I,—
+138/172,F,Ultra Ball,I,—
+139/172,E,Power Tablet,I,—
+140/172,F,Hisuian Heavy Ball,I,—
+141/172,F,Mirage Gate,I,—
+142/172,E,Rescue Carrier,I,—
+143/172,E,Level Ball,I,—
+144/172,F,Lost Vacuum,I,—
+145/172,F,Choice Belt,I,—
+146/172,F,Sky Seal Stone,I,—
+147/172,F,Leafy Camo Poncho,I,—
+148/172,F,Colress's Experiment,Su,—
+149/172,F,Irida,Su,—
+150/172,E,Elesa's Sparkle,Su,—
+151/172,E,Raihan,Su,—
+152/172,F,Grant,Su,—
+153/172,F,Cynthia's Ambition,Su,—
+154/172,F,Friends in Sinnoh,Su,—
+155/172,F,Adaman,Su,—
+156/172,F,Cheren's Care,Su,—
+157/172,F,Roxanne,Su,—
+158/172,F,Gardenia's Vigor,Su,—
+159/172,F,Professor's Research [Professor Rowan],Su,—
+160/172,F,Friends in Hisui,Su,—
+161/172,F,Boss's Orders [Cyrus],Su,—
+162/172,E,Melony,Su,—
+163/172,E,Cheryl,Su,—
+164/172,E,Stormy Mountains,St,—
+165/172,E,Path to the Peak,St,—
+166/172,F,Gapejaw Bog,St,—
+167/172,F,Collapsed Stadium,St,—
+168/172,F,Jubilife Village,St,—
+169/172,F,Temple of Sinnoh,St,—
+170/172,F,Magma Basin,St,—
+171/172,F,Double Turbo Energy,Colorless E,—
+172/172,E,Fusion Strike Energy,Rainbow E,—
+173/172,F,Hisuian Voltorb,Grass,AR
+174/172,F,Kricketune,Grass,AR
+175/172,F,Magmortar,Fire,AR
+176/172,E,Oricorio,Fire,AR
+177/172,F,Lapras,Water,AR
+178/172,F,Manaphy,Water,AR
+179/172,F,Keldeo,Water,AR
+180/172,F,Electivire,Lightning,AR
+181/172,E,Toxtricity,Lightning,AR
+182/172,E,Galarian Articuno,Psychic,AR
+183/172,E,Mew,Psychic,AR
+184/172,F,Lunatone,Psychic,AR
+185/172,E,Deoxys,Psychic,AR
+186/172,F,Diancie,Psychic,AR
+187/172,F,Comfey,Psychic,AR
+188/172,E,Galarian Zapdos,Fighting,AR
+189/172,F,Solrock,Fighting,AR
+190/172,E,Galarian Moltres,Darkness,AR
+191/172,F,Absol,Darkness,AR
+192/172,F,Thievul,Darkness,AR
+193/172,F,Magnezone,Metal,AR
+194/172,E,Altaria,Dragon,AR
+195/172,E,Latias,Dragon,AR
+196/172,F,Hisuian Goodra,Dragon,AR
+197/172,F,Ditto,Colorless,AR
+198/172,E,Dunsparce,Colorless,AR
+199/172,F,Miltank,Colorless,AR
+200/172,F,Bibarel,Colorless,AR
+201/172,F,Riolu,Fighting,AR
+202/172,E,Swablu,Colorless,AR
+203/172,F,Duskull,Psychic,AR
+204/172,F,Bidoof,Colorless,AR
+205/172,F,Pikachu,Lightning,AR
+206/172,F,Turtwig,Grass,AR
+207/172,F,Paras,Grass,AR
+208/172,F,Poochyena,Darkness,AR
+209/172,E,Mareep,Lightning,AR
+210/172,F,LeafeonVSTAR,Grass,SAR
+211/172,F,CharizardV,Fire,SAR
+212/172,F,CharizardVSTAR,Fire,SAR
+213/172,F,EnteiV,Fire,SAR
+214/172,F,SimisearVSTAR,Fire,SAR
+215/172,E,SuicuneV,Water,SAR
+216/172,F,LumineonV,Water,SAR
+217/172,F,GlaceonVSTAR,Water,SAR
+218/172,F,RaikouV,Lightning,SAR
+219/172,F,ZeraoraVMAX,Lightning,SAR
+220/172,F,ZeraoraVSTAR,Lightning,SAR
+221/172,F,MewtwoVSTAR,Psychic,SAR
+222/172,F,DeoxysVMAX,Psychic,SAR
+223/172,F,DeoxysVSTAR,Psychic,SAR
+224/172,F,HattereneVMAX,Psychic,SAR
+225/172,E,ZacianV,Psychic,SAR
+226/172,F,LucarioVSTAR,Fighting,SAR
+227/172,F,DrapionV,Darkness,SAR
+228/172,F,DarkraiVSTAR,Darkness,SAR
+229/172,F,Hisuian SamurottV,Darkness,SAR
+230/172,F,Hisuian SamurottVSTAR,Darkness,SAR
+231/172,E,HoopaV,Darkness,SAR
+232/172,F,ZamazentaV,Metal,SAR
+233/172,F,RegigigasVSTAR,Colorless,SAR
+234/172,F,Hisuian ZoroarkVSTAR,Colorless,SAR
+235/172,F,Colress's Experiment,Su,SAR
+236/172,F,Irida,Su,SAR
+237/172,E,Raihan,Su,SAR
+238/172,F,Grant,Su,SAR
+239/172,F,Cynthia's Ambition,Su,SAR
+240/172,F,Adaman,Su,SAR
+241/172,F,Cheren's Care,Su,SAR
+242/172,F,Roxanne,Su,SAR
+243/172,F,Gardenia's Vigor,Su,SAR
+244/172,F,Melony,Su,SAR
+245/172,F,Volo,Su,SR
+246/172,E,Elesa's Sparkle,Su,SR
+247/172,F,Friends in Sinnoh,Su,SR
+248/172,F,Professor's Research [Professor Rowan],Su,SR
+249/172,F,Friends in Hisui,Su,SR
+250/172,F,Boss's Orders [Cyrus],Su,SR
+251/172,—,Grass Energy,Grass E,SR
+252/172,—,Fire Energy,Fire E,SR
+253/172,—,Water Energy,Water E,SR
+254/172,—,Lightning Energy,Lightning E,SR
+255/172,—,Psychic Energy,Psychic E,SR
+256/172,—,Fighting Energy,Fighting E,SR
+257/172,—,Darkness Energy,Darkness E,SR
+258/172,—,Metal Energy,Metal E,SR
+259/172,F,Origin Forme PalkiaVSTAR,Water,UR
+260/172,F,Origin Forme DialgaVSTAR,Metal,UR
+261/172,F,GiratinaVSTAR,Dragon,UR
+262/172,F,ArceusVSTAR,Colorless,UR

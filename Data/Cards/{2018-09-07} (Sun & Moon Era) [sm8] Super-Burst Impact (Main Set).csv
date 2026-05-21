@@ -1,0 +1,112 @@
+No.,Mark,Card name,Type,Rarity
+001/095,B,Scyther,Grass,C
+002/095,B,Chikorita,Grass,C
+003/095,B,Chikorita,Grass,C
+004/095,B,Bayleef,Grass,C
+005/095,B,Meganium,Grass,R
+006/095,B,Spinarak,Grass,C
+007/095,B,Ariados,Grass,C
+008/095,B,Hoppip,Grass,C
+009/095,B,Hoppip,Grass,C
+010/095,B,Skiploom,Grass,C
+011/095,B,Jumpluff,Grass,R
+012/095,B,Pineco,Grass,C
+013/095,B,ShuckleGX,Grass,RR
+014/095,B,Heracross,Grass,C
+015/095,B,Celebi Prism Star,Grass,PR
+016/095,B,Cyndaquil,Fire,C
+017/095,B,Cyndaquil,Fire,C
+018/095,B,Quilava,Fire,C
+019/095,B,Typhlosion,Fire,R
+020/095,B,Houndour,Fire,C
+021/095,B,Houndoom,Fire,U
+022/095,B,Entei,Fire,R
+023/095,B,BlacephalonGX,Fire,RR
+024/095,B,Slowpoke,Water,C
+025/095,B,Slowking,Water,U
+026/095,B,Delibird,Water,C
+027/095,B,Mantine,Water,C
+028/095,B,SuicuneGX,Water,RR
+029/095,B,Mareanie,Water,C
+030/095,B,Toxapex,Water,U
+031/095,B,Chinchou,Lightning,C
+032/095,B,Lanturn,Lightning,U
+033/095,B,Mareep,Lightning,C
+034/095,B,Mareep,Lightning,C
+035/095,B,Flaaffy,Lightning,C
+036/095,B,Ampharos,Lightning,R
+037/095,B,Raikou,Lightning,R
+038/095,B,Natu,Psychic,C
+039/095,B,Xatu,Psychic,C
+040/095,B,Espeon,Psychic,U
+041/095,B,Unown,Psychic,U
+042/095,B,Unown,Psychic,U
+043/095,B,Unown,Psychic,U
+044/095,B,Wobbuffet,Psychic,U
+045/095,B,Girafarig,Psychic,C
+046/095,B,Nihilego,Psychic,R
+047/095,B,Poipole,Psychic,C
+048/095,B,Naganadel,Psychic,R
+049/095,B,Sudowoodo,Fighting,C
+050/095,B,Phanpy,Fighting,C
+051/095,B,Donphan,Fighting,U
+052/095,B,Hitmontop,Fighting,C
+053/095,B,Larvitar,Fighting,C
+054/095,B,Larvitar,Fighting,C
+055/095,B,Pupitar,Fighting,C
+056/095,B,Alolan Meowth,Darkness,C
+057/095,B,Alolan Persian,Darkness,U
+058/095,B,Umbreon,Darkness,U
+059/095,B,TyranitarGX,Darkness,RR
+060/095,B,Forretress,Metal,U
+061/095,B,Scizor,Metal,R
+062/095,B,Marill,Fairy,C
+063/095,B,Azumarill,Fairy,C
+064/095,B,Snubbull,Fairy,C
+065/095,B,Granbull,Fairy,U
+066/095,B,Chansey,Colorless,C
+067/095,B,Blissey,Colorless,R
+068/095,B,Eevee,Colorless,C
+069/095,B,Stantler,Colorless,C
+070/095,B,Smeargle,Colorless,U
+071/095,B,Miltank,Colorless,U
+072/095,B,LugiaGX,Colorless,RR
+073/095,B,Pikipek,Colorless,C
+074/095,B,Pikipek,Colorless,C
+075/095,B,Trumbeak,Colorless,C
+076/095,B,Toucannon,Colorless,U
+077/095,B,Wait and See Hammer,I,U
+078/095,A,Ultra Ball,I,U
+079/095,A,Rare Candy,I,U
+080/095,A,Switch,I,U
+081/095,A,Pokémon Catcher,I,U
+082/095,B,Moomoo Milk,I,U
+083/095,B,Lost Blender,I,U
+084/095,A,Choice Band,I,U
+085/095,B,Choice Helmet,I,U
+086/095,B,Fairy Charm Grass,I,U
+087/095,B,Whitney,Su,U
+088/095,B,Professor Elm's Lecture,Su,U
+089/095,B,Faba,Su,U
+090/095,A,Hau,Su,U
+091/095,A,Lillie,Su,U
+092/095,B,Lusamine Prism Star,Su,PR
+093/095,B,Heat Factory Prism Star,St,PR
+094/095,A,Double Colorless Energy,Colorless E,U
+095/095,B,Memory Energy,Colorless E,C
+096/095,B,ShuckleGX,Grass,SR
+097/095,B,BlacephalonGX,Fire,SR
+098/095,B,SuicuneGX,Water,SR
+099/095,B,TyranitarGX,Darkness,SR
+100/095,B,LugiaGX,Colorless,SR
+101/095,B,Whitney,Su,SR
+102/095,B,Professor Elm's Lecture,Su,SR
+103/095,B,Faba,Su,SR
+104/095,B,ShuckleGX,Grass,HR
+105/095,B,BlacephalonGX,Fire,HR
+106/095,B,SuicuneGX,Water,HR
+107/095,B,TyranitarGX,Darkness,HR
+108/095,B,LugiaGX,Colorless,HR
+109/095,B,Wait and See Hammer,I,UR
+110/095,B,Lost Blender,I,UR
+111/095,B,Choice Helmet,I,UR

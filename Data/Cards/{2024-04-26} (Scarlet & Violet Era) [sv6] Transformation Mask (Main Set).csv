@@ -1,0 +1,134 @@
+No.,Mark,Card name,Type,Rarity
+001/101,H,Sunkern,Grass,C
+002/101,H,Sunflora,Grass,U
+003/101,H,Heracross,Grass,U
+004/101,H,Volbeat,Grass,C
+005/101,H,Illumise,Grass,C
+006/101,H,Phantump,Grass,C
+007/101,H,Trevenant,Grass,C
+008/101,H,Grookey,Grass,C
+009/101,H,Thwackey,Grass,C
+010/101,H,Rillaboom,Grass,U
+011/101,H,Applin,Grass,C
+012/101,H,Dipplin,Grass,U
+013/101,H,Poltchageist,Grass,C
+014/101,H,Sinistcha,Grass,R
+015/101,H,Teal Mask Ogerpon,Grass,R
+016/101,H,Teal Mask Ogerponex,Grass,RR
+017/101,H,Darumaka,Fire,C
+018/101,H,Darmanitan,Fire,U
+019/101,H,Litwick,Fire,C
+020/101,H,Lampent,Fire,C
+021/101,H,Chandelure,Fire,R
+022/101,H,Hearthflame Mask Ogerponex,Fire,RR
+023/101,H,Poliwag,Water,C
+024/101,H,Poliwhirl,Water,C
+025/101,H,Poliwrath,Water,U
+026/101,H,Goldeen,Water,C
+027/101,H,Seaking,Water,C
+028/101,H,Jynx,Water,C
+029/101,H,Feebas,Water,C
+030/101,H,Milotic,Water,U
+031/101,H,Snorunt,Water,C
+032/101,H,Glalie,Water,U
+033/101,H,Froslass,Water,R
+034/101,H,Finizen,Water,C
+035/101,H,Palafin,Water,U
+036/101,H,Palafinex,Water,RR
+037/101,H,Iron Bundle,Water,U
+038/101,H,Wellspring Mask Ogerponex,Water,RR
+039/101,H,Shinx,Lightning,C
+040/101,H,Luxio,Lightning,C
+041/101,H,Luxrayex,Lightning,RR
+042/101,H,Emolga,Lightning,C
+043/101,H,Wattrel,Lightning,C
+044/101,H,Kilowattrel,Lightning,U
+045/101,H,Clefairy,Psychic,C
+046/101,H,Clefable,Psychic,U
+047/101,H,Abra,Psychic,C
+048/101,H,Kadabra,Psychic,C
+049/101,H,Alakazam,Psychic,R
+050/101,H,Chimecho,Psychic,C
+051/101,H,Swirlix,Psychic,C
+052/101,H,Slurpuff,Psychic,U
+053/101,H,Sandygast,Psychic,C
+054/101,H,Palossand,Psychic,C
+055/101,H,Munkidori,Psychic,R
+056/101,H,Fezandipiti,Psychic,R
+057/101,H,Sandshrew,Fighting,C
+058/101,H,Sandslash,Fighting,U
+059/101,H,Timburr,Fighting,C
+060/101,H,Gurdurr,Fighting,C
+061/101,H,Conkeldurr,Fighting,U
+062/101,H,Glimmet,Fighting,C
+063/101,H,Glimmora,Fighting,U
+064/101,H,Okidogi,Fighting,R
+065/101,H,Cornerstone Mask Ogerponex,Fighting,RR
+066/101,H,Poochyena,Darkness,C
+067/101,H,Mightyena,Darkness,U
+068/101,H,Venipede,Darkness,C
+069/101,H,Whirlipede,Darkness,C
+070/101,H,Scolipede,Darkness,U
+071/101,H,Brute Bonnet,Darkness,U
+072/101,H,Skarmory,Metal,C
+073/101,H,Aron,Metal,C
+074/101,H,Lairon,Metal,C
+075/101,H,Aggron,Metal,U
+076/101,H,Heatran,Metal,R
+077/101,H,Varoom,Metal,C
+078/101,H,Revavroom,Metal,U
+079/101,H,Dreepy,Dragon,C
+080/101,H,Drakloak,Dragon,C
+081/101,H,Dragapultex,Dragon,RR
+082/101,H,Tatsugiri,Dragon,U
+083/101,H,Farfetch'd,Colorless,C
+084/101,H,Chansey,Colorless,C
+085/101,H,Blisseyex,Colorless,RR
+086/101,H,Aipom,Colorless,C
+087/101,H,Ambipom,Colorless,U
+088/101,H,Ducklett,Colorless,C
+089/101,H,Swanna,Colorless,U
+090/101,H,Ogre's Mask,I,U
+091/101,H,Accompanying Flute,I,U
+092/101,H,Secret Box,I,ACE
+093/101,H,Scoop Up Cyclone,I,ACE
+094/101,H,Bug Catching Set,I,U
+095/101,H,Handheld Fan,PT,U
+096/101,H,Kieran,Su,U
+097/101,H,Carmine,Su,U
+098/101,H,Hassel,Su,U
+099/101,H,Festival Grounds,St,U
+100/101,H,Jamming Tower,St,U
+101/101,H,Legacy Energy,Rainbow E,ACE
+102/101,H,Sunflora,Grass,AR
+103/101,H,Dipplin,Grass,AR
+104/101,H,Froslass,Water,AR
+105/101,H,Wattrel,Lightning,AR
+106/101,H,Chimecho,Psychic,AR
+107/101,H,Munkidori,Psychic,AR
+108/101,H,Fezandipiti,Psychic,AR
+109/101,H,Timburr,Fighting,AR
+110/101,H,Okidogi,Fighting,AR
+111/101,H,Lairon,Metal,AR
+112/101,H,Tatsugiri,Dragon,AR
+113/101,H,Chansey,Colorless,AR
+114/101,H,Teal Mask Ogerponex,Grass,SR
+115/101,H,Hearthflame Mask Ogerponex,Fire,SR
+116/101,H,Palafinex,Water,SR
+117/101,H,Wellspring Mask Ogerponex,Water,SR
+118/101,H,Luxrayex,Lightning,SR
+119/101,H,Cornerstone Mask Ogerponex,Fighting,SR
+120/101,H,Dragapultex,Dragon,SR
+121/101,H,Blisseyex,Colorless,SR
+122/101,H,Kieran,Su,SR
+123/101,H,Carmine,Su,SR
+124/101,H,Hassel,Su,SR
+125/101,H,Teal Mask Ogerponex,Grass,SAR
+126/101,H,Hearthflame Mask Ogerponex,Fire,SAR
+127/101,H,Wellspring Mask Ogerponex,Water,SAR
+128/101,H,Cornerstone Mask Ogerponex,Fighting,SAR
+129/101,H,Kieran,Su,SAR
+130/101,H,Carmine,Su,SAR
+131/101,H,Teal Mask Ogerponex,Grass,UR
+132/101,H,Enhanced Hammer,I,UR
+133/101,H,Buddy-Buddy Poffin,I,UR

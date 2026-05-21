@@ -1,0 +1,95 @@
+No.,Mark,Card name,Type,Rarity
+001/068,F,Scyther,Grass,C
+002/068,F,Yanma,Grass,C
+003/068,F,Yanmega,Grass,U
+004/068,F,Carnivine,Grass,C
+005/068,F,SerperiorV,Grass,RR
+006/068,F,SerperiorVSTAR,Grass,RRR
+007/068,F,Petilil,Grass,C
+008/068,F,Hisuian Lilligant,Grass,U
+009/068,F,Radiant Tsareena,Grass,K
+010/068,F,Zarude,Grass,R
+011/068,F,Calyrex,Grass,R
+012/068,F,Growlithe,Fire,C
+013/068,F,Arcanine,Fire,U
+014/068,F,Entei,Fire,R
+015/068,F,ReshiramV,Fire,RR
+016/068,F,Fennekin,Fire,C
+017/068,F,Braixen,Fire,C
+018/068,F,Delphox,Fire,U
+019/068,F,Volcanion,Fire,R
+020/068,F,Salandit,Fire,C
+021/068,F,Salazzle,Fire,C
+022/068,F,Alolan VulpixV,Water,RR
+023/068,F,Alolan VulpixVSTAR,Water,RRR
+024/068,F,Articuno,Water,R
+025/068,F,Wailmer,Water,C
+026/068,F,Wailord,Water,U
+027/068,F,Feebas,Water,C
+028/068,F,Milotic,Water,U
+029/068,F,Luvdisc,Water,C
+030/068,F,Kyogre,Water,C
+031/068,F,Radiant Alakazam,Psychic,K
+032/068,F,Exeggcute,Psychic,C
+033/068,F,Exeggutor,Psychic,U
+034/068,F,Jynx,Psychic,U
+035/068,F,Mewtwo,Psychic,R
+036/068,F,Ralts,Psychic,C
+037/068,F,Kirlia,Psychic,C
+038/068,F,Gardevoir,Psychic,U
+039/068,F,MawileV,Psychic,RR
+040/068,F,MawileVSTAR,Psychic,RRR
+041/068,F,Espurr,Psychic,C
+042/068,F,Meowstic,Psychic,U
+043/068,F,Tapu Lele,Psychic,R
+044/068,F,Scizor,Metal,U
+045/068,F,Radiant Jirachi,Metal,K
+046/068,F,Klink,Metal,C
+047/068,F,Klang,Metal,C
+048/068,F,Klinklang,Metal,C
+049/068,F,Pawniard,Metal,C
+050/068,F,Bisharp,Metal,C
+051/068,F,MagearnaV,Metal,RR
+052/068,F,Zacian,Metal,R
+053/068,F,Zamazenta,Metal,R
+054/068,F,Smeargle,Colorless,C
+055/068,F,Ho-OhV,Colorless,RR
+056/068,F,Swablu,Colorless,C
+057/068,F,Altaria,Colorless,U
+058/068,F,Chatot,Colorless,C
+059/068,F,Energy Switch,I,U
+060/068,F,Capturing Aroma,I,U
+061/068,F,Switch,I,U
+062/068,F,Emergency Jelly,I,U
+063/068,F,Judge,Su,U
+064/068,F,Serena,Su,U
+065/068,F,Furisode Girl,Su,C
+066/068,F,Wallace,Su,C
+067/068,F,Double Turbo Energy,Colorless E,U
+068/068,F,V Guard Energy,Colorless E,U
+069/068,F,Braixen,Fire,CHR
+070/068,F,Milotic,Water,CHR
+071/068,F,Jynx,Psychic,CHR
+072/068,F,Gardevoir,Psychic,CHR
+073/068,F,Smeargle,Colorless,CHR
+074/068,F,Altaria,Colorless,CHR
+075/068,F,SerperiorV,Grass,SR
+076/068,F,ReshiramV,Fire,SR
+077/068,F,Alolan VulpixV,Water,SR
+078/068,F,MawileV,Psychic,SR
+079/068,F,MagearnaV,Metal,SR
+080/068,F,Ho-OhV,Colorless,SR
+081/068,F,Serena,Su,SR
+082/068,F,Furisode Girl,Su,SR
+083/068,F,Wallace,Su,SR
+084/068,F,SerperiorV,Grass,CSR
+085/068,F,MawileV,Psychic,CSR
+086/068,F,SerperiorVSTAR,Grass,HR
+087/068,F,Alolan VulpixVSTAR,Water,HR
+088/068,F,MawileVSTAR,Psychic,HR
+089/068,F,Serena,Su,HR
+090/068,F,Furisode Girl,Su,HR
+091/068,F,Wallace,Su,HR
+092/068,F,SerperiorVSTAR,Grass,UR
+093/068,F,Energy Switch,I,UR
+094/068,F,V Guard Energy,Colorless E,UR

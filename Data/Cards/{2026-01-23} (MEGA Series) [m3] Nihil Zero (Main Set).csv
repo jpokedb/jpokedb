@@ -1,0 +1,118 @@
+No.,Mark,Card name,Type,Rarity
+001/080,J,Spinarak,Grass,C
+002/080,J,Ariados,Grass,C
+003/080,J,Shaymin,Grass,U
+004/080,J,Snivy,Grass,C
+005/080,J,Servine,Grass,C
+006/080,J,Serperior,Grass,R
+007/080,J,Scatterbug,Grass,C
+008/080,J,Spewpa,Grass,C
+009/080,J,Vivillon,Grass,U
+010/080,J,Rowlet,Grass,C
+011/080,J,Dartrix,Grass,C
+012/080,J,Decidueyeex,Grass,RR
+013/080,J,Fletchinder,Fire,C
+014/080,J,Talonflame,Fire,U
+015/080,J,Salandit,Fire,C
+016/080,J,Salazzleex,Fire,RR
+017/080,J,Turtonator,Fire,U
+018/080,J,Seel,Water,C
+019/080,J,Dewgong,Water,R
+020/080,J,Staryu,Water,C
+021/080,J,Mega Starmieex,Water,RR
+022/080,J,Amaura,Water,C
+023/080,J,Aurorus,Water,U
+024/080,J,Volcanion,Water,U
+025/080,J,Shinx,Lightning,C
+026/080,J,Luxio,Lightning,U
+027/080,J,Luxray,Lightning,R
+028/080,J,Dedenne,Lightning,C
+029/080,J,Clefairy,Psychic,C
+030/080,J,Mega Clefableex,Psychic,RR
+031/080,J,Mawile,Psychic,C
+032/080,J,Espurr,Psychic,C
+033/080,J,Meowstic,Psychic,U
+034/080,J,Spritzee,Psychic,C
+035/080,J,Aromatisse,Psychic,U
+036/080,J,Nosepass,Fighting,C
+037/080,J,Probopass,Fighting,C
+038/080,J,Hippopotas,Fighting,C
+039/080,J,Hippowdon,Fighting,U
+040/080,J,Landorus,Fighting,R
+041/080,J,Binacle,Fighting,C
+042/080,J,Barbaracle,Fighting,U
+043/080,J,Tyrunt,Fighting,C
+044/080,J,Tyrantrum,Fighting,U
+045/080,J,Hawlucha,Fighting,C
+046/080,J,Mega Zygardeex,Fighting,RR
+047/080,J,Gastly,Darkness,C
+048/080,J,Haunter,Darkness,C
+049/080,J,Gengar,Darkness,U
+050/080,J,Skorupi,Darkness,C
+051/080,J,Drapion,Darkness,U
+052/080,J,Yveltalex,Darkness,RR
+053/080,J,Chien-Pao,Darkness,R
+054/080,J,Mega Skarmoryex,Metal,RR
+055/080,J,Honedge,Metal,C
+056/080,J,Doublade,Metal,C
+057/080,J,Aegislash,Metal,U
+058/080,J,Klefki,Metal,C
+059/080,J,Rattata,Colorless,C
+060/080,J,Raticate,Colorless,U
+061/080,J,Meowthex,Colorless,RR
+062/080,J,Snorlax,Colorless,C
+063/080,J,Bunnelby,Colorless,C
+064/080,J,Diggersby,Colorless,U
+065/080,J,Fletchling,Colorless,C
+066/080,J,Furfrou,Colorless,C
+067/080,J,Energy Swatter,I,U
+068/080,J,Antique Jaw Fossil,I,C
+069/080,J,Antique Sail Fossil,I,C
+070/080,J,Poké Pad,I,U
+071/080,J,Lumiose Galette,I,U
+072/080,J,Core Memory,PT,U
+073/080,J,Tarragon,Su,U
+074/080,J,Naveen,Su,U
+075/080,J,Rosa's Encouragement,Su,U
+076/080,J,Jacinthe,Su,U
+077/080,J,Lumiose City,St,U
+078/080,J,Growing Grass Energy,Grass E,R
+079/080,J,Telepathic Psychic Energy,Psychic E,R
+080/080,J,Rocky Fighting Energy,Fighting E,R
+081/080,J,Spewpa,Grass,AR
+082/080,J,Rowlet,Grass,AR
+083/080,J,Talonflame,Fire,AR
+084/080,J,Aurorus,Water,AR
+085/080,J,Dedenne,Lightning,AR
+086/080,J,Clefairy,Psychic,AR
+087/080,J,Espurr,Psychic,AR
+088/080,J,Probopass,Fighting,AR
+089/080,J,Tyrunt,Fighting,AR
+090/080,J,Drapion,Darkness,AR
+091/080,J,Doublade,Metal,AR
+092/080,J,Raticate,Colorless,AR
+093/080,J,Decidueyeex,Grass,SR
+094/080,J,Salazzleex,Fire,SR
+095/080,J,Mega Starmieex,Water,SR
+096/080,J,Mega Clefableex,Psychic,SR
+097/080,J,Mega Zygardeex,Fighting,SR
+098/080,J,Yveltalex,Darkness,SR
+099/080,J,Mega Skarmoryex,Metal,SR
+100/080,J,Meowthex,Colorless,SR
+101/080,I,Energy Recycler,I,SR
+102/080,I,Sacred Ash,I,SR
+103/080,J,Poké Pad,I,SR
+104/080,I,Wondrous Patch,I,SR
+105/080,J,Tarragon,Su,SR
+106/080,J,Naveen,Su,SR
+107/080,J,Rosa's Encouragement,Su,SR
+108/080,J,Jacinthe,Su,SR
+109/080,I,Forest of Vitality,St,SR
+110/080,J,Lumiose City,St,SR
+111/080,J,Mega Starmieex,Water,SAR
+112/080,J,Mega Clefableex,Psychic,SAR
+113/080,J,Mega Zygardeex,Fighting,SAR
+114/080,J,Meowthex,Colorless,SAR
+115/080,J,Rosa's Encouragement,Su,SAR
+116/080,J,Jacinthe,Su,SAR
+117/080,J,Mega Zygardeex,Fighting,MUR

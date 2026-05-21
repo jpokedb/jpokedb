@@ -1,0 +1,211 @@
+No.,Mark,Card name,Type,Rarity
+001/165,G,Bulbasaur,Grass,C
+002/165,G,Ivysaur,Grass,U
+003/165,G,Venusaurex,Grass,RR
+004/165,G,Charmander,Fire,C
+005/165,G,Charmeleon,Fire,U
+006/165,G,Charizardex,Fire,RR
+007/165,G,Squirtle,Water,C
+008/165,G,Wartortle,Water,U
+009/165,G,Blastoiseex,Water,RR
+010/165,G,Caterpie,Grass,C
+011/165,G,Metapod,Grass,C
+012/165,G,Butterfree,Grass,U
+013/165,G,Weedle,Grass,C
+014/165,G,Kakuna,Grass,C
+015/165,G,Beedrill,Grass,R
+016/165,G,Pidgey,Colorless,C
+017/165,G,Pidgeotto,Colorless,C
+018/165,G,Pidgeot,Colorless,U
+019/165,G,Rattata,Colorless,C
+020/165,G,Raticate,Colorless,U
+021/165,G,Spearow,Colorless,C
+022/165,G,Fearow,Colorless,U
+023/165,G,Ekans,Darkness,C
+024/165,G,Arbokex,Darkness,RR
+025/165,G,Pikachu,Lightning,C
+026/165,G,Raichu,Lightning,R
+027/165,G,Sandshrew,Fighting,C
+028/165,G,Sandslash,Fighting,U
+029/165,G,Nidoran♀,Darkness,C
+030/165,G,Nidorina,Darkness,U
+031/165,G,Nidoqueen,Darkness,U
+032/165,G,Nidoran♂,Darkness,C
+033/165,G,Nidorino,Darkness,U
+034/165,G,Nidoking,Darkness,R
+035/165,G,Clefairy,Psychic,C
+036/165,G,Clefable,Psychic,U
+037/165,G,Vulpix,Fire,C
+038/165,G,Ninetalesex,Fire,RR
+039/165,G,Jigglypuff,Colorless,C
+040/165,G,Wigglytuffex,Colorless,RR
+041/165,G,Zubat,Darkness,C
+042/165,G,Golbat,Darkness,U
+043/165,G,Oddish,Grass,C
+044/165,G,Gloom,Grass,U
+045/165,G,Vileplume,Grass,R
+046/165,G,Paras,Grass,C
+047/165,G,Parasect,Grass,U
+048/165,G,Venonat,Grass,C
+049/165,G,Venomoth,Grass,U
+050/165,G,Diglett,Fighting,C
+051/165,G,Dugtrio,Fighting,U
+052/165,G,Meowth,Colorless,C
+053/165,G,Persian,Colorless,U
+054/165,G,Psyduck,Water,C
+055/165,G,Golduck,Water,U
+056/165,G,Mankey,Fighting,C
+057/165,G,Primeape,Fighting,U
+058/165,G,Growlithe,Fire,C
+059/165,G,Arcanine,Fire,U
+060/165,G,Poliwag,Water,C
+061/165,G,Poliwhirl,Water,C
+062/165,G,Poliwrath,Water,U
+063/165,G,Abra,Psychic,C
+064/165,G,Kadabra,Psychic,U
+065/165,G,Alakazamex,Psychic,RR
+066/165,G,Machop,Fighting,C
+067/165,G,Machoke,Fighting,U
+068/165,G,Machamp,Fighting,R
+069/165,G,Bellsprout,Grass,C
+070/165,G,Weepinbell,Grass,C
+071/165,G,Victreebel,Grass,U
+072/165,G,Tentacool,Water,C
+073/165,G,Tentacruel,Water,U
+074/165,G,Geodude,Fighting,C
+075/165,G,Graveler,Fighting,U
+076/165,G,Golemex,Fighting,RR
+077/165,G,Ponyta,Fire,C
+078/165,G,Rapidash,Fire,U
+079/165,G,Slowpoke,Psychic,C
+080/165,G,Slowbro,Psychic,U
+081/165,G,Magnemite,Lightning,C
+082/165,G,Magneton,Lightning,U
+083/165,G,Farfetch'd,Colorless,C
+084/165,G,Doduo,Colorless,C
+085/165,G,Dodrio,Colorless,R
+086/165,G,Seel,Water,C
+087/165,G,Dewgong,Water,U
+088/165,G,Grimer,Darkness,C
+089/165,G,Muk,Darkness,U
+090/165,G,Shellder,Water,C
+091/165,G,Cloyster,Water,U
+092/165,G,Gastly,Psychic,C
+093/165,G,Haunter,Psychic,U
+094/165,G,Gengar,Psychic,R
+095/165,G,Onix,Fighting,U
+096/165,G,Drowzee,Psychic,C
+097/165,G,Hypno,Psychic,U
+098/165,G,Krabby,Water,C
+099/165,G,Kingler,Water,U
+100/165,G,Voltorb,Lightning,C
+101/165,G,Electrode,Lightning,R
+102/165,G,Exeggcute,Grass,C
+103/165,G,Exeggutor,Grass,U
+104/165,G,Cubone,Fighting,C
+105/165,G,Marowak,Fighting,R
+106/165,G,Hitmonlee,Fighting,U
+107/165,G,Hitmonchan,Fighting,U
+108/165,G,Lickitung,Colorless,C
+109/165,G,Koffing,Darkness,C
+110/165,G,Weezing,Darkness,R
+111/165,G,Rhyhorn,Fighting,C
+112/165,G,Rhydon,Fighting,U
+113/165,G,Chansey,Colorless,R
+114/165,G,Tangela,Grass,C
+115/165,G,Kangaskhanex,Colorless,RR
+116/165,G,Horsea,Water,C
+117/165,G,Seadra,Water,U
+118/165,G,Goldeen,Water,C
+119/165,G,Seaking,Water,U
+120/165,G,Staryu,Water,C
+121/165,G,Starmie,Water,R
+122/165,G,Mr. Mime,Psychic,R
+123/165,G,Scyther,Grass,U
+124/165,G,Jynxex,Water,RR
+125/165,G,Electabuzz,Lightning,C
+126/165,G,Magmar,Fire,C
+127/165,G,Pinsir,Grass,U
+128/165,G,Tauros,Colorless,U
+129/165,G,Magikarp,Water,C
+130/165,G,Gyarados,Water,R
+131/165,G,Lapras,Water,U
+132/165,G,Ditto,Colorless,R
+133/165,G,Eevee,Colorless,C
+134/165,G,Vaporeon,Water,R
+135/165,G,Jolteon,Lightning,R
+136/165,G,Flareon,Fire,R
+137/165,G,Porygon,Colorless,C
+138/165,G,Omanyte,Water,U
+139/165,G,Omastar,Water,R
+140/165,G,Kabuto,Fighting,U
+141/165,G,Kabutops,Fighting,R
+142/165,G,Aerodactyl,Colorless,R
+143/165,G,Snorlax,Colorless,U
+144/165,G,Articuno,Water,R
+145/165,G,Zapdosex,Lightning,RR
+146/165,G,Moltres,Fire,R
+147/165,G,Dratini,Dragon,C
+148/165,G,Dragonair,Dragon,U
+149/165,G,Dragonite,Dragon,R
+150/165,G,Mewtwo,Psychic,R
+151/165,G,Mewex,Psychic,RR
+152/165,G,Energy Sticker,I,U
+153/165,G,Grabber,I,U
+154/165,G,Antique Helix Fossil,I,C
+155/165,G,Antique Dome Fossil,I,C
+156/165,G,Antique Old Amber,I,C
+157/165,G,Protective Goggles,PT,U
+158/165,G,Big Air Balloon,PT,U
+159/165,G,Rigid Band,PT,U
+160/165,G,Leftovers,PT,U
+161/165,G,Erika's Invitation,Su,U
+162/165,G,Giovanni's Charisma,Su,U
+163/165,G,Daisy's Help,Su,U
+164/165,G,Bill's Transfer,Su,U
+165/165,G,Cycling Road,St,U
+166/165,G,Bulbasaur,Grass,AR
+167/165,G,Ivysaur,Grass,AR
+168/165,G,Charmander,Fire,AR
+169/165,G,Charmeleon,Fire,AR
+170/165,G,Squirtle,Water,AR
+171/165,G,Wartortle,Water,AR
+172/165,G,Caterpie,Grass,AR
+173/165,G,Pikachu,Lightning,AR
+174/165,G,Nidoking,Darkness,AR
+175/165,G,Psyduck,Water,AR
+176/165,G,Poliwhirl,Water,AR
+177/165,G,Machoke,Fighting,AR
+178/165,G,Tangela,Grass,AR
+179/165,G,Mr. Mime,Psychic,AR
+180/165,G,Omanyte,Water,AR
+181/165,G,Snorlax,Colorless,AR
+182/165,G,Dragonair,Dragon,AR
+183/165,G,Mewtwo,Psychic,AR
+184/165,G,Venusaurex,Grass,SR
+185/165,G,Charizardex,Fire,SR
+186/165,G,Blastoiseex,Water,SR
+187/165,G,Arbokex,Darkness,SR
+188/165,G,Ninetalesex,Fire,SR
+189/165,G,Wigglytuffex,Colorless,SR
+190/165,G,Alakazamex,Psychic,SR
+191/165,G,Golemex,Fighting,SR
+192/165,G,Kangaskhanex,Colorless,SR
+193/165,G,Jynxex,Water,SR
+194/165,G,Zapdosex,Lightning,SR
+195/165,G,Mewex,Psychic,SR
+196/165,G,Erika's Invitation,Su,SR
+197/165,G,Giovanni's Charisma,Su,SR
+198/165,G,Daisy's Help,Su,SR
+199/165,G,Bill's Transfer,Su,SR
+200/165,G,Venusaurex,Grass,SAR
+201/165,G,Charizardex,Fire,SAR
+202/165,G,Blastoiseex,Water,SAR
+203/165,G,Alakazamex,Psychic,SAR
+204/165,G,Zapdosex,Lightning,SAR
+205/165,G,Mewex,Psychic,SAR
+206/165,G,Erika's Invitation,Su,SAR
+207/165,G,Giovanni's Charisma,Su,SAR
+208/165,G,Mewex,Psychic,UR
+209/165,G,Switch,I,UR
+210/165,—,Basic Psychic Energy,Psychic E,UR

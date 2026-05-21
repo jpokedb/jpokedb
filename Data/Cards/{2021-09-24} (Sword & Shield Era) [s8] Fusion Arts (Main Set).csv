@@ -1,0 +1,130 @@
+No.,Mark,Card name,Type,Rarity
+001/100,E,Caterpie,Grass,C
+002/100,E,Metapod,Grass,C
+003/100,E,Butterfree,Grass,R
+004/100,E,Shroomish,Grass,C
+005/100,E,Breloom,Grass,C
+006/100,E,Maractus,Grass,U
+007/100,E,Shelmet,Grass,C
+008/100,E,Accelgor,Grass,U
+009/100,E,Virizion,Grass,U
+010/100,E,Grubbin,Grass,C
+011/100,E,TsareenaV,Grass,RR
+012/100,E,Growlithe,Fire,C
+013/100,E,Arcanine,Fire,U
+014/100,E,ChandelureV,Fire,RR
+015/100,E,ChandelureVMAX,Fire,RRR
+016/100,E,Heatmor,Fire,C
+017/100,E,Oricorio,Fire,U
+018/100,E,Staryu,Water,C
+019/100,E,Starmie,Water,R
+020/100,E,Totodile,Water,C
+021/100,E,Croconaw,Water,U
+022/100,E,Feraligatr,Water,R
+023/100,E,Clamperl,Water,C
+024/100,E,Huntail,Water,U
+025/100,E,Gorebyss,Water,U
+026/100,E,CrabominableV,Water,RR
+027/100,E,Pyukumuku,Water,C
+028/100,E,Snom,Water,C
+029/100,E,Frosmoth,Water,U
+030/100,E,Helioptile,Lightning,C
+031/100,E,Heliolisk,Lightning,C
+032/100,E,Charjabug,Lightning,C
+033/100,E,Vikavolt,Lightning,U
+034/100,E,BoltundV,Lightning,RR
+035/100,E,BoltundVMAX,Lightning,RRR
+036/100,E,Toxel,Lightning,C
+037/100,E,Toxtricity,Lightning,R
+038/100,E,Jynx,Psychic,C
+039/100,E,MewV,Psychic,RR
+040/100,E,MewVMAX,Psychic,RRR
+041/100,E,Snubbull,Psychic,C
+042/100,E,Granbull,Psychic,U
+043/100,E,Galarian Corsola,Psychic,C
+044/100,E,Galarian Cursola,Psychic,U
+045/100,E,Deoxys,Psychic,R
+046/100,E,Munna,Psychic,C
+047/100,E,Musharna,Psychic,C
+048/100,E,Meloetta,Psychic,U
+049/100,E,Dreepy,Psychic,C
+050/100,E,Drakloak,Psychic,U
+051/100,E,Dragapult,Psychic,R
+052/100,E,Geodude,Fighting,C
+053/100,E,Graveler,Fighting,C
+054/100,E,Golem,Fighting,U
+055/100,E,Onix,Fighting,C
+056/100,E,Steelix,Fighting,R
+057/100,E,Drilbur,Fighting,C
+058/100,E,Falinks,Fighting,U
+059/100,E,Galarian Zigzagoon,Darkness,C
+060/100,E,Galarian Linoone,Darkness,U
+061/100,E,Galarian Obstagoon,Darkness,R
+062/100,E,Trubbish,Darkness,C
+063/100,E,Garbodor,Darkness,U
+064/100,E,Vullaby,Darkness,C
+065/100,E,Mandibuzz,Darkness,C
+066/100,E,HoopaV,Darkness,RR
+067/100,E,Excadrill,Metal,C
+068/100,E,Durant,Metal,C
+069/100,E,GenesectV,Metal,RR
+070/100,E,Togedemaru,Metal,C
+071/100,E,Meltan,Metal,C
+072/100,E,Melmetal,Metal,R
+073/100,E,Corviknight,Metal,U
+074/100,E,Latias,Dragon,U
+075/100,E,Latios,Dragon,R
+076/100,E,Goomy,Dragon,C
+077/100,E,Sliggoo,Dragon,C
+078/100,E,Goodra,Dragon,U
+079/100,E,Dunsparce,Colorless,U
+080/100,E,Smeargle,Colorless,C
+081/100,E,Skitty,Colorless,C
+082/100,E,Delcatty,Colorless,C
+083/100,E,Bunnelby,Colorless,C
+084/100,E,Diggersby,Colorless,C
+085/100,E,GreedentV,Colorless,RR
+086/100,E,GreedentVMAX,Colorless,RRR
+087/100,E,Rookidee,Colorless,C
+088/100,E,Corvisquire,Colorless,C
+089/100,E,Crossceiver,I,U
+090/100,E,Cross Switcher,I,U
+091/100,E,Battle VIP Pass,I,U
+092/100,E,Power Tablet,I,U
+093/100,E,Spongy Gloves,I,U
+094/100,E,Farewell Bell,I,U
+095/100,E,Sidney,Su,U
+096/100,E,Elesa's Sparkle,Su,U
+097/100,E,Dancer,Su,U
+098/100,E,Chili & Cilan & Cress,Su,U
+099/100,E,Skaters' Park,St,U
+100/100,E,Fusion Strike Energy,Rainbow E,U
+101/100,E,TsareenaV,Grass,SR
+102/100,E,ChandelureV,Fire,SR
+103/100,E,CrabominableV,Water,SR
+104/100,E,BoltundV,Lightning,SR
+105/100,E,MewV,Psychic,SR
+106/100,E,MewV,Psychic,SR
+107/100,E,HoopaV,Darkness,SR
+108/100,E,GenesectV,Metal,SR
+109/100,E,GenesectV,Metal,SR
+110/100,E,GreedentV,Colorless,SR
+111/100,E,GreedentV,Colorless,SR
+112/100,E,Sidney,Su,SR
+113/100,E,Elesa's Sparkle,Su,SR
+114/100,E,Dancer,Su,SR
+115/100,E,Chili & Cilan & Cress,Su,SR
+116/100,E,ChandelureVMAX,Fire,HR
+117/100,E,BoltundVMAX,Lightning,HR
+118/100,E,MewVMAX,Psychic,HR
+119/100,E,MewVMAX,Psychic,HR
+120/100,E,GreedentVMAX,Colorless,HR
+121/100,E,Sidney,Su,HR
+122/100,E,Elesa's Sparkle,Su,HR
+123/100,E,Dancer,Su,HR
+124/100,E,Chili & Cilan & Cress,Su,HR
+125/100,E,Flaaffy,Lightning,UR
+126/100,E,Power Tablet,I,UR
+127/100,D,Training Court,St,UR
+128/100,—,Grass Energy,Grass E,UR
+129/100,—,Fire Energy,Fire E,UR

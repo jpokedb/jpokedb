@@ -1,0 +1,251 @@
+No.,Mark,Card name,Type,Rarity
+001/150,A,Bulbasaur,Grass,—
+002/150,A,Ivysaur,Grass,—
+003/150,A,Venusaur,Grass,—
+004/150,B,Exeggcute,Grass,—
+005/150,B,Mow Rotom,Grass,—
+006/150,B,Shaymin Prism Star,Grass,PR
+007/150,A,Wimpod,Grass,—
+008/150,A,GolisopodGX,Grass,RR
+009/150,B,Pheromosa,Grass,—
+010/150,B,Slugma,Fire,—
+011/150,B,Magcargo,Fire,—
+012/150,B,Torchic,Fire,—
+013/150,B,Combusken,Fire,—
+014/150,B,Blaziken,Fire,—
+015/150,B,Heat Rotom,Fire,—
+016/150,B,Heatmor,Fire,—
+017/150,A,Reshiram,Fire,—
+018/150,B,ReshiramGX,Fire,RR
+019/150,B,Fennekin,Fire,—
+020/150,B,Braixen,Fire,—
+021/150,B,Delphox,Fire,—
+022/150,A,Alolan Vulpix,Water,—
+023/150,B,Wooper,Water,—
+024/150,B,Quagsire,Water,—
+025/150,B,Snover,Water,—
+026/150,B,Abomasnow,Water,—
+027/150,B,GlaceonGX,Water,RR
+028/150,B,Wash Rotom,Water,—
+029/150,B,Frost Rotom,Water,—
+030/150,A,Manaphy,Water,—
+031/150,B,Froakie,Water,—
+032/150,B,Frogadier,Water,—
+033/150,B,GreninjaGX,Water,RR
+034/150,A,Raikou,Lightning,—
+035/150,B,Pachirisu,Lightning,—
+036/150,B,Rotom,Lightning,—
+037/150,A,Zekrom,Lightning,—
+038/150,B,Xurkitree,Lightning,—
+039/150,A,XurkitreeGX,Lightning,RR
+040/150,B,Alolan Marowak,Psychic,—
+041/150,A,Seviper,Psychic,—
+042/150,B,Inkay,Psychic,—
+043/150,B,Malamar,Psychic,—
+044/150,A,Tapu LeleGX,Psychic,RR
+045/150,B,Cosmog,Psychic,—
+046/150,B,Cosmoem,Psychic,—
+047/150,B,Lunala Prism Star,Psychic,PR
+048/150,B,Dawn Wings Necrozma,Psychic,—
+049/150,B,Dawn Wings NecrozmaGX,Psychic,RR
+050/150,A,Marshadow,Psychic,—
+051/150,B,Poipole,Psychic,—
+052/150,B,NaganadelGX,Psychic,RR
+053/150,B,Cubone,Fighting,—
+054/150,A,Sudowoodo,Fighting,—
+055/150,B,Riolu,Fighting,—
+056/150,B,Lucario,Fighting,—
+057/150,B,Zygarde,Fighting,—
+058/150,B,Diancie Prism Star,Fighting,PR
+059/150,B,Rockruff,Fighting,—
+060/150,A,LycanrocGX,Fighting,RR
+061/150,B,LycanrocGX,Fighting,RR
+062/150,B,Buzzwole,Fighting,—
+063/150,A,BuzzwoleGX,Fighting,RR
+064/150,A,MarshadowGX,Fighting,RR
+065/150,B,Sneasel,Darkness,—
+066/150,B,Weavile,Darkness,—
+067/150,B,Sableye,Darkness,—
+068/150,A,Darkrai,Darkness,—
+069/150,A,Zorua,Darkness,—
+070/150,A,ZoroarkGX,Darkness,RR
+071/150,A,Deino,Darkness,—
+072/150,A,Zweilous,Darkness,—
+073/150,A,Hydreigon,Darkness,—
+074/150,A,Hoopa,Darkness,—
+075/150,B,Guzzlord,Darkness,—
+076/150,B,Alolan Diglett,Metal,—
+077/150,B,Alolan Dugtrio,Metal,—
+078/150,B,Magnemite,Metal,—
+079/150,B,Magneton,Metal,—
+080/150,B,Magnezone,Metal,—
+081/150,B,Heatran,Metal,—
+082/150,B,Solgaleo Prism Star,Metal,PR
+083/150,B,Celesteela,Metal,—
+084/150,B,Kartana,Metal,—
+085/150,B,Dusk Mane Necrozma,Metal,—
+086/150,B,Dusk Mane NecrozmaGX,Metal,RR
+087/150,A,Magearna,Metal,—
+088/150,B,StakatakaGX,Metal,RR
+089/150,B,Alolan Ninetales,Fairy,—
+090/150,A,Ralts,Fairy,—
+091/150,A,Kirlia,Fairy,—
+092/150,A,GardevoirGX,Fairy,RR
+093/150,A,Xerneas,Fairy,—
+094/150,A,Diancie,Fairy,—
+095/150,B,Mimikyu,Fairy,—
+096/150,B,Alolan Exeggutor,Dragon,—
+097/150,B,Altaria,Dragon,—
+098/150,B,RayquazaGX,Dragon,RR
+099/150,B,Gible,Dragon,—
+100/150,B,Gabite,Dragon,—
+101/150,B,Garchomp,Dragon,—
+102/150,A,Zygarde,Dragon,—
+103/150,B,Turtonator,Dragon,—
+104/150,B,Ultra NecrozmaGX,Dragon,RR
+105/150,A,Eevee,Colorless,—
+106/150,B,Dunsparce,Colorless,—
+107/150,B,Swablu,Colorless,—
+108/150,B,Fan Rotom,Colorless,—
+109/150,A,Oranguru,Colorless,—
+110/150,A,Type: Null,Colorless,—
+111/150,A,SilvallyGX,Colorless,RR
+112/150,A,Energy Loto,I,—
+113/150,A,Energy Recycler,I,—
+114/150,A,Counter Catcher,I,—
+115/150,B,Beast Ring,I,—
+116/150,B,Fiery Flint,I,—
+117/150,A,Field Blower,I,—
+118/150,A,Max Potion,I,—
+119/150,B,Mysterious Treasure,I,—
+120/150,A,Rescue Stretcher,I,—
+121/150,B,Water Memory,I,—
+122/150,B,Escape Board,I,—
+123/150,B,Grass Memory,I,—
+124/150,B,Metal Frying Pan,I,—
+125/150,A,Wishful Baton,I,—
+126/150,B,Fairy Charm UB,I,—
+127/150,A,Bodybuilding Dumbbells,I,—
+128/150,A,Acerola,Su,—
+129/150,B,Diantha,Su,—
+130/150,A,Guzma,Su,—
+131/150,A,Gladion,Su,—
+132/150,B,Cynthia,Su,—
+133/150,B,Volkner,Su,—
+134/150,B,Ingo & Emmet,Su,—
+135/150,B,Copycat,Su,—
+136/150,A,Lusamine,Su,—
+137/150,B,Morgan,Su,—
+138/150,B,Dana,Su,—
+139/150,B,Evelyn,Su,—
+140/150,B,Nita,Su,—
+141/150,B,Shrine of Punishment,St,—
+142/150,B,Wela Volcano Park,St,—
+143/150,B,Ultra Space,St,—
+144/150,B,Mt. Coronet,St,—
+145/150,B,Wondrous Labyrinth Prism Star,St,PR
+146/150,A,Counter Energy,Colorless E,—
+147/150,B,Beast Energy Prism Star,Colorless E,PR
+148/150,B,Unit Energy GrassFireWater,Colorless E,—
+149/150,B,Unit Energy LightningPsychicMetal,Colorless E,—
+150/150,B,Unit Energy FightingDarknessFairy,Colorless E,—
+151/150,B,Aether Foundation Employee,Su,SR
+152/150,A,Guzma,Su,SR
+153/150,B,Cynthia,Su,SR
+154/150,B,Fisherman,Su,SR
+155/150,B,Ingo & Emmet,Su,SR
+156/150,A,Hiker,Su,SR
+157/150,B,Morgan,Su,SR
+158/150,B,Dana,Su,SR
+159/150,B,Evelyn,Su,SR
+160/150,B,Nita,Su,SR
+161/150,B,Scyther,Grass,S
+162/150,A,Rowlet,Grass,S
+163/150,A,Dartrix,Grass,S
+164/150,A,Wimpod,Grass,S
+165/150,B,Pheromosa,Grass,S
+166/150,B,Charmander,Fire,S
+167/150,B,Charmeleon,Fire,S
+168/150,A,Alolan Vulpix,Water,S
+169/150,B,Wooper,Water,S
+170/150,B,Quagsire,Water,S
+171/150,B,Froakie,Water,S
+172/150,B,Frogadier,Water,S
+173/150,B,Voltorb,Lightning,S
+174/150,B,Xurkitree,Lightning,S
+175/150,A,Seviper,Psychic,S
+176/150,B,Shuppet,Psychic,S
+177/150,B,Inkay,Psychic,S
+178/150,B,Malamar,Psychic,S
+179/150,B,Poipole,Psychic,S
+180/150,A,Sudowoodo,Fighting,S
+181/150,B,Riolu,Fighting,S
+182/150,B,Lucario,Fighting,S
+183/150,B,Rockruff,Fighting,S
+184/150,B,Buzzwole,Fighting,S
+185/150,A,Zorua,Darkness,S
+186/150,B,Guzzlord,Darkness,S
+187/150,B,Magnemite,Metal,S
+188/150,B,Magneton,Metal,S
+189/150,B,Magnezone,Metal,S
+190/150,A,Beldum,Metal,S
+191/150,A,Metang,Metal,S
+192/150,B,Celesteela,Metal,S
+193/150,B,Kartana,Metal,S
+194/150,A,Ralts,Fairy,S
+195/150,A,Kirlia,Fairy,S
+196/150,A,Diancie,Fairy,S
+197/150,B,Altaria,Dragon,S
+198/150,B,Gible,Dragon,S
+199/150,B,Gabite,Dragon,S
+200/150,B,Garchomp,Dragon,S
+201/150,A,Eevee,Colorless,S
+202/150,B,Swablu,Colorless,S
+203/150,A,Noibat,Colorless,S
+204/150,A,Oranguru,Colorless,S
+205/150,A,Type: Null,Colorless,S
+206/150,B,LeafeonGX,Grass,SSR
+207/150,A,DecidueyeGX,Grass,SSR
+208/150,A,GolisopodGX,Grass,SSR
+209/150,A,CharizardGX,Fire,SSR
+210/150,A,Ho-OhGX,Fire,SSR
+211/150,B,ReshiramGX,Fire,SSR
+212/150,A,TurtonatorGX,Fire,SSR
+213/150,A,Alolan NinetalesGX,Water,SSR
+214/150,B,ArticunoGX,Water,SSR
+215/150,B,GlaceonGX,Water,SSR
+216/150,B,GreninjaGX,Water,SSR
+217/150,B,ElectrodeGX,Lightning,SSR
+218/150,A,XurkitreeGX,Lightning,SSR
+219/150,A,MewtwoGX,Psychic,SSR
+220/150,A,EspeonGX,Psychic,SSR
+221/150,B,BanetteGX,Psychic,SSR
+222/150,A,NihilegoGX,Psychic,SSR
+223/150,B,NaganadelGX,Psychic,SSR
+224/150,B,LucarioGX,Fighting,SSR
+225/150,B,ZygardeGX,Fighting,SSR
+226/150,A,LycanrocGX,Fighting,SSR
+227/150,B,LycanrocGX,Fighting,SSR
+228/150,A,BuzzwoleGX,Fighting,SSR
+229/150,A,UmbreonGX,Darkness,SSR
+230/150,A,DarkraiGX,Darkness,SSR
+231/150,A,ZoroarkGX,Darkness,SSR
+232/150,A,GuzzlordGX,Darkness,SSR
+233/150,B,ScizorGX,Metal,SSR
+234/150,A,MetagrossGX,Metal,SSR
+235/150,A,KartanaGX,Metal,SSR
+236/150,B,StakatakaGX,Metal,SSR
+237/150,A,GardevoirGX,Fairy,SSR
+238/150,A,SylveonGX,Fairy,SSR
+239/150,B,AltariaGX,Dragon,SSR
+240/150,B,RayquazaGX,Dragon,SSR
+241/150,A,NoivernGX,Dragon,SSR
+242/150,A,SilvallyGX,Colorless,SSR
+243/150,A,DrampaGX,Colorless,SSR
+244/150,A,Tapu BuluGX,Grass,UR
+245/150,A,Tapu FiniGX,Water,UR
+246/150,A,Tapu KokoGX,Lightning,UR
+247/150,A,Tapu LeleGX,Psychic,UR
+248/150,B,LunalaGX,Psychic,UR
+249/150,B,SolgaleoGX,Metal,UR
+250/150,B,Ultra NecrozmaGX,Dragon,UR

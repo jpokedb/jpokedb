@@ -1,0 +1,128 @@
+No.,Mark,Card name,Type,Rarity
+001/100,F,Exeggcute,Grass,C
+002/100,F,Exeggutor,Grass,C
+003/100,F,Shroomish,Grass,C
+004/100,F,Breloom,Grass,U
+005/100,F,Tropius,Grass,U
+006/100,F,Turtwig,Grass,C
+007/100,F,Grotle,Grass,C
+008/100,F,Torterra,Grass,R
+009/100,F,Burmy,Grass,C
+010/100,F,Wormadam,Grass,U
+011/100,F,Mothim,Grass,U
+012/100,F,ShayminV,Grass,RR
+013/100,F,ShayminVSTAR,Grass,RRR
+014/100,F,CharizardV,Fire,RR
+015/100,F,CharizardVSTAR,Fire,RRR
+016/100,F,Magmar,Fire,C
+017/100,F,Magmortar,Fire,U
+018/100,F,Moltres,Fire,R
+019/100,F,Chimchar,Fire,C
+020/100,F,Monferno,Fire,C
+021/100,F,Infernape,Fire,R
+022/100,F,Lapras,Water,U
+023/100,F,Corphish,Water,C
+024/100,F,Crawdaunt,Water,C
+025/100,F,Piplup,Water,C
+026/100,F,Prinplup,Water,C
+027/100,F,Empoleon,Water,R
+028/100,F,Buizel,Water,C
+029/100,F,Floatzel,Water,U
+030/100,F,LumineonV,Water,RR
+031/100,F,Manaphy,Water,U
+032/100,F,Cubchoo,Water,C
+033/100,F,Beartic,Water,U
+034/100,F,RaichuV,Lightning,RR
+035/100,F,Electabuzz,Lightning,C
+036/100,F,Electivire,Lightning,U
+037/100,F,Shinx,Lightning,C
+038/100,F,Luxio,Lightning,C
+039/100,F,Luxray,Lightning,U
+040/100,F,Pachirisu,Lightning,C
+041/100,F,Clefairy,Psychic,C
+042/100,F,Clefable,Psychic,U
+043/100,F,Baltoy,Psychic,C
+044/100,F,Claydol,Psychic,U
+045/100,F,Duskull,Psychic,C
+046/100,F,Dusclops,Psychic,C
+047/100,F,Dusknoir,Psychic,R
+048/100,F,Chimecho,Psychic,C
+049/100,F,WhimsicottV,Psychic,RR
+050/100,F,WhimsicottVSTAR,Psychic,RRR
+051/100,F,Sigilyph,Psychic,C
+052/100,F,Nosepass,Fighting,C
+053/100,F,Wormadam,Fighting,U
+054/100,F,Riolu,Fighting,C
+055/100,F,Lucario,Fighting,R
+056/100,F,Throh,Fighting,C
+057/100,F,Sawk,Fighting,C
+058/100,F,Golett,Fighting,C
+059/100,F,Golurk,Fighting,U
+060/100,F,Grimer,Darkness,C
+061/100,F,Muk,Darkness,U
+062/100,F,Sneasel,Darkness,C
+063/100,F,Weavile,Darkness,U
+064/100,F,HonchkrowV,Darkness,RR
+065/100,F,Spiritomb,Darkness,C
+066/100,F,Wormadam,Metal,U
+067/100,F,Probopass,Metal,U
+068/100,F,Heatran,Metal,U
+069/100,F,Klink,Metal,C
+070/100,F,Klang,Metal,C
+071/100,F,Klinklang,Metal,U
+072/100,F,FlygonV,Dragon,RR
+073/100,F,Gible,Dragon,C
+074/100,F,Gabite,Dragon,C
+075/100,F,Garchomp,Dragon,R
+076/100,F,Farfetch'd,Colorless,C
+077/100,F,Castform,Colorless,C
+078/100,F,Starly,Colorless,C
+079/100,F,Staravia,Colorless,C
+080/100,F,Staraptor,Colorless,U
+081/100,F,Bidoof,Colorless,C
+082/100,F,Bibarel,Colorless,R
+083/100,F,ArceusV,Colorless,RR
+084/100,F,ArceusVSTAR,Colorless,RRR
+085/100,F,Minccino,Colorless,C
+086/100,F,Cinccino,Colorless,C
+087/100,F,Tornadus,Colorless,U
+088/100,F,Fresh Water Set,I,U
+089/100,F,Ultra Ball,I,U
+090/100,F,Choice Belt,I,U
+091/100,F,Pot Helmet,I,U
+092/100,F,Kindler,Su,U
+093/100,F,Cynthia's Ambition,Su,U
+094/100,F,Cheren's Care,Su,U
+095/100,F,Professor's Research [Professor Rowan],Su,R
+096/100,F,Roseanne's Backup,Su,U
+097/100,F,Boss's Orders [Cyrus],Su,R
+098/100,F,Collapsed Stadium,St,U
+099/100,F,Magma Basin,St,U
+100/100,F,Double Turbo Energy,Colorless E,U
+101/100,F,ShayminV,Grass,SR
+102/100,F,CharizardV,Fire,SR
+103/100,F,CharizardV,Fire,SR
+104/100,F,LumineonV,Water,SR
+105/100,F,LumineonV,Water,SR
+106/100,F,RaichuV,Lightning,SR
+107/100,F,WhimsicottV,Psychic,SR
+108/100,F,HonchkrowV,Darkness,SR
+109/100,F,HonchkrowV,Darkness,SR
+110/100,F,FlygonV,Dragon,SR
+111/100,F,ArceusV,Colorless,SR
+112/100,F,ArceusV,Colorless,SR
+113/100,F,Kindler,Su,SR
+114/100,F,Cynthia's Ambition,Su,SR
+115/100,F,Cheren's Care,Su,SR
+116/100,F,Roseanne's Backup,Su,SR
+117/100,F,ShayminVSTAR,Grass,HR
+118/100,F,CharizardVSTAR,Fire,HR
+119/100,F,WhimsicottVSTAR,Psychic,HR
+120/100,F,ArceusVSTAR,Colorless,HR
+121/100,F,Kindler,Su,HR
+122/100,F,Cynthia's Ambition,Su,HR
+123/100,F,Cheren's Care,Su,HR
+124/100,F,Roseanne's Backup,Su,HR
+125/100,F,ArceusVSTAR,Colorless,UR
+126/100,F,Ultra Ball,I,UR
+127/100,F,Magma Basin,St,UR

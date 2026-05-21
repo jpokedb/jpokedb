@@ -1,0 +1,121 @@
+No.,Mark,Card name,Type,Rarity
+001/083,J,Weedle,Grass,C
+002/083,J,Kakuna,Grass,C
+003/083,J,Beedrillex,Grass,RR
+004/083,J,Carnivine,Grass,C
+005/083,J,Chespin,Grass,C
+006/083,J,Quilladin,Grass,C
+007/083,J,Chesnaught,Grass,R
+008/083,J,Vulpix,Fire,C
+009/083,J,Ninetales,Fire,U
+010/083,J,Ho-Oh,Fire,U
+011/083,J,Fennekin,Fire,C
+012/083,J,Braixen,Fire,C
+013/083,J,Delphox,Fire,R
+014/083,J,Litleo,Fire,C
+015/083,J,Mega Pyroarex,Fire,RR
+016/083,J,Remoraid,Water,C
+017/083,J,Octillery,Water,C
+018/083,J,Delibird,Water,U
+019/083,J,Keldeo,Water,U
+020/083,J,Froakie,Water,C
+021/083,J,Frogadier,Water,C
+022/083,J,Mega Greninjaex,Water,RR
+023/083,J,Bergmite,Water,C
+024/083,J,Avalugg,Water,U
+025/083,J,Wimpod,Water,C
+026/083,J,Golisopod,Water,U
+027/083,J,Mareep,Lightning,C
+028/083,J,Flaaffy,Lightning,C
+029/083,J,Ampharos,Lightning,R
+030/083,J,Emolga,Lightning,C
+031/083,J,Deoxys,Psychic,U
+032/083,J,Deoxys,Psychic,U
+033/083,J,Deoxys,Psychic,U
+034/083,J,Deoxys,Psychic,U
+035/083,J,Mega Floetteex,Psychic,RR
+036/083,J,Espurr,Psychic,C
+037/083,J,Meowstic,Psychic,U
+038/083,J,Phantump,Psychic,C
+039/083,J,Trevenant,Psychic,R
+040/083,J,Pumpkaboo,Psychic,C
+041/083,J,Gourgeistex,Psychic,RR
+042/083,J,Xerneas,Psychic,R
+043/083,J,Sudowoodo,Fighting,U
+044/083,J,Phanpy,Fighting,C
+045/083,J,Donphan,Fighting,C
+046/083,J,Baltoy,Fighting,C
+047/083,J,Claydol,Fighting,U
+048/083,J,Zubat,Darkness,C
+049/083,J,Golbat,Darkness,C
+050/083,J,Crobat,Darkness,U
+051/083,J,Qwilfish,Darkness,C
+052/083,J,Stunky,Darkness,C
+053/083,J,Skuntank,Darkness,U
+054/083,J,Trubbish,Darkness,C
+055/083,J,Garbodor,Darkness,U
+056/083,J,Skrelp,Darkness,C
+057/083,J,Beldum,Metal,C
+058/083,J,Metang,Metal,C
+059/083,J,Metagross,Metal,U
+060/083,J,Ferroseed,Metal,C
+061/083,J,Ferrothorn,Metal,U
+062/083,J,Cobalionex,Metal,RR
+063/083,J,Mega Dragalgeex,Dragon,RR
+064/083,J,Goomy,Dragon,C
+065/083,J,Sliggoo,Dragon,C
+066/083,J,Goodra,Dragon,U
+067/083,J,Tauros,Colorless,U
+068/083,J,Patrat,Colorless,C
+069/083,J,Watchog,Colorless,C
+070/083,J,Minccino,Colorless,C
+071/083,J,Cinccinoex,Colorless,RR
+072/083,J,Special Red Card,I,U
+073/083,J,Great Haul Net,I,U
+074/083,J,Transformation Tome,I,U
+075/083,J,AZ's Tranquility,Su,U
+076/083,J,Philippe,Su,U
+077/083,J,Roxie's Performance,Su,U
+078/083,J,Emma,Su,U
+079/083,J,Ange Floette,St,U
+080/083,J,Prism Tower,St,U
+081/083,J,Nitro Fire Energy,Fire E,R
+082/083,J,Bubbly Water Energy,Water E,R
+083/083,J,Magnetic Metal Energy,Metal E,R
+084/083,J,Chespin,Grass,AR
+085/083,J,Fennekin,Fire,AR
+086/083,J,Froakie,Water,AR
+087/083,J,Frogadier,Water,AR
+088/083,J,Ampharos,Lightning,AR
+089/083,J,Xerneas,Psychic,AR
+090/083,J,Claydol,Fighting,AR
+091/083,J,Crobat,Darkness,AR
+092/083,J,Metang,Metal,AR
+093/083,J,Sliggoo,Dragon,AR
+094/083,J,Tauros,Colorless,AR
+095/083,J,Watchog,Colorless,AR
+096/083,J,Beedrillex,Grass,SR
+097/083,J,Mega Pyroarex,Fire,SR
+098/083,J,Mega Greninjaex,Water,SR
+099/083,J,Mega Floetteex,Psychic,SR
+100/083,J,Gourgeistex,Psychic,SR
+101/083,J,Cobalionex,Metal,SR
+102/083,J,Mega Dragalgeex,Dragon,SR
+103/083,J,Cinccinoex,Colorless,SR
+104/083,I,Energy Retrieval,I,SR
+105/083,I,Jumbo Ice Cream,I,SR
+106/083,J,Special Red Card,I,SR
+107/083,I,Tool Scrapper,I,SR
+108/083,J,AZ's Tranquility,Su,SR
+109/083,J,Philippe,Su,SR
+110/083,J,Roxie's Performance,Su,SR
+111/083,J,Emma,Su,SR
+112/083,I,Surfing Beach,St,SR
+113/083,J,Prism Tower,St,SR
+114/083,J,Mega Greninjaex,Water,SAR
+115/083,J,Mega Floetteex,Psychic,SAR
+116/083,J,Mega Dragalgeex,Dragon,SAR
+117/083,J,Cinccinoex,Colorless,SAR
+118/083,J,AZ's Tranquility,Su,SAR
+119/083,J,Roxie's Performance,Su,SAR
+120/083,J,Mega Greninjaex,Water,MUR

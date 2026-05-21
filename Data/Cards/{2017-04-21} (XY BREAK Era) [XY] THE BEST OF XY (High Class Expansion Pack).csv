@@ -1,0 +1,189 @@
+No.,Card name,Type
+001/171,Oddish,Grass
+002/171,Gloom,Grass
+003/171,Vileplume,Grass
+004/171,Spinarak,Grass
+005/171,Ariados,Grass
+006/171,SceptileEX,Grass
+007/171,MegaSceptileEX,Grass
+008/171,Combee,Grass
+009/171,Vespiquen,Grass
+010/171,Flareon,Fire
+011/171,Entei,Fire
+012/171,CameruptEX,Fire
+013/171,MegaCameruptEX,Fire
+014/171,Volcanion,Fire
+015/171,VolcanionEX,FireWater
+016/171,Vaporeon,Water
+017/171,Articuno,Water
+018/171,Remoraid,Water
+019/171,Octillery,Water
+020/171,GlaceonEX,Water
+021/171,ManaphyEX,Water
+022/171,SeismitoadEX,Water
+023/171,White Kyurem,Water
+024/171,Froakie,Water
+025/171,Frogadier,Water
+026/171,Greninja,Water
+027/171,Greninja,Water
+028/171,GreninjaBREAK,Water
+029/171,Pikachu,Lightning
+030/171,Raichu,Lightning
+031/171,Jolteon,Lightning
+032/171,JolteonEX,Lightning
+033/171,Raikou,Lightning
+034/171,ManectricEX,Lightning
+035/171,MegaManectricEX,Lightning
+036/171,Joltik,Lightning
+037/171,Zubat,Psychic
+038/171,Golbat,Psychic
+039/171,Crobat,Psychic
+040/171,AlakazamEX,Psychic
+041/171,MegaAlakazamEX,Psychic
+042/171,MewtwoEX,Psychic
+043/171,MegaMewtwoEX,Psychic
+044/171,Mew,Psychic
+045/171,EspeonEX,Psychic
+046/171,Unown,Psychic
+047/171,Wobbuffet,Psychic
+048/171,Giratina,Psychic
+049/171,Trubbish,Psychic
+050/171,Garbodor,Psychic
+051/171,Litwick,Psychic
+052/171,Lampent,Psychic
+053/171,Phantump,Psychic
+054/171,Trevenant,Psychic
+055/171,TrevenantBREAK,Psychic
+056/171,Pumpkaboo,Psychic
+057/171,Hoopa,Psychic
+058/171,HoopaEX,Psychic
+059/171,Meditite,Fighting
+060/171,Medicham,Fighting
+061/171,RegirockEX,Fighting
+062/171,LucarioEX,Fighting
+063/171,MegaLucarioEX,Fighting
+064/171,Landorus,Fighting
+065/171,Carbink,Fighting
+066/171,Carbink,Fighting
+067/171,CarbinkBREAK,Fighting
+068/171,Zygarde,Fighting
+069/171,ZygardeEX,Fighting
+070/171,SharpedoEX,Darkness
+071/171,MegaSharpedoEX,Darkness
+072/171,DarkraiEX,Darkness
+073/171,Zorua,Darkness
+074/171,Zoroark,Darkness
+075/171,ZoroarkBREAK,Darkness
+076/171,MalamarEX,Darkness
+077/171,Yveltal,Darkness
+078/171,Yveltal,Darkness
+079/171,YveltalEX,Darkness
+080/171,Jirachi,Metal
+081/171,Bronzor,Metal
+082/171,Bronzong,Metal
+083/171,BronzongBREAK,Metal
+084/171,Heatran,Metal
+085/171,Cobalion,Metal
+086/171,GenesectEX,Metal
+087/171,AegislashEX,Metal
+088/171,Magearna,Metal
+089/171,MagearnaEX,Metal
+090/171,Mr. Mime,Fairy
+091/171,GardevoirEX,Fairy
+092/171,MegaGardevoirEX,FairyPsychic
+093/171,Spritzee,Fairy
+094/171,Aromatisse,Fairy
+095/171,Xerneas,Fairy
+096/171,Xerneas,Fairy
+097/171,XerneasBREAK,Fairy
+098/171,GiratinaEX,Dragon
+099/171,HydreigonEX,Dragon
+100/171,Eevee,Colorless
+101/171,Miltank,Colorless
+102/171,Lugia,Colorless
+103/171,LugiaEX,Colorless
+104/171,RayquazaEX,Colorless
+105/171,MegaRayquazaEX,Colorless
+106/171,ShayminEX,Colorless
+107/171,Bunnelby,Colorless
+108/171,Special Charge,I
+109/171,Target Whistle,I
+110/171,Acro Bike,I
+111/171,Dive Ball,I
+112/171,Puzzle of Time,I
+113/171,Trainers' Mail,I
+114/171,Battle Compressor,I
+115/171,VS Seeker,I
+116/171,Max Elixir,I
+117/171,Fairy Drop,I
+118/171,Heavy Ball,I
+119/171,Robo Substitute,I
+120/171,Mega Turbo,I
+121/171,Level Ball,I
+122/171,Hard Charm,I
+123/171,Focus Sash,I
+124/171,Bursting Balloon,I
+125/171,Muscle Band,I
+126/171,Fighting Fury Belt,I
+127/171,Power Memory,I
+128/171,Gardevoir Spirit Link,I
+129/171,Sharpedo Spirit Link,I
+130/171,Sceptile Spirit Link,I
+131/171,Camerupt Spirit Link,I
+132/171,Alakazam Spirit Link,I
+133/171,Mewtwo Spirit Link,I
+134/171,Manectric Spirit Link,I
+135/171,Lucario Spirit Link,I
+136/171,Rayquaza Spirit Link,I
+137/171,Brigette,Su
+138/171,AZ,Su
+139/171,N,Su
+140/171,Hex Maniac,Su
+141/171,Blacksmith,Su
+142/171,Karen,Su
+143/171,Xerosic,Su
+144/171,Korrina,Su
+145/171,Delinquent,Su
+146/171,Shauna,Su
+147/171,Teammates,Su
+148/171,Skyla,Su
+149/171,Professor Sycamore,Su
+150/171,Lysandre,Su
+151/171,Team Flare Grunt,Su
+152/171,Pokémon Ranger,Su
+153/171,Rough Seas,St
+154/171,Forest of Giant Plants,St
+155/171,Silent Lab,St
+156/171,Dimension Valley,St
+157/171,Scorched Earth,St
+158/171,Sky Field,St
+159/171,Parallel City,St
+160/171,Fairy Garden,St
+161/171,Reverse Valley,St
+162/171,Herbal Energy,Grass E
+163/171,Burning Energy,Fire E
+164/171,Splash Energy,Water E
+165/171,Flash Energy,Lightning E
+166/171,Mystery Energy,Psychic E
+167/171,Strong Energy,Fighting E
+168/171,Dangerous Energy,Darkness E
+169/171,Shield Energy,Metal E
+170/171,Wonder Energy,Fairy E
+171/171,Double Dragon Energy,Dragon E
+172/171,MegaCameruptEX,Fire
+173/171,JolteonEX,Lightning
+174/171,MegaManectricEX,Lightning
+175/171,RegirockEX,Fighting
+176/171,MegaLucarioEX,Fighting
+177/171,ZygardeEX,Fighting
+178/171,MegaSharpedoEX,Darkness
+179/171,AegislashEX,Metal
+180/171,N,Su
+181/171,Hex Maniac,Su
+182/171,Blacksmith,Su
+183/171,Karen,Su
+184/171,Delinquent,Su
+185/171,Shauna,Su
+186/171,Team Flare Grunt,Su
+187/171,YveltalEX,Darkness
+188/171,ShayminEX,Colorless

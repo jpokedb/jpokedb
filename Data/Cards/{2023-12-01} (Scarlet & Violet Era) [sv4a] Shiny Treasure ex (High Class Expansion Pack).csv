@@ -1,0 +1,361 @@
+No.,Mark,Card name,Type,Rarity
+001/190,G,Oddish,Grass,—
+002/190,G,Gloom,Grass,—
+003/190,G,Vileplume,Grass,—
+004/190,G,Scyther,Grass,—
+005/190,G,Hoppip,Grass,—
+006/190,G,Skiploom,Grass,—
+007/190,G,Jumpluff,Grass,—
+008/190,G,Pineco,Grass,—
+009/190,G,Forretressex,Grass,RR
+010/190,G,Snover,Grass,—
+011/190,G,Abomasnow,Grass,—
+012/190,G,Sprigatito,Grass,—
+013/190,G,Floragato,Grass,—
+014/190,G,Meowscaradaex,Grass,RR
+015/190,G,Smoliv,Grass,—
+016/190,G,Dolliv,Grass,—
+017/190,G,Arboliva,Grass,—
+018/190,G,Toedscool,Grass,—
+019/190,G,Toedscruelex,Grass,RR
+020/190,G,Capsakid,Grass,—
+021/190,G,Scovillain,Grass,—
+022/190,G,Rellor,Grass,—
+023/190,G,Espathraex,Grass,RR
+024/190,G,Wo-Chienex,Grass,RR
+025/190,G,Charmander,Fire,—
+026/190,G,Charmeleon,Fire,—
+027/190,G,Paldean Tauros,Fire,—
+028/190,G,Entei,Fire,—
+029/190,G,Oricorio,Fire,—
+030/190,G,Fuecoco,Fire,—
+031/190,G,Crocalor,Fire,—
+032/190,G,Skeledirgeex,Fire,RR
+033/190,G,Charcadet,Fire,—
+034/190,G,Armarouge,Fire,—
+035/190,G,Chi-Yuex,Fire,RR
+036/190,G,Slowpoke,Water,—
+037/190,G,Slowbro,Water,—
+038/190,G,Staryu,Water,—
+039/190,G,Starmie,Water,—
+040/190,G,Paldean Tauros,Water,—
+041/190,G,Quaxly,Water,—
+042/190,G,Quaxwell,Water,—
+043/190,G,Quaquavalex,Water,RR
+044/190,G,Wiglett,Water,—
+045/190,G,Wugtrio,Water,—
+046/190,G,Finizen,Water,—
+047/190,G,Palafin,Water,—
+048/190,G,Veluza,Water,—
+049/190,G,Dondozo,Water,—
+050/190,G,Tatsugiri,Water,—
+051/190,G,Frigibax,Water,—
+052/190,G,Arctibax,Water,—
+053/190,G,Baxcalibur,Water,—
+054/190,G,Chien-Paoex,Water,RR
+055/190,G,Pikachu,Lightning,—
+056/190,G,Raichu,Lightning,—
+057/190,G,Voltorb,Lightning,—
+058/190,G,Electrode,Lightning,—
+059/190,G,Shinx,Lightning,—
+060/190,G,Luxio,Lightning,—
+061/190,G,Luxray,Lightning,—
+062/190,G,Pachirisu,Lightning,—
+063/190,G,Thundurus,Lightning,—
+064/190,G,Toxel,Lightning,—
+065/190,G,Toxtricity,Lightning,—
+066/190,G,Pawmi,Lightning,—
+067/190,G,Pawmo,Lightning,—
+068/190,G,Pawmot,Lightning,—
+069/190,G,Wattrel,Lightning,—
+070/190,G,Kilowattrel,Lightning,—
+071/190,G,Miraidonex,Lightning,RR
+072/190,G,Wigglytuff,Psychic,—
+073/190,G,Abra,Psychic,—
+074/190,G,Kadabra,Psychic,—
+075/190,G,Alakazamex,Psychic,RR
+076/190,G,Mewex,Psychic,RR
+077/190,G,Cleffa,Psychic,—
+078/190,G,Natu,Psychic,—
+079/190,G,Xatu,Psychic,—
+080/190,G,Ralts,Psychic,—
+081/190,G,Kirlia,Psychic,—
+082/190,G,Gardevoirex,Psychic,RR
+083/190,G,Drifloon,Psychic,—
+084/190,G,Drifblim,Psychic,—
+085/190,G,Mime Jr.,Psychic,—
+086/190,G,Spiritomb,Psychic,—
+087/190,G,Klefki,Psychic,—
+088/190,G,Mimikyu,Psychic,—
+089/190,G,Fidough,Psychic,—
+090/190,G,Dachsbun,Psychic,—
+091/190,G,Ceruledge,Psychic,—
+092/190,G,Rabsca,Psychic,—
+093/190,G,Flittle,Psychic,—
+094/190,G,Tinkatink,Psychic,—
+095/190,G,Tinkatuff,Psychic,—
+096/190,G,Tinkaton,Psychic,—
+097/190,G,Greavard,Psychic,—
+098/190,G,Houndstone,Psychic,—
+099/190,G,Gimmighoul,Psychic,—
+100/190,G,Mankey,Fighting,—
+101/190,G,Primeape,Fighting,—
+102/190,G,Annihilape,Fighting,—
+103/190,G,Paldean Tauros,Fighting,—
+104/190,G,Riolu,Fighting,—
+105/190,G,Lucario,Fighting,—
+106/190,G,Hawlucha,Fighting,—
+107/190,G,Nacli,Fighting,—
+108/190,G,Naclstack,Fighting,—
+109/190,G,Garganacl,Fighting,—
+110/190,G,Glimmet,Fighting,—
+111/190,G,Glimmoraex,Fighting,RR
+112/190,G,Great Tuskex,Fighting,RR
+113/190,G,Ting-Luex,Fighting,RR
+114/190,G,Koraidonex,Fighting,RR
+115/190,G,Charizardex,Darkness,RR
+116/190,G,Paldean Wooper,Darkness,—
+117/190,G,Paldean Clodsireex,Darkness,RR
+118/190,G,Murkrow,Darkness,—
+119/190,G,Sneasel,Darkness,—
+120/190,G,Weavile,Darkness,—
+121/190,G,Sableye,Darkness,—
+122/190,G,Pawniard,Darkness,—
+123/190,G,Bisharp,Darkness,—
+124/190,G,Kingambit,Darkness,—
+125/190,G,Maschiff,Darkness,—
+126/190,G,Mabosstiff,Darkness,—
+127/190,G,Shroodle,Darkness,—
+128/190,G,Grafaiai,Darkness,—
+129/190,G,Scizor,Metal,—
+130/190,G,Varoom,Metal,—
+131/190,G,Revavroom,Metal,—
+132/190,G,Iron Treadsex,Metal,RR
+133/190,G,Gholdengo,Metal,—
+134/190,G,Noibat,Dragon,—
+135/190,G,Noivernex,Dragon,RR
+136/190,G,Cyclizar,Dragon,—
+137/190,G,Pidgey,Colorless,—
+138/190,G,Pidgeotto,Colorless,—
+139/190,G,Pidgeotex,Colorless,RR
+140/190,G,Jigglypuff,Colorless,—
+141/190,G,Wigglytuffex,Colorless,RR
+142/190,G,Doduo,Colorless,—
+143/190,G,Dodrio,Colorless,—
+144/190,G,Ditto,Colorless,—
+145/190,G,Snorlax,Colorless,—
+146/190,G,Wingull,Colorless,—
+147/190,G,Pelipper,Colorless,—
+148/190,G,Skwovet,Colorless,—
+149/190,G,Greedent,Colorless,—
+150/190,G,Lechonk,Colorless,—
+151/190,G,Oinkologne,Colorless,—
+152/190,G,Tandemaus,Colorless,—
+153/190,G,Maushold,Colorless,—
+154/190,G,Squawkabillyex,Colorless,RR
+155/190,G,Flamigo,Colorless,—
+156/190,G,Electric Generator,I,—
+157/190,G,Superior Energy Retrieval,I,—
+158/190,G,Super Rod,I,—
+159/190,G,Nest Ball,I,—
+160/190,G,Nemona's Backpack,I,—
+161/190,G,Ultra Ball,I,—
+162/190,G,Letter of Encouragement,I,—
+163/190,G,Rare Candy,I,—
+164/190,G,Rock Chestplate,PT,—
+165/190,G,Big Air Balloon,PT,—
+166/190,G,Rigid Band,PT,—
+167/190,G,Leftovers,PT,—
+168/190,G,Defiance Band,PT,—
+169/190,G,Bravery Charm,PT,—
+170/190,G,Technical Machine: Crisis Punch,PT,—
+171/190,G,Geeta,Su,—
+172/190,G,Clavell,Su,—
+173/190,G,Giovanni's Charisma,Su,—
+174/190,G,Iono,Su,—
+175/190,G,Clive,Su,—
+176/190,G,Professor's Research [Professor Sada],Su,—
+177/190,G,Professor's Research [Professor Turo],Su,—
+178/190,G,Paldean Student,Su,—
+179/190,G,Paldean Student,Su,—
+180/190,G,Arven,Su,—
+181/190,G,Boss's Orders [Ghetsis],Su,—
+182/190,G,Penny,Su,—
+183/190,G,Town Store,St,—
+184/190,G,Beach Court,St,—
+185/190,G,Artazon,St,—
+186/190,G,Pokémon League Headquarters,St,—
+187/190,G,Practice Studio,St,—
+188/190,G,Therapeutic Energy,Colorless E,—
+189/190,G,Reversal Energy,Rainbow E,—
+190/190,G,Luminous Energy,Rainbow E,—
+191/190,G,Oddish,Grass,S
+192/190,G,Gloom,Grass,S
+193/190,G,Vileplume,Grass,S
+194/190,G,Scyther,Grass,S
+195/190,G,Hoppip,Grass,S
+196/190,G,Skiploom,Grass,S
+197/190,G,Jumpluff,Grass,S
+198/190,G,Pineco,Grass,S
+199/190,G,Snover,Grass,S
+200/190,G,Abomasnow,Grass,S
+201/190,G,Sprigatito,Grass,S
+202/190,G,Floragato,Grass,S
+203/190,G,Smoliv,Grass,S
+204/190,G,Dolliv,Grass,S
+205/190,G,Arboliva,Grass,S
+206/190,G,Toedscool,Grass,S
+207/190,G,Capsakid,Grass,S
+208/190,G,Scovillain,Grass,S
+209/190,G,Rellor,Grass,S
+210/190,G,Charmander,Fire,S
+211/190,G,Charmeleon,Fire,S
+212/190,G,Paldean Tauros,Fire,S
+213/190,G,Entei,Fire,S
+214/190,G,Oricorio,Fire,S
+215/190,G,Fuecoco,Fire,S
+216/190,G,Crocalor,Fire,S
+217/190,G,Charcadet,Fire,S
+218/190,G,Armarouge,Fire,S
+219/190,G,Slowpoke,Water,S
+220/190,G,Slowbro,Water,S
+221/190,G,Staryu,Water,S
+222/190,G,Starmie,Water,S
+223/190,G,Paldean Tauros,Water,S
+224/190,G,Quaxly,Water,S
+225/190,G,Quaxwell,Water,S
+226/190,G,Wiglett,Water,S
+227/190,G,Wugtrio,Water,S
+228/190,G,Finizen,Water,S
+229/190,G,Palafin,Water,S
+230/190,G,Veluza,Water,S
+231/190,G,Dondozo,Water,S
+232/190,G,Tatsugiri,Water,S
+233/190,G,Frigibax,Water,S
+234/190,G,Arctibax,Water,S
+235/190,G,Baxcalibur,Water,S
+236/190,G,Pikachu,Lightning,S
+237/190,G,Raichu,Lightning,S
+238/190,G,Voltorb,Lightning,S
+239/190,G,Electrode,Lightning,S
+240/190,G,Shinx,Lightning,S
+241/190,G,Luxio,Lightning,S
+242/190,G,Luxray,Lightning,S
+243/190,G,Pachirisu,Lightning,S
+244/190,G,Thundurus,Lightning,S
+245/190,G,Toxel,Lightning,S
+246/190,G,Toxtricity,Lightning,S
+247/190,G,Pawmi,Lightning,S
+248/190,G,Pawmo,Lightning,S
+249/190,G,Pawmot,Lightning,S
+250/190,G,Wattrel,Lightning,S
+251/190,G,Kilowattrel,Lightning,S
+252/190,G,Wigglytuff,Psychic,S
+253/190,G,Abra,Psychic,S
+254/190,G,Kadabra,Psychic,S
+255/190,G,Cleffa,Psychic,S
+256/190,G,Natu,Psychic,S
+257/190,G,Xatu,Psychic,S
+258/190,G,Ralts,Psychic,S
+259/190,G,Kirlia,Psychic,S
+260/190,G,Drifloon,Psychic,S
+261/190,G,Drifblim,Psychic,S
+262/190,G,Mime Jr.,Psychic,S
+263/190,G,Spiritomb,Psychic,S
+264/190,G,Klefki,Psychic,S
+265/190,G,Mimikyu,Psychic,S
+266/190,G,Fidough,Psychic,S
+267/190,G,Dachsbun,Psychic,S
+268/190,G,Ceruledge,Psychic,S
+269/190,G,Rabsca,Psychic,S
+270/190,G,Flittle,Psychic,S
+271/190,G,Tinkatink,Psychic,S
+272/190,G,Tinkatuff,Psychic,S
+273/190,G,Tinkaton,Psychic,S
+274/190,G,Greavard,Psychic,S
+275/190,G,Houndstone,Psychic,S
+276/190,G,Mankey,Fighting,S
+277/190,G,Primeape,Fighting,S
+278/190,G,Annihilape,Fighting,S
+279/190,G,Paldean Tauros,Fighting,S
+280/190,G,Riolu,Fighting,S
+281/190,G,Lucario,Fighting,S
+282/190,G,Hawlucha,Fighting,S
+283/190,G,Nacli,Fighting,S
+284/190,G,Naclstack,Fighting,S
+285/190,G,Garganacl,Fighting,S
+286/190,G,Glimmet,Fighting,S
+287/190,G,Paldean Wooper,Darkness,S
+288/190,G,Murkrow,Darkness,S
+289/190,G,Sneasel,Darkness,S
+290/190,G,Weavile,Darkness,S
+291/190,G,Sableye,Darkness,S
+292/190,G,Pawniard,Darkness,S
+293/190,G,Bisharp,Darkness,S
+294/190,G,Kingambit,Darkness,S
+295/190,G,Maschiff,Darkness,S
+296/190,G,Mabosstiff,Darkness,S
+297/190,G,Shroodle,Darkness,S
+298/190,G,Grafaiai,Darkness,S
+299/190,G,Scizor,Metal,S
+300/190,G,Varoom,Metal,S
+301/190,G,Revavroom,Metal,S
+302/190,G,Noibat,Dragon,S
+303/190,G,Cyclizar,Dragon,S
+304/190,G,Pidgey,Colorless,S
+305/190,G,Pidgeotto,Colorless,S
+306/190,G,Jigglypuff,Colorless,S
+307/190,G,Doduo,Colorless,S
+308/190,G,Dodrio,Colorless,S
+309/190,G,Ditto,Colorless,S
+310/190,G,Snorlax,Colorless,S
+311/190,G,Wingull,Colorless,S
+312/190,G,Pelipper,Colorless,S
+313/190,G,Skwovet,Colorless,S
+314/190,G,Greedent,Colorless,S
+315/190,G,Lechonk,Colorless,S
+316/190,G,Oinkologne,Colorless,S
+317/190,G,Tandemaus,Colorless,S
+318/190,G,Maushold,Colorless,S
+319/190,G,Flamigo,Colorless,S
+320/190,G,Forretressex,Grass,SSR
+321/190,G,Meowscaradaex,Grass,SSR
+322/190,G,Toedscruelex,Grass,SSR
+323/190,G,Espathraex,Grass,SSR
+324/190,G,Skeledirgeex,Fire,SSR
+325/190,G,Quaquavalex,Water,SSR
+326/190,G,Alakazamex,Psychic,SSR
+327/190,G,Mewex,Psychic,SSR
+328/190,G,Gardevoirex,Psychic,SSR
+329/190,G,Glimmoraex,Fighting,SSR
+330/190,G,Great Tuskex,Fighting,SSR
+331/190,G,Charizardex,Darkness,SSR
+332/190,G,Paldean Clodsireex,Darkness,SSR
+333/190,G,Iron Treadsex,Metal,SSR
+334/190,G,Noivernex,Dragon,SSR
+335/190,G,Pidgeotex,Colorless,SSR
+336/190,G,Wigglytuffex,Colorless,SSR
+337/190,G,Squawkabillyex,Colorless,SSR
+338/190,G,Wugtrio,Water,AR
+339/190,G,Palafin,Water,AR
+340/190,G,Pawmi,Lightning,AR
+341/190,G,Mimikyu,Psychic,AR
+342/190,G,Judge,Su,SR
+343/190,G,Nemona,Su,SR
+344/190,G,Clive,Su,SR
+345/190,G,Paldean Student,Su,SR
+346/190,G,Paldean Student,Su,SR
+347/190,G,Mewex,Psychic,SAR
+348/190,G,Gardevoirex,Psychic,SAR
+349/190,G,Charizardex,Darkness,SAR
+350/190,G,Iono,Su,SAR
+351/190,G,Nemona,Su,SAR
+352/190,G,Clive,Su,SAR
+353/190,G,Arven,Su,SAR
+354/190,G,Penny,Su,SAR
+355/190,G,Wo-Chienex,Grass,UR
+356/190,G,Chi-Yuex,Fire,UR
+357/190,G,Chien-Paoex,Water,UR
+358/190,G,Miraidonex,Lightning,UR
+359/190,G,Ting-Luex,Fighting,UR
+360/190,G,Koraidonex,Fighting,UR

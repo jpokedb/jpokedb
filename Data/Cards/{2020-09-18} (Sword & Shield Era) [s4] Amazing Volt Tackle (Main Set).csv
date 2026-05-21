@@ -1,0 +1,122 @@
+No.,Mark,Card name,Type,Rarity
+001/100,D,Seedot,Grass,C
+002/100,D,Nuzleaf,Grass,C
+003/100,D,Shiftry,Grass,U
+004/100,D,Nincada,Grass,C
+005/100,D,Ninjask,Grass,U
+006/100,D,Skiddo,Grass,C
+007/100,D,Gogoat,Grass,C
+008/100,D,OrbeetleV,Grass,RR
+009/100,D,OrbeetleVMAX,Grass,RRR
+010/100,D,Charmander,Fire,C
+011/100,D,Charmeleon,Fire,U
+012/100,D,Charizard,Fire,R
+013/100,D,Flareon,Fire,U
+014/100,D,Slugma,Fire,C
+015/100,D,Magcargo,Fire,C
+016/100,D,TalonflameV,Fire,RR
+017/100,D,Vaporeon,Water,U
+018/100,D,Wailmer,Water,C
+019/100,D,Wailord,Water,R
+020/100,D,Oshawott,Water,C
+021/100,D,Dewott,Water,C
+022/100,D,Samurott,Water,U
+023/100,D,Galarian DarmanitanV,Water,RR
+024/100,D,Galarian DarmanitanVMAX,Water,RRR
+025/100,D,Chewtle,Water,C
+026/100,D,Drednaw,Water,U
+027/100,D,Cramorant,Water,C
+028/100,D,Arrokuda,Water,C
+029/100,D,Barraskewda,Water,U
+030/100,D,PikachuV,Lightning,RR
+031/100,D,PikachuVMAX,Lightning,RRR
+032/100,D,Voltorb,Lightning,C
+033/100,D,Electrode,Lightning,R
+034/100,D,Jolteon,Lightning,U
+035/100,D,Zapdos,Lightning,R
+036/100,D,Blitzle,Lightning,C
+037/100,D,Zebstrika,Lightning,C
+038/100,D,Tynamo,Lightning,C
+039/100,D,Eelektrik,Lightning,C
+040/100,D,Eelektross,Lightning,U
+041/100,D,AlakazamV,Psychic,RR
+042/100,D,Shedinja,Psychic,U
+043/100,D,Duskull,Psychic,C
+044/100,D,Dusclops,Psychic,U
+045/100,D,Dusknoir,Psychic,R
+046/100,D,Chimecho,Psychic,C
+047/100,D,Woobat,Psychic,C
+048/100,D,Swoobat,Psychic,U
+049/100,D,Cottonee,Psychic,C
+050/100,D,Whimsicott,Psychic,U
+051/100,D,Milcery,Psychic,C
+052/100,D,Alcremie,Psychic,U
+053/100,D,Machop,Fighting,C
+054/100,D,Machoke,Fighting,U
+055/100,D,Machamp,Fighting,R
+056/100,D,Phanpy,Fighting,C
+057/100,D,Donphan,Fighting,U
+058/100,D,Hitmontop,Fighting,C
+059/100,D,Drilbur,Fighting,C
+060/100,D,Terrakion,Fighting,R
+061/100,D,Mudbray,Fighting,C
+062/100,D,Mudsdale,Fighting,U
+063/100,D,Clobbopus,Fighting,C
+064/100,D,Grapploct,Fighting,U
+065/100,D,Galarian Sirfetch'dV,Fighting,RR
+066/100,D,Poochyena,Darkness,C
+067/100,D,Mightyena,Darkness,C
+068/100,D,Sableye,Darkness,C
+069/100,D,DrapionV,Darkness,RR
+070/100,D,Sandile,Darkness,C
+071/100,D,Krokorok,Darkness,C
+072/100,D,Krookodile,Darkness,U
+073/100,D,Trubbish,Darkness,C
+074/100,D,Garbodor,Darkness,U
+075/100,D,Galarian Meowth,Metal,C
+076/100,D,Galarian Perrserker,Metal,U
+077/100,D,Excadrill,Metal,C
+078/100,D,Ferroseed,Metal,C
+079/100,D,Ferrothorn,Metal,U
+080/100,D,AegislashV,Metal,RR
+081/100,D,AegislashVMAX,Metal,RRR
+082/100,D,Duraludon,Metal,R
+083/100,D,Eevee,Colorless,C
+084/100,D,Snorlax,Colorless,R
+085/100,D,Taillow,Colorless,C
+086/100,D,Swellow,Colorless,C
+087/100,D,Whismur,Colorless,C
+088/100,D,Loudred,Colorless,C
+089/100,D,Exploud,Colorless,U
+090/100,D,Drone Rotom,I,U
+091/100,D,Telescopic Sight,I,U
+092/100,D,Memory Capsule,I,U
+093/100,D,Bea,Su,U
+094/100,D,Leon,Su,R
+095/100,D,League Staff,Su,U
+096/100,D,Nessa,Su,U
+097/100,D,Circhester Bath,St,U
+098/100,D,Wyndon Stadium,St,U
+099/100,D,Wash Water Energy,Water E,U
+100/100,D,Coating Metal Energy,Metal E,U
+101/100,D,OrbeetleV,Grass,SR
+102/100,D,TalonflameV,Fire,SR
+103/100,D,Galarian DarmanitanV,Water,SR
+104/100,D,PikachuV,Lightning,SR
+105/100,D,AlakazamV,Psychic,SR
+106/100,D,Galarian Sirfetch'dV,Fighting,SR
+107/100,D,DrapionV,Darkness,SR
+108/100,D,AegislashV,Metal,SR
+109/100,D,Bea,Su,SR
+110/100,D,Leon,Su,SR
+111/100,D,Nessa,Su,SR
+112/100,D,OrbeetleVMAX,Grass,HR
+113/100,D,Galarian DarmanitanVMAX,Water,HR
+114/100,D,PikachuVMAX,Lightning,HR
+115/100,D,AegislashVMAX,Metal,HR
+116/100,D,Bea,Su,HR
+117/100,D,Leon,Su,HR
+118/100,D,Nessa,Su,HR
+119/100,D,Galarian Obstagoon,Darkness,UR
+120/100,D,Telescopic Sight,I,UR
+121/100,D,Memory Capsule,I,UR
