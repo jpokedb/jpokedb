@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Explore</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Hanken+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#f4efe6;
+    --paper-2:#ece5d8;
+    --ink:#1a1714;
+    --ink-soft:#5b5347;
+    --line:#d8cfbe;
+    --rust:#bd5436;
+    --rust-deep:#9c4126;
+  }
+
+  *{margin:0;padding:0;box-sizing:border-box;}
+
+  html{scroll-behavior:smooth;}
+
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"Hanken Grotesk",sans-serif;
+    -webkit-font-smoothing:antialiased;
+    line-height:1.5;
+    /* subtle paper grain */
+    background-image:
+      radial-gradient(circle at 20% 10%, rgba(189,84,54,.04), transparent 40%),
+      radial-gradient(circle at 85% 80%, rgba(26,23,20,.04), transparent 45%);
+  }
+
+  /* ---------- HEADER ---------- */
+  header{
+    position:sticky;
+    top:0;
+    z-index:50;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:2rem;
+    padding:1.1rem clamp(1.25rem,4vw,3.5rem);
+    background:rgba(244,239,230,.82);
+    backdrop-filter:blur(12px);
+    border-bottom:1px solid var(--line);
+  }
+
+  nav ul{
+    display:flex;
+    align-items:center;
+    gap:.4rem;
+    list-style:none;
+    flex-wrap:wrap;
+  }
+
+  nav a{
+    display:inline-block;
+    text-decoration:none;
+    color:var(--ink-soft);
+    font-size:.82rem;
+    font-weight:500;
+    letter-spacing:.14em;
+    text-transform:uppercase;
+    padding:.45rem .85rem;
+    border-radius:999px;
+    transition:color .25s ease,background .25s ease;
+  }
+
+  nav a:hover{color:var(--ink);background:var(--paper-2);}
+
+  nav a.active{
+    color:var(--paper);
+    background:var(--ink);
+  }
+  nav a.active:hover{background:var(--ink);}
+
+  /* ---------- SEARCH ---------- */
+  .search{
+    position:relative;
+    flex:0 1 320px;
+    min-width:180px;
+  }
+
+  .search svg{
+    position:absolute;
+    left:.95rem;
+    top:50%;
+    transform:translateY(-50%);
+    width:16px;height:16px;
+    stroke:var(--ink-soft);
+    pointer-events:none;
+  }
+
+  .search input{
+    width:100%;
+    font-family:inherit;
+    font-size:.9rem;
+    color:var(--ink);
+    background:var(--paper-2);
+    border:1px solid transparent;
+    border-radius:999px;
+    padding:.62rem 1rem .62rem 2.5rem;
+    transition:border-color .25s ease,background .25s ease,box-shadow .25s ease;
+  }
+  .search input::placeholder{color:var(--ink-soft);}
+  .search input:focus{
+    outline:none;
+    background:#fff;
+    border-color:var(--rust);
+    box-shadow:0 0 0 3px rgba(189,84,54,.12);
+  }
+
+  /* ---------- HERO ---------- */
+  .hero{
+    padding:clamp(3.5rem,9vw,7rem) clamp(1.25rem,4vw,3.5rem) clamp(2rem,5vw,4rem);
+    max-width:1280px;
+    margin:0 auto;
+  }
+
+  .eyebrow{
+    font-size:.78rem;
+    letter-spacing:.24em;
+    text-transform:uppercase;
+    color:var(--rust);
+    font-weight:600;
+    margin-bottom:1.4rem;
+  }
+
+  .hero h1{
+    font-family:"Fraunces",serif;
+    font-weight:400;
+    font-size:clamp(2.8rem,8vw,6rem);
+    line-height:1.02;
+    letter-spacing:-.015em;
+    max-width:14ch;
+  }
+  .hero h1 em{
+    font-style:italic;
+    color:var(--rust-deep);
+  }
+
+  .hero p{
+    margin-top:1.6rem;
+    max-width:46ch;
+    font-size:1.05rem;
+    color:var(--ink-soft);
+  }
+
+  /* ---------- FEATURE STRIP ---------- */
+  .strip{
+    max-width:1280px;
+    margin:0 auto;
+    padding:0 clamp(1.25rem,4vw,3.5rem);
+    display:flex;
+    align-items:baseline;
+    justify-content:space-between;
+    gap:1rem;
+    border-top:1px solid var(--line);
+    padding-top:2.2rem;
+  }
+  .strip h2{
+    font-family:"Fraunces",serif;
+    font-weight:500;
+    font-size:1.6rem;
+  }
+  .strip a{
+    color:var(--ink);
+    text-decoration:none;
+    font-size:.82rem;
+    letter-spacing:.12em;
+    text-transform:uppercase;
+    font-weight:600;
+    border-bottom:2px solid var(--rust);
+    padding-bottom:.2rem;
+    white-space:nowrap;
+    transition:color .2s ease;
+  }
+  .strip a:hover{color:var(--rust);}
+
+  /* ---------- GRID ---------- */
+  .grid{
+    max-width:1280px;
+    margin:2rem auto clamp(3rem,7vw,6rem);
+    padding:0 clamp(1.25rem,4vw,3.5rem);
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
+    gap:1.6rem;
+  }
+
+  .card{
+    cursor:pointer;
+    border-radius:14px;
+    overflow:hidden;
+    background:var(--paper-2);
+    border:1px solid var(--line);
+    transition:transform .35s cubic-bezier(.2,.8,.2,1),box-shadow .35s ease;
+  }
+  .card:hover{
+    transform:translateY(-6px);
+    box-shadow:0 18px 40px -22px rgba(26,23,20,.5);
+  }
+
+  .thumb{
+    height:200px;
+    position:relative;
+    overflow:hidden;
+  }
+  .thumb::after{
+    content:"";
+    position:absolute;inset:0;
+    background:linear-gradient(120deg,rgba(255,255,255,.18),transparent 60%);
+  }
+  .t1{background:linear-gradient(135deg,#c7693f,#7d2f1c);}
+  .t2{background:linear-gradient(135deg,#3b4a3a,#1f2b21);}
+  .t3{background:linear-gradient(135deg,#d8b06a,#9a6b2c);}
+  .t4{background:linear-gradient(135deg,#5d6b86,#2c3850);}
+  .t5{background:linear-gradient(135deg,#b8567a,#6e2944);}
+  .t6{background:linear-gradient(135deg,#6a7d6e,#3a4d3f);}
+
+  .card-body{padding:1.1rem 1.25rem 1.4rem;}
+  .card-body .kind{
+    font-size:.72rem;
+    letter-spacing:.16em;
+    text-transform:uppercase;
+    color:var(--rust);
+    font-weight:600;
+  }
+  .card-body h3{
+    font-family:"Fraunces",serif;
+    font-weight:500;
+    font-size:1.25rem;
+    margin:.4rem 0 .3rem;
+  }
+  .card-body span{font-size:.85rem;color:var(--ink-soft);}
+
+  /* ---------- FOOTER ---------- */
+  footer{
+    border-top:1px solid var(--line);
+    padding:2rem clamp(1.25rem,4vw,3.5rem);
+    text-align:center;
+    color:var(--ink-soft);
+    font-size:.82rem;
+    letter-spacing:.04em;
+  }
+
+  /* ---------- LOAD ANIMATION ---------- */
+  .reveal{
+    opacity:0;
+    transform:translateY(16px);
+    animation:rise .7s cubic-bezier(.2,.8,.2,1) forwards;
+  }
+  @keyframes rise{to{opacity:1;transform:none;}}
+
+  @media (max-width:640px){
+    header{flex-wrap:wrap;}
+    .search{flex:1 1 100%;order:3;}
+  }
+</style>
+</head>
+<body>
+
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html" class="active">Explore</a></li>
+        <li><a href="#">Sets</a></li>
+        <li><a href="#">Shop</a></li>
+        <li><a href="#">Portfolio</a></li>
+      </ul>
+    </nav>
+
+    <div class="search">
+      <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="7"></circle>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+      </svg>
+      <input type="search" placeholder="Search sets, prints, artists…" aria-label="Search">
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <p class="eyebrow reveal" style="animation-delay:.05s">Now exploring</p>
+      <h1 class="reveal" style="animation-delay:.12s">A living archive of <em>curated</em> visual work.</h1>
+      <p class="reveal" style="animation-delay:.2s">Browse hand-picked sets, discover new makers, and collect prints from a slow, considered catalogue. Start anywhere — everything here is meant to be wandered through.</p>
+    </section>
+
+    <div class="strip reveal" style="animation-delay:.28s">
+      <h2>Featured sets</h2>
+      <a href="#">View all sets</a>
+    </div>
+
+    <section class="grid">
+      <article class="card reveal" style="animation-delay:.34s">
+        <div class="thumb t1"></div>
+        <div class="card-body">
+          <p class="kind">Set · 24 pieces</p>
+          <h3>Warm Terrain</h3>
+          <span>Desert light & long shadows</span>
+        </div>
+      </article>
+
+      <article class="card reveal" style="animation-delay:.4s">
+        <div class="thumb t2"></div>
+        <div class="card-body">
+          <p class="kind">Set · 18 pieces</p>
+          <h3>Quiet Forests</h3>
+          <span>Studies in green and fog</span>
+        </div>
+      </article>
+
+      <article class="card reveal" style="animation-delay:.46s">
+        <div class="thumb t3"></div>
+        <div class="card-body">
+          <p class="kind">Set · 31 pieces</p>
+          <h3>Golden Hour</h3>
+          <span>The last forty minutes of sun</span>
+        </div>
+      </article>
+
+      <article class="card reveal" style="animation-delay:.52s">
+        <div class="thumb t4"></div>
+        <div class="card-body">
+          <p class="kind">Set · 12 pieces</p>
+          <h3>Coastal Blues</h3>
+          <span>Tide, salt, and slow water</span>
+        </div>
+      </article>
+
+      <article class="card reveal" style="animation-delay:.58s">
+        <div class="thumb t5"></div>
+        <div class="card-body">
+          <p class="kind">Set · 27 pieces</p>
+          <h3>City After Dark</h3>
+          <span>Neon, rain, and reflections</span>
+        </div>
+      </article>
+
+      <article class="card reveal" style="animation-delay:.64s">
+        <div class="thumb t6"></div>
+        <div class="card-body">
+          <p class="kind">Set · 20 pieces</p>
+          <h3>Field Notes</h3>
+          <span>Botanical close studies</span>
+        </div>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    © 2026 — Explore. A curated catalogue.
+  </footer>
+
+</body>
+</html>

@@ -1,0 +1,103 @@
+card_number,card_name,type,rarity,artist,level,hp,species
+No. 001,Bulbasaur,Grass,Common,Mitsuhiro Arita,13,40,Bulbasaur
+No. 010,Caterpie,Grass,Common,Ken Sugimori,13,40,Caterpie
+No. 011,Metapod,Grass,Common,Ken Sugimori,21,70,Metapod
+No. 013,Weedle,Grass,Common,Mitsuhiro Arita,12,40,Weedle
+No. 032,Nidoran♂,Grass,Common,Ken Sugimori,20,40,Nidoran♂
+No. 109,Koffing,Grass,Common,Mitsuhiro Arita,13,50,Koffing
+No. 114,Tangela,Grass,Common,Mitsuhiro Arita,8,50,Tangela
+No. 002,Ivysaur,Grass,Uncommon,Ken Sugimori,20,60,Ivysaur
+No. 014,Kakuna,Grass,Uncommon,Keiji Kinebuchi,23,80,Kakuna
+No. 033,Nidorino,Grass,Uncommon,Mitsuhiro Arita,25,60,Nidorino
+No. 003,Venusaur,Grass,Rare Holo,Mitsuhiro Arita,67,100,Venusaur
+No. 015,Beedrill,Grass,Rare,Ken Sugimori,32,80,Beedrill
+No. 034,Nidoking,Grass,Rare Holo,Ken Sugimori,48,90,Nidoking
+No. 004,Charmander,Fire,Common,Mitsuhiro Arita,10,50,Charmander
+No. 037,Vulpix,Fire,Common,Ken Sugimori,11,50,Vulpix
+No. 077,Ponyta,Fire,Common,Ken Sugimori,10,40,Ponyta
+No. 005,Charmeleon,Fire,Uncommon,Mitsuhiro Arita,32,80,Charmeleon
+No. 058,Growlithe,Fire,Uncommon,Ken Sugimori,18,60,Growlithe
+No. 059,Arcanine,Fire,Uncommon,Ken Sugimori,45,100,Arcanine
+No. 126,Magmar,Fire,Uncommon,Ken Sugimori,24,50,Magmar
+No. 006,Charizard,Fire,Rare Holo,Mitsuhiro Arita,76,120,Charizard
+No. 038,Ninetales,Fire,Rare Holo,Ken Sugimori,32,80,Ninetales
+No. 007,Squirtle,Water,Common,Mitsuhiro Arita,8,40,Squirtle
+No. 060,Poliwag,Water,Common,Ken Sugimori,13,40,Poliwag
+No. 120,Staryu,Water,Common,Keiji Kinebuchi,15,40,Staryu
+No. 121,Starmie,Water,Common,Keiji Kinebuchi,28,60,Starmie
+No. 008,Wartortle,Water,Uncommon,Ken Sugimori,22,70,Wartortle
+No. 061,Poliwhirl,Water,Uncommon,Ken Sugimori,28,60,Poliwhirl
+No. 086,Seel,Water,Uncommon,Ken Sugimori,12,60,Seel
+No. 087,Dewgong,Water,Uncommon,Mitsuhiro Arita,42,80,Dewgong
+No. 129,Magikarp,Water,Uncommon,Mitsuhiro Arita,8,30,Magikarp
+No. 009,Blastoise,Water,Rare Holo,Ken Sugimori,52,100,Blastoise
+No. 062,Poliwrath,Water,Rare Holo,Ken Sugimori,48,90,Poliwrath
+No. 130,Gyarados,Water,Rare Holo,Ken Sugimori,41,100,Gyarados
+No. 025,Pikachu,Lightning,Common,Mitsuhiro Arita,12,40,Pikachu
+No. 081,Magnemite,Lightning,Common,Keiji Kinebuchi,13,40,Magnemite
+No. 100,Voltorb,Lightning,Common,Keiji Kinebuchi,10,40,Voltorb
+No. 026,Raichu,Lightning,Rare Holo,Ken Sugimori,40,80,Raichu
+No. 082,Magneton,Lightning,Rare Holo,Keiji Kinebuchi,28,60,Magneton
+No. 101,Electrode,Lightning,Rare,Keiji Kinebuchi,40,80,Electrode
+No. 125,Electabuzz,Lightning,Rare,Ken Sugimori,35,70,Electabuzz
+No. 145,Zapdos,Lightning,Rare Holo,Ken Sugimori,64,90,Zapdos
+No. 063,Abra,Psychic,Common,Mitsuhiro Arita,10,30,Abra
+No. 092,Gastly,Psychic,Common,Keiji Kinebuchi,8,30,Gastly
+No. 096,Drowzee,Psychic,Common,Ken Sugimori,12,50,Drowzee
+No. 064,Kadabra,Psychic,Uncommon,Ken Sugimori,38,60,Kadabra
+No. 093,Haunter,Psychic,Uncommon,Keiji Kinebuchi,22,60,Haunter
+No. 124,Jynx,Psychic,Uncommon,Ken Sugimori,23,70,Jynx
+No. 065,Alakazam,Psychic,Rare Holo,Ken Sugimori,42,80,Alakazam
+No. 150,Mewtwo,Psychic,Rare Holo,Ken Sugimori,53,60,Mewtwo
+No. 027,Sandshrew,Fighting,Common,Ken Sugimori,12,40,Sandshrew
+No. 050,Diglett,Fighting,Common,Keiji Kinebuchi,8,30,Diglett
+No. 066,Machop,Fighting,Common,Mitsuhiro Arita,20,50,Machop
+No. 095,Onix,Fighting,Common,Ken Sugimori,12,90,Onix
+No. 067,Machoke,Fighting,Uncommon,Ken Sugimori,40,80,Machoke
+No. 051,Dugtrio,Fighting,Rare,Keiji Kinebuchi,36,70,Dugtrio
+No. 068,Machamp,Fighting,Rare Holo,Ken Sugimori,67,100,Machamp
+No. 107,Hitmonchan,Fighting,Rare Holo,Ken Sugimori,33,70,Hitmonchan
+No. 016,Pidgey,Colorless,Common,Ken Sugimori,8,40,Pidgey
+No. 019,Rattata,Colorless,Common,Mitsuhiro Arita,9,30,Rattata
+No. 084,Doduo,Colorless,Common,Mitsuhiro Arita,10,50,Doduo
+No. 020,Raticate,Colorless,Uncommon,Ken Sugimori,41,60,Raticate
+No. 083,Farfetch'd,Colorless,Uncommon,Ken Sugimori,20,50,Farfetch'd
+No. 137,Porygon,Colorless,Uncommon,Tomoaki Imakuni,12,30,Porygon
+No. 147,Dratini,Colorless,Uncommon,Ken Sugimori,10,40,Dratini
+No. 017,Pidgeotto,Colorless,Rare,Ken Sugimori,36,60,Pidgeotto
+No. 035,Clefairy,Colorless,Rare Holo,Ken Sugimori,14,40,Clefairy
+No. 113,Chansey,Colorless,Rare Holo,Ken Sugimori,55,120,Chansey
+No. 148,Dragonair,Colorless,Rare,Mitsuhiro Arita,33,80,Dragonair
+—,Energy Removal,T,Common,Keiji Kinebuchi,—,—,—
+—,Potion,T,Common,Keiji Kinebuchi,—,—,—
+—,Gust of Wind,T,Common,Keiji Kinebuchi,—,—,—
+—,Switch,T,Common,Keiji Kinebuchi,—,—,—
+—,Bill,T,Common,Ken Sugimori,—,—,—
+—,Super Potion,T,Uncommon,Keiji Kinebuchi,—,—,—
+—,Energy Retrieval,T,Uncommon,Keiji Kinebuchi,—,—,—
+—,Professor Oak,T,Uncommon,Ken Sugimori,—,—,—
+—,Revive,T,Uncommon,Keiji Kinebuchi,—,—,—
+—,Defender,T,Uncommon,Keiji Kinebuchi,—,—,—
+—,Full Heal,T,Uncommon,Keiji Kinebuchi,—,—,—
+—,PlusPower,T,Uncommon,Keiji Kinebuchi,—,—,—
+—,Pokédex,T,Uncommon,Keiji Kinebuchi,—,—,—
+—,Pokémon Center,T,Uncommon,Keiji Kinebuchi,—,—,—
+—,Pokémon Flute,T,Uncommon,Keiji Kinebuchi,—,—,—
+—,Maintenance,T,Uncommon,Keiji Kinebuchi,—,—,—
+—,Devolution Spray,T,Rare,Keiji Kinebuchi,—,—,—
+—,Item Finder,T,Rare,Keiji Kinebuchi,—,—,—
+—,Super Energy Removal,T,Rare,Keiji Kinebuchi,—,—,—
+—,Impostor Professor Oak,T,Rare,Ken Sugimori,—,—,—
+—,Computer Search,T,Rare,Keiji Kinebuchi,—,—,—
+—,Clefairy Doll,T,Rare,Keiji Kinebuchi,—,10,—
+—,Scoop Up,T,Rare,Keiji Kinebuchi,—,—,—
+—,Pokémon Trader,T,Rare,Ken Sugimori,—,—,—
+—,Pokémon Breeder,T,Rare,Ken Sugimori,—,—,—
+—,Lass,T,Rare,Ken Sugimori,—,—,—
+—,Double Colorless Energy,Colorless E,Uncommon,—,—,—,—
+—,Grass Energy,Grass E,—,—,—,—,—
+—,Fire Energy,Fire E,—,—,—,—,—
+—,Water Energy,Water E,—,—,—,—,—
+—,Lightning Energy,Lightning E,—,—,—,—,—
+—,Psychic Energy,Psychic E,—,—,—,—,—
+—,Fighting Energy,Fighting E,—,—,—,—,—
